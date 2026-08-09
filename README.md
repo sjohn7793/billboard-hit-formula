@@ -28,12 +28,13 @@ To say anything about what makes a #1 *different* from just "a hit," we compare 
 - **Recording identity**: [MusicBrainz](https://musicbrainz.org/) — free public API, used to resolve each song to a canonical recording ID.
 - **Key / tempo (primary)**: [AcousticBrainz](https://acousticbrainz.org/) bulk dataset dump — real audio-analysis-derived features (via Essentia), frozen since 2022. Covers ~25% of our matched songs.
 - **Key / tempo (supplementary)**: [GetSongBPM](https://getsongbpm.com/api) — fills gaps AcousticBrainz doesn't cover. Crowd-reported, not audio-derived, so treated as lower-confidence and always flagged by source in the data.
+- **Lyrics (derived stats only)**: [Genius](https://genius.com) song pages, scraped directly. **This is a deliberate, informed exception to normal practice**: Genius's official API doesn't serve lyric text at all, and the only free legal alternative (Musixmatch) caps free-tier access at ~30% previews — not enough for reliable word count, rhyme, or repetition stats. The project owner explicitly chose to scrape Genius for personal, non-commercial research use, understanding this violates Genius's Terms of Service even though raw text is never stored. Raw lyric text lives in a local variable only for the milliseconds it takes to compute stats on it (`src/phase3_lyrics_stats.py`), then is discarded — never written to disk, logged, or included in any output. Because Genius hosts non-song content (book excerpts, movie scripts, fan translations, parodies, karaoke covers) under the same schema as songs, every match is validated against a title-similarity threshold before being accepted — an earlier unvalidated version wrongly matched ~13% of songs to unrelated content, caught by a word-count outlier of 148,648 for what should have been a ~300-word song.
 
 ## Status
 
 - [x] Phase 1: Foundation dataset — 1,201 #1s, 1958–present
 - [x] Phase 2: Musical features (key, scale, tempo) — 857/1,194 unique songs covered (72%): 272 from AcousticBrainz (audio-derived, trusted primary), 585 from GetSongBPM (crowd-reported, backfill only). Every row records its `key_source`. Chord progressions and song structure remain deferred — no clean bulk/legal source found (see Phase 2 research notes in project history).
-- [ ] Phase 3: Lyrical features
+- [x] Phase 3: Lyrical features — 1,075/1,194 songs (90%) with word count, unique-word ratio, repetition, readability, per-line sentiment, and adjacent-line rhyme density. Known limitation: lexicon-based sentiment can't detect thematic irony (e.g. "shake off the haters" scores net-negative despite the song's upbeat theme, because it contains the word "hate" repeated) — treat sentiment scores as a measure of word-level charge, not overall song mood.
 - [ ] Phase 4: Statistical analysis
 - [ ] Phase 5: Living pipeline
 

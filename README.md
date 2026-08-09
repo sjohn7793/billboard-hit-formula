@@ -22,10 +22,17 @@ To say anything about what makes a #1 *different* from just "a hit," we compare 
 - Any API keys go in a local `.env` file (git-ignored), never committed.
 - Every derived dataset file should note its source and fetch date.
 
+## Data sources & attribution
+
+- **Chart history**: [Wikipedia](https://en.wikipedia.org/wiki/Category:Lists_of_Billboard_Hot_100_number-one_songs) — per-decade "List of Billboard Hot 100 number-one singles" pages.
+- **Recording identity**: [MusicBrainz](https://musicbrainz.org/) — free public API, used to resolve each song to a canonical recording ID.
+- **Key / tempo (primary)**: [AcousticBrainz](https://acousticbrainz.org/) bulk dataset dump — real audio-analysis-derived features (via Essentia), frozen since 2022. Covers ~25% of our matched songs.
+- **Key / tempo (supplementary)**: [GetSongBPM](https://getsongbpm.com/api) — fills gaps AcousticBrainz doesn't cover. Crowd-reported, not audio-derived, so treated as lower-confidence and always flagged by source in the data.
+
 ## Status
 
-- [x] Phase 1: Foundation dataset
-- [ ] Phase 2: Musical features
+- [x] Phase 1: Foundation dataset — 1,201 #1s, 1958–present
+- [ ] Phase 2: Musical features — in progress (MusicBrainz matching: 1,100/1,194; AcousticBrainz key/tempo: 272/1,100; GetSongBPM backfill pending)
 - [ ] Phase 3: Lyrical features
 - [ ] Phase 4: Statistical analysis
 - [ ] Phase 5: Living pipeline

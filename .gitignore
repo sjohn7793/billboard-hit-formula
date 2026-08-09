@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
+
+# Large third-party bulk dumps -- reproducible via src/phase2b, not versioned
+data/raw/acousticbrainz/
+

@@ -1,0 +1,1195 @@
+artist,song,mbid,key,scale,bpm_median,key_source,time_sig,danceability_getsongbpm,acousticness_getsongbpm,getsongbpm_matched_title,getsongbpm_matched_artist
+Ricky Nelson,Poor Little Fool,9100379e-eaa8-4c7b-9118-4713d193a9a7,C,major,154.0,getsongbpm,4/4,55.0,66.0,Poor Little Fool,Ricky Nelson
+Domenico Modugno,Volare (Nel blu dipinto di blu),aa350cd8-1a5a-4762-86d2-76ec4d8d9c2b,,,,,,,,,
+The Elegants,Little Star,cc568cc0-d644-471a-94eb-bbc20c9180d2,,,,,,,,,
+Tommy Edwards,It's All in the Game,8879608d-c561-4deb-83e2-8c990f73a3cd,,,,,,,,,
+Conway Twitty,It's Only Make Believe,404df484-de27-44ff-85e2-95516d1428cd,B,major,115.0,getsongbpm,3/4,57.0,78.0,It's Only Make Believe,Conway Twitty
+The Kingston Trio,Tom Dooley,c23e903c-08fb-4472-a978-819f40adc9ac,E,major,125.0,getsongbpm,4/4,64.0,87.0,Tom Dooley,The Kingston Trio
+The Teddy Bears,To Know Him Is to Love Him,27106042-e533-4f0d-8bb7-1d2e7a653ec3,,,,,,,,,
+The Chipmunks with David Seville,The Chipmunk Song (Christmas Don't Be Late),,,,,,,,,,
+The Platters,Smoke Gets in Your Eyes,dadccacc-09a9-4fa2-bc96-2e1a2a9e6a5d,D#,major,171.0,getsongbpm,3/4,21.0,92.0,Smoke Gets In Your Eyes,The Platters
+Lloyd Price,Stagger Lee,6f7b0d16-36ee-4fa4-892e-73465c805fcd,D#,major,70.0,getsongbpm,4/4,37.0,74.0,Stagger Lee,Lloyd Price
+Frankie Avalon,Venus,51fdd293-05fe-40ac-b2a6-53b203cd32f9,A#,major,112.0,getsongbpm,4/4,57.0,55.0,Venus,Frankie Avalon
+The Fleetwoods,Come Softly to Me,3f04c7d6-6490-49b2-b8d8-6f386aaed2cb,C#,major,122.0,getsongbpm,4/4,61.0,93.0,Come Softly to Me,The Fleetwoods
+"Dave ""Baby"" Cortez",The Happy Organ,005ab162-2bb0-460a-a1db-c25eda3780de,,,,,,,,,
+Wilbert Harrison,Kansas City,74b407e9-0f3b-495a-afe6-166cca079c67,C#,major,116.251716614,acousticbrainz,,,,,
+Johnny Horton,The Battle of New Orleans,1d87e01e-dd1a-4fde-a55a-7316e21b4d63,A,major,177.0,getsongbpm,4/4,71.0,81.0,The Battle of New Orleans,Johnny Horton
+Paul Anka,Lonely Boy,09180be1-4793-45eb-b909-a716c04a838b,C,major,106.0,getsongbpm,3/4,63.0,36.0,Lonely Boy,Paul Anka
+Elvis Presley,A Big Hunk o' Love,13ebefba-cf13-41e6-b877-855bddfe6ea4,,,,,,,,,
+The Browns,The Three Bells,a879b5a4-b4ed-417c-abde-2dfd13b9ea49,G,major,106.0,getsongbpm,4/4,46.0,83.0,The Three Bells,The Browns
+Santo & Johnny,Sleep Walk,54a9718e-c7f9-44d6-a8f0-6c9b48394a95,A#,minor,47.0,getsongbpm,3/4,78.0,76.0,Sleep Walk,Santo & Johnny
+Bobby Darin,Mack the Knife,b7a5a882-a973-40e5-b1c9-b29aba521748,D#,minor,82.0,getsongbpm,4/4,55.0,76.0,Mack the Knife,Bobby Darin
+The Fleetwoods,Mr. Blue,094a6f79-28e5-4806-90d7-8be82d64a1a4,E,major,96.0,getsongbpm,4/4,38.0,94.0,Mr. Blue,The Fleetwoods
+Guy Mitchell,Heartaches by the Number,1bbfa681-c98a-41c4-a2b4-8a642fc70ec9,,,,,,,,,
+Frankie Avalon,Why,90a6c51a-6fff-4d50-b038-ef66c3fba4bc,F,major,94.0,getsongbpm,4/4,51.0,77.0,Why,Frankie Avalon
+Marty Robbins,El Paso,f1b4b6eb-845f-407f-a7c6-355c5560c92d,D,major,108.0,getsongbpm,3/4,66.0,84.0,El Paso,Marty Robbins
+Johnny Preston,Running Bear,b98b19bc-d5ff-44df-ad56-d425a8e832c4,,,,,,,,,
+Mark Dinning,Teen Angel,4e392f86-8cf4-420c-9391-8ecf83b1a738,,,,,,,,,
+Percy Faith,Theme from 'A Summer Place',84d6188f-568a-44e0-87b5-f98be61dcb8e,D,major,120.0,getsongbpm,4/4,52.0,9.0,Summer Place '76 (Theme from 'A Summer Place'),Percy Faith
+Elvis Presley,Stuck on You,58846e5c-289c-4a3d-b98e-f00894abce52,C,major,133.131912231,acousticbrainz,,,,,
+The Everly Brothers,Cathy's Clown,77d03a7b-38c0-4f68-b3a8-5a7abf549110,G,major,119.0,getsongbpm,4/4,50.0,42.0,Cathy's Clown,The Everly Brothers
+Connie Francis,Everybody's Somebody's Fool,2e9f3686-b49f-46d5-aaf2-6d1bd8685aff,C#,major,84.0,getsongbpm,4/4,59.0,83.0,Everybody's Somebody's Fool,Connie Francis
+Hollywood Argyles,Alley-Oop,5ff4b456-9ad9-40b1-9c7d-ba155f470a9d,,,,,,,,,
+Brenda Lee,I'm Sorry,7a5c6be5-a84a-4335-a30c-ff2f21f65634,A#,major,103.0,getsongbpm,3/4,57.0,93.0,I'm Sorry,Brenda Lee
+Brian Hyland,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,32f11634-495f-49c1-bf3a-868d79a8b715,D,major,122.0,getsongbpm,4/4,80.0,69.0,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,Brian Hyland
+Elvis Presley,It's Now or Never,970294f9-1da6-4ce9-9e05-762d21ab7b6a,E,major,126.0,getsongbpm,4/4,65.0,65.0,It's Now or Never,Elvis Presley
+Chubby Checker,The Twist,3a61f9d0-571c-43d5-b21b-69e8189092d9,E,major,156.0,getsongbpm,4/4,54.0,21.0,The Twist,Chubby Checker
+Connie Francis,My Heart Has a Mind of Its Own,2298cf03-bbb2-420d-94eb-2f250a2f404b,F#,major,109.0,getsongbpm,4/4,50.0,72.0,My Heart Has a Mind of Its Own,Connie Francis
+Larry Verne,Mr. Custer,ec1852bc-b4c4-47e0-b597-ba2bb07e9918,,,,,,,,,
+The Drifters,Save the Last Dance for Me,b0697a4e-9bfd-4f9e-af7e-5e4c1f23bc2d,E,major,144.0,getsongbpm,4/4,54.0,62.0,Save the Last Dance for Me,The Drifters
+Brenda Lee,I Want to Be Wanted,e6cb94e5-8cf6-48bc-a388-796dd4f4b435,G,major,105.0,getsongbpm,3/4,55.0,76.0,I Want to Be Wanted,Brenda Lee
+Ray Charles,Georgia on My Mind,21eaad18-e873-45fa-b2c7-496bf4f5cc87,E,minor,147.0,getsongbpm,3/4,31.0,76.0,Georgia on My Mind,Ray Charles
+Maurice Williams and the Zodiacs,Stay,4a660261-2daa-4f04-9c68-451dfddb22a1,,,,,,,,,
+Elvis Presley,Are You Lonesome Tonight?,10724cec-3f73-45c1-93db-f9fc51a4eb2b,,,,,,,,,
+Bert Kaempfert,Wonderland by Night,61f45a0a-ac46-42ff-807e-2cd7208e6c9a,E,major,78.0,getsongbpm,4/4,26.0,89.0,Wonderland by Night,Bert Kaempfert
+The Shirelles,Will You Love Me Tomorrow,c4c1ce3e-7a92-4371-a920-f57e23609d75,C,major,137.0,getsongbpm,4/4,49.0,44.0,Will You Love Me Tomorrow,The Shirelles
+Lawrence Welk,Calcutta,3a420d64-dfc1-4b25-9fa0-bea98e52e9a4,,,,,,,,,
+Chubby Checker,Pony Time,11fa78bb-4076-4f63-9149-77b14bbdeee7,G#,major,77.0,getsongbpm,4/4,46.0,1.0,Pony Time,Chubby Checker
+Elvis Presley,Surrender,a7aa456b-9eef-4234-ab99-5b0a941a3689,,,,,,,,,
+The Marcels,Blue Moon,a1556e72-d1f2-4493-af1c-0175fcddc0a1,G,major,127.0,getsongbpm,4/4,63.0,69.0,Blue Moon,The Marcels
+Del Shannon,Runaway,3faffa73-8259-4c6c-9c1d-5b35067ebb1a,D,major,108.0,getsongbpm,4/4,62.0,58.0,Runaway '67,Del Shannon
+Ernie K-Doe,Mother-in-Law,21b4e3fc-2d8b-4f21-8696-9da652d462be,C,minor,129.416229248,acousticbrainz,,,,,
+Ricky Nelson,Travelin' Man,5664348e-5b70-4927-8dea-d5384cab0e27,D,major,123.041687012,acousticbrainz,,,,,
+Roy Orbison,Running Scared,46e72b6c-c0bf-49a5-9fa0-858954adf97d,A,major,128.0,getsongbpm,3/4,58.0,78.0,Running Scared,Roy Orbison
+Pat Boone,Moody River,cc0ab188-b287-4611-a3bf-b019b1cda994,,,,,,,,,
+Gary U.S. Bonds,Quarter to Three,51a5be29-3cf1-46cb-9b83-7c88e3e5de27,D#,minor,82.3990707397,acousticbrainz,,,,,
+Bobby Lewis,Tossin' and Turnin',7e5d5622-a27c-48d3-8d5f-8733cf4ff90e,C,major,143.565582275,acousticbrainz,,,,,
+Joe Dowell,Wooden Heart (Muss I Denn),50b281e4-3919-4288-8e0d-879aaa6f1f05,,,,,,,,,
+The Highwaymen,Michael,6aae120b-f39f-48ed-a193-2cd61f605c41,D,major,95.0,getsongbpm,4/4,60.0,81.0,Michael,The Highwaymen
+Bobby Vee,Take Good Care of My Baby,30a88386-e837-47d7-b829-0aeb8ebf92cf,F,major,163.323623657,acousticbrainz,,,,,
+Ray Charles,Hit the Road Jack,705602d6-1fb6-420d-9bad-35ae7a8874af,A#,minor,94.1471176147,acousticbrainz,,,,,
+Dion,Runaround Sue,800c7adf-2437-48f4-a0d4-76ed9d0f3b04,D,major,79.5853805542,acousticbrainz,,,,,
+Jimmy Dean,Big Bad John,54c5f0b6-58e9-43e3-aac8-596c9fa05ec2,G#,major,86.0,getsongbpm,4/4,52.0,60.0,Big Bad John,Jimmy Dean
+The Marvelettes,Please Mr. Postman,728a2fe7-dea7-4d98-9373-c74ecf6ed708,D,major,121.0,getsongbpm,4/4,79.0,73.0,Please Mr. Postman,The Marvelettes
+The Tokens,The Lion Sleeps Tonight,712f028e-8639-4fbc-aa70-306f3c7dcaf2,F,major,125.526290894,acousticbrainz,,,,,
+Joey Dee and the Starliters,Peppermint Twist,8f86827b-9e48-4001-8679-8b5a3792f278,,,,,,,,,
+Gene Chandler,Duke of Earl,0ef5cf2c-4efa-4297-b416-b58ccf04c579,F,major,99.0,getsongbpm,4/4,59.0,84.0,Duke of Earl,Gene Chandler
+Bruce Channel,Hey! Baby,49458b9c-6be5-4d4a-b452-e4b3f7f7d5cf,A,major,129.0,getsongbpm,4/4,60.0,25.0,Hey! Baby,Bruce Channel
+Connie Francis,Don't Break the Heart That Loves You,489dc749-4c92-4862-858c-3a170f1903f1,G,major,75.4972763062,acousticbrainz,,,,,
+Shelley Fabares,Johnny Angel,dfbc10fd-4702-494e-8f64-61fb8f9c3bda,C,major,108.0,getsongbpm,4/4,37.0,88.0,Johnny Angel,Shelley Fabares
+Elvis Presley,Good Luck Charm,b6163bec-ec44-4f96-ad08-affeab084ef9,,,,,,,,,
+The Shirelles,Soldier Boy,ea85309f-1fb4-4de2-bcbe-1b5f51480164,A#,major,97.0,getsongbpm,4/4,57.0,76.0,Soldier Boy,The Shirelles
+Mr. Acker Bilk,Stranger on the Shore,ee4eabda-04de-4268-bbf2-652cede06b15,,,,,,,,,
+Ray Charles,I Can't Stop Loving You,08097c13-4018-4fed-9d2d-cca368627495,F,major,79.7972106934,acousticbrainz,,,,,
+David Rose,The Stripper,0a99cfce-a316-473b-9f2d-f17d6042851e,C,major,94.0,getsongbpm,4/4,48.0,69.0,The Stripper,David Rose & His Orchestra
+Bobby Vinton,Roses Are Red (My Love),6e325a77-9800-4399-bbc8-8f41567523e6,F,major,102.0,getsongbpm,4/4,52.0,83.0,Roses Are Red (My Love),Bobby Vinton
+Neil Sedaka,Breaking Up Is Hard to Do,4c2fabe1-c96d-447e-a59c-4fc1365083c6,G#,minor,117.0,getsongbpm,4/4,75.0,85.0,Breaking Up Is Hard to Do,Neil Sedaka
+Little Eva,The Loco-Motion,bb784edf-b7d6-4df8-b2c6-f76c0af2e020,D#,major,129.0,getsongbpm,4/4,64.0,68.0,The Loco-Motion,Little Eva
+Tommy Roe,Sheila,1d58b5b8-bc3a-41a7-b102-1afea33618e4,A#,major,129.477432251,acousticbrainz,,,,,
+The Four Seasons,Sherry,6f732fa9-1847-4fd8-a013-3fc13f59deb5,G,major,117.0,getsongbpm,4/4,71.0,63.0,Sherry,The Four Seasons
+"Bobby ""Boris"" Pickett and the Crypt-Kickers",Monster Mash,ec05c963-c0ed-4741-a078-42f880d410c1,,,,,,,,,
+The Crystals,He's a Rebel,84d836bd-0f1f-4d0f-9faf-6e911ca0d76b,B,minor,99.0,getsongbpm,4/4,59.0,61.0,He's a Rebel,The Crystals
+The Four Seasons,Big Girls Don't Cry,fc9a60ea-3bfe-4d9d-bef4-59b359413a5b,G,major,130.0,getsongbpm,4/4,82.0,58.0,Big Girls Don't Cry,The Four Seasons
+The Tornados,Telstar,1363405b-756e-4fb9-afda-11aa228e55bf,A,major,145.0,getsongbpm,4/4,20.0,1.0,Telstar,The Tornados
+Steve Lawrence,Go Away Little Girl,373626be-c70c-4b2f-8f22-77f6cda18105,,,,,,,,,
+The Rooftop Singers,Walk Right In,25bb210e-23dc-4e5f-8930-0f074a0d85d3,D#,major,130.603591919,acousticbrainz,,,,,
+Paul & Paula,Hey Paula,3fc2ad77-2915-4c61-bf76-463a841b94fa,,,,,,,,,
+The Four Seasons,Walk Like A Man,8d7e12d1-b7e0-40a9-8e2c-553af46265be,D#,major,118.0,getsongbpm,4/4,70.0,57.0,Walk Like a Man,The Four Seasons
+Ruby & the Romantics,Our Day Will Come,997bf39c-74ea-4d45-b8e6-59d87a41be57,G#,major,92.0,getsongbpm,4/4,54.0,71.0,Our Day Will Come,Ruby & The Romantics
+The Chiffons,He's So Fine,d402d959-b5e3-444a-87a6-d6afa86886d8,G,major,72.0,getsongbpm,4/4,56.0,49.0,He's So Fine,The Chiffons
+Little Peggy March,I Will Follow Him,cf59aceb-e567-4e82-a34d-3d4b4d3d6704,,,,,,,,,
+Jimmy Soul,If You Wanna Be Happy,877dba2c-422b-43aa-bb40-af8b5ee134b7,A#,major,93.0,getsongbpm,4/4,68.0,70.0,If You Wanna Be Happy,Jimmy Soul
+Lesley Gore,It's My Party,df314ccf-6a9f-48f5-84c2-6b45ea793172,A,major,129.0,getsongbpm,4/4,70.0,35.0,It's My Party,Lesley Gore
+Kyu Sakamoto,Sukiyaki,062500d4-15af-420a-ac7d-1ca1c959499f,,,,,,,,,
+The Essex,Easier Said Than Done,b6faa977-5b94-437a-8ed8-019b36925b22,E,major,134.933273315,acousticbrainz,,,,,
+Jan and Dean,Surf City,5ae5d6d0-c7f9-42d8-9bdd-5c9b2890e786,,,,,,,,,
+The Tymes,So Much in Love,fb7fae30-8cff-4404-94f4-47944d57194a,D,major,77.814163208,acousticbrainz,,,,,
+Little Stevie Wonder,Fingertips,796848d3-4444-4102-ad40-b0a594ef9339,,,,,,,,,
+The Angels,My Boyfriend's Back,ab6e2a59-c5dc-4c1e-8e15-438c187203ef,D#,major,135.0,getsongbpm,4/4,69.0,63.0,My Boyfriend's Back,The Angels
+Bobby Vinton,Blue Velvet,880e1e24-adaa-4299-9f61-fbcc88f75f52,A#,major,81.0,getsongbpm,1/4,38.0,87.0,Blue Velvet,Bobby Vinton
+Jimmy Gilmer and the Fireballs,Sugar Shack,2cab24b8-54af-411d-b1d8-7bc7aba6f62c,,,,,,,,,
+Nino Tempo and April Stevens,Deep Purple,44c5dcc6-90df-4b4d-9d7f-b1ee0f75d6d5,,,,,,,,,
+Dale & Grace,I'm Leaving It Up to You,3dba1f57-f7b6-4d9a-a618-99bca72ed86c,F#,major,210.0,getsongbpm,3/4,23.0,81.0,I'm Leaving It Up To You,Dale & Grace
+The Singing Nun,Dominique,34f61869-d987-4c49-a2dc-e9646b7c18a5,G,major,134.947265625,acousticbrainz,,,,,
+Bobby Vinton,There! I've Said It Again,d7104226-856e-4a69-b837-90aa3f886c41,A,major,80.0,getsongbpm,4/4,26.0,78.0,There! I've Said It Again,Bobby Vinton
+The Beatles,I Want to Hold Your Hand,83f510ee-7873-4069-b6a2-39833302042b,F#,major,136.143707275,acousticbrainz,,,,,
+The Beatles,She Loves You,37dd49ba-3f7f-42c4-afcf-ea3c5a86d547,E,minor,152.0,getsongbpm,4/4,38.0,26.0,She Loves You,The Beatles
+The Beatles,Can't Buy Me Love,889ece0f-1748-4750-8e0c-e7eb263d979a,,,,,,,,,
+Louis Armstrong,"Hello, Dolly!",078f72b0-a1cd-4422-97ee-09ba72619318,C,major,155.0,getsongbpm,4/4,59.0,85.0,"Hello, Dolly!",Louis Armstrong
+Mary Wells,My Guy,aa874fb0-729c-49e0-b1d0-64e7a3d87253,A#,major,123.0,getsongbpm,4/4,70.0,56.0,My Guy,Mary Wells
+The Beatles,Love Me Do,03b1834f-977f-4314-bd55-5a1ba7da3445,C,major,144.503875732,acousticbrainz,,,,,
+The Dixie Cups,Chapel of Love,c81fcfc3-0bd2-4f2a-9ef8-dc102a1ef3c4,F#,minor,123.0,getsongbpm,4/4,54.0,40.0,Chapel of Love,The Dixie Cups
+Peter and Gordon,A World Without Love,4a0cab83-7f03-4c81-8a21-c8daa3ef3a13,,,,,,,,,
+The Beach Boys,I Get Around,7158c68b-8f26-4586-ab3f-62c7a92aab10,A#,major,144.0,getsongbpm,4/4,39.0,36.0,I Get Around,The Beach Boys
+The Four Seasons,Rag Doll,8b288d4a-7b62-4fff-9848-1c8371fc3ab6,C,major,118.0,getsongbpm,4/4,60.0,4.0,Rag Doll,The Four Seasons
+The Beatles,A Hard Day's Night,bceecf1a-9dc7-4549-b286-05b4e6f50972,,,,,,,,,
+Dean Martin,Everybody Loves Somebody,26af742f-a9ab-4561-bf86-6f040533b96f,D#,minor,80.0,getsongbpm,4/4,26.0,81.0,Everybody Loves Somebody,Dean Martin
+The Supremes,Where Did Our Love Go,2ef341c1-f673-47f5-8653-c15085b498fb,C,major,134.0,getsongbpm,4/4,56.0,75.0,Where Did Our Love Go,The Supremes
+The Animals,The House of the Rising Sun,a4e6d488-b090-4ce3-8fb1-d5e09969d85d,A,minor,116.0,getsongbpm,3/4,30.0,1.0,The House of the Rising Sun,The Animals
+Roy Orbison,"Oh, Pretty Woman",b87df761-0812-4d61-bd0d-0a5cfa49a6db,A,major,127.0,getsongbpm,4/4,61.0,73.0,"Oh, Pretty Woman",Roy Orbison
+Manfred Mann,Do Wah Diddy Diddy,f67be909-c3fc-49bc-b6ab-89351c4e1f10,E,major,125.0,getsongbpm,4/4,67.0,27.0,Do Wah Diddy Diddy,Manfred Mann
+The Supremes,Baby Love,0142462a-464b-44c8-8e77-5b9fca70be60,C,major,143.415756226,acousticbrainz,,,,,
+The Shangri-Las,Leader of the Pack,9f6049ef-cd67-469b-87dc-7e948d59c533,C#,major,120.0,getsongbpm,4/4,44.0,74.0,Leader of the Pack,The Shangri-Las
+Lorne Greene,Ringo,acef8db6-9437-4a14-a1e7-ffb8167be438,B,major,110.0,getsongbpm,4/4,57.0,87.0,Ringo,Lorne Greene
+Bobby Vinton,Mr. Lonely,64f6863e-08b9-44ac-b68e-9dd2ac8e53d4,A,minor,164.186569214,acousticbrainz,,,,,
+The Supremes,Come See About Me,439d497b-a2ea-4df8-854e-0d9fc4a314c6,G,major,126.0,getsongbpm,4/4,73.0,73.0,Come See About Me,The Supremes
+The Beatles,I Feel Fine,d3a3d0c4-f27d-4d81-961d-4a35e620f688,D,major,178.0,getsongbpm,4/4,57.0,10.0,I Feel Fine,The Beatles
+Petula Clark,Downtown,96ec8e37-43ec-4638-9e19-1f3b375bd9f6,E,major,118.0,getsongbpm,4/4,50.0,70.0,Downtown,Petula Clark
+The Righteous Brothers,You've Lost That Lovin' Feelin',e82a669a-0184-4968-b985-e16bbd93ee6b,C#,major,94.0,getsongbpm,4/4,39.0,51.0,You've Lost That Lovin' Feelin',The Righteous Brothers
+Gary Lewis & The Playboys,This Diamond Ring,43d01da6-af0a-4b58-854c-2d824d58b645,A#,minor,132.703094482,acousticbrainz,,,,,
+The Temptations,My Girl,74135a02-c041-4776-b277-fad1acf373c0,C,major,104.0,getsongbpm,4/4,58.0,63.0,My Girl,The Temptations
+The Beatles,Eight Days a Week,c2670f9a-8245-4816-a6d0-d377cd265711,A,major,136.0,getsongbpm,4/4,64.0,27.0,Eight Days a Week,The Beatles
+The Supremes,Stop! In the Name of Love,2dcbc39c-53f8-44fe-b72a-89117c48887a,C,major,114.0,getsongbpm,4/4,63.0,51.0,Stop! In the Name of Love,The Supremes
+Freddie and the Dreamers,I'm Telling You Now,e1f74a67-45ac-45ba-aa4c-539c23829fad,,,,,,,,,
+Wayne Fontana & The Mindbenders,Game of Love,e5bf0cac-506c-41f8-8ea7-1f2627e01396,,,,,,,,,
+Herman's Hermits,"Mrs. Brown, You've Got a Lovely Daughter",570ad14b-4cdc-4fd4-9b53-9deceb9105f2,,,,,,,,,
+The Beatles,Ticket to Ride,a4826a9e-300f-431e-a3f7-0f5467fff53c,,,,,,,,,
+The Beach Boys,Help Me Rhonda,3b785f4e-5a50-425b-8765-95fed92db0ed,C#,major,136.0,getsongbpm,4/4,55.0,32.0,Help Me Rhonda,The Beach Boys
+The Supremes,Back in My Arms Again,3811962a-f5f5-4b28-97ff-e98081ccf32b,F,major,123.0,getsongbpm,4/4,72.0,16.0,Back in My Arms Again,The Supremes
+Four Tops,"I Can't Help Myself (Sugar Pie, Honey Bunch)",5ed489de-ddd4-4eb0-8a11-dd3a492de63f,G,major,126.0,getsongbpm,4/4,69.0,21.0,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops
+The Byrds,Mr. Tambourine Man,9d3e7b03-11e4-4cee-8a7e-a4a2f74ec114,D,major,123.0,getsongbpm,4/4,46.0,52.0,Mr. Tambourine Man,The Byrds
+The Rolling Stones,(I Can't Get No) Satisfaction,98c369d8-fc53-433b-bd21-f6d6760599d0,D,major,136.0,getsongbpm,4/4,73.0,4.0,(I Can't Get No) Satisfaction,The Rolling Stones
+Herman's Hermits,"I'm Henry VIII, I Am",0d65f86b-de4f-4e15-ab44-a00519a74f86,,,,,,,,,
+Sonny & Cher,I Got You Babe,6d9ffc11-0e96-41c6-af29-aef310e7a353,F#,major,112.0,getsongbpm,3/4,63.0,25.0,I Got You Babe,Sonny & Cher
+The Beatles,Help!,81d1dd0c-a0e8-4a0b-8794-f08c130916db,,,,,,,,,
+Barry McGuire,Eve Of Destruction,2d492730-bf17-41ea-950f-af5572c0b90c,D,major,116.0,getsongbpm,4/4,59.0,36.0,Eve of Destruction,Barry McGuire
+The McCoys,Hang On Sloopy,c5ede020-c3ee-4ad6-9f03-a829986207e7,G,major,115.0,getsongbpm,4/4,77.0,17.0,Hang On Sloopy,The McCoys
+The Beatles,Yesterday,e3753213-99d3-4da1-a8c3-ffe3dcceb885,,,,,,,,,
+The Rolling Stones,Get Off of My Cloud,421e4618-3ccc-40b0-9ef4-984d0cc1d2bc,E,major,126.0,getsongbpm,4/4,58.0,3.0,Get Off of My Cloud,The Rolling Stones
+The Supremes,I Hear a Symphony,6ada3c2b-ad36-475c-8fb9-a3179697d6dc,A#,major,140.580581665,acousticbrainz,,,,,
+The Byrds,Turn! Turn! Turn! (To Everything There Is a Season),9715b286-d524-47f0-be5a-74d696027a6e,D,major,124.0,getsongbpm,4/4,46.0,14.0,Turn! Turn! Turn! (To Everything There Is a Season),The Byrds
+The Dave Clark Five,Over and Over,391ac58a-f700-46f7-b39f-9ac6c610d161,A#,major,148.643859863,acousticbrainz,,,,,
+Simon & Garfunkel,The Sound of Silence,3d550b61-77c5-4dc4-986b-3a06abeef6f6,D#,minor,108.0,getsongbpm,4/4,44.0,14.0,The Sound of Silence,Simon & Garfunkel
+The Beatles,We Can Work It Out,d1938d87-0d6f-4529-b11e-ce21b4b4e3fb,,,,,,,,,
+Petula Clark,My Love,30e382ba-f04c-432b-8b93-87dff13ae166,B,major,117.0,getsongbpm,4/4,48.0,78.0,There Goes My Love,Petula Clark
+Lou Christie,Lightnin' Strikes,46422460-a44e-4f24-8f5f-2c086e1d15b0,C,minor,127.802642822,acousticbrainz,,,,,
+Nancy Sinatra,These Boots Are Made for Walkin',422a32a8-42f8-4df0-8ac3-865b36ff1578,A,major,83.0,getsongbpm,4/4,74.0,49.0,These Boots Are Made for Walkin',Nancy Sinatra
+Barry Sadler,The Ballad of the Green Berets,864dc175-b318-4eba-812a-9b38917bd4dc,C,major,84.0,getsongbpm,4/4,72.0,79.0,The Ballad of the Green Berets,Barry Sadler
+The Righteous Brothers,(You're My) Soul And Inspiration,12746aa3-1df3-4527-9167-ec27f2d2ef6b,B,major,187.0,getsongbpm,4/4,17.0,79.0,(You're My) Soul And Inspiration,The Righteous Brothers
+The Young Rascals,Good Lovin',f22890bb-306d-4072-bef6-2bce44ba5e1a,D,major,98.3545837402,acousticbrainz,,,,,
+The Mamas & the Papas,"Monday, Monday",a6e700be-0f9b-4831-a6a7-6e7f9634f2ab,C#,major,109.0,getsongbpm,4/4,49.0,71.0,"Monday, Monday",The Mamas & the Papas
+Percy Sledge,When A Man Loves A Woman,5c0d515d-0300-4775-97aa-708f0f698228,C#,major,97.0,getsongbpm,3/4,52.0,13.0,When a Man Loves a Woman,Percy Sledge
+The Rolling Stones,Paint It Black,4775310d-88ab-4446-aad5-d10d34f239cf,D,major,164.405639648,acousticbrainz,,,,,
+The Beatles,Paperback Writer,78e56fc8-b1e3-47c4-8b01-e029b716d2a1,,,,,,,,,
+Frank Sinatra,Strangers In The Night,11ef4516-2019-4459-a766-ab937622b735,F,major,80.0,getsongbpm,4/4,23.0,64.0,Strangers in the Night,Frank Sinatra
+Tommy James and the Shondells,Hanky Panky,fd8d95e5-2419-49c3-bfd2-fa25138c3da5,D,major,126.09425354,acousticbrainz,,,,,
+The Troggs,Wild Thing,edafa19f-4d58-40a4-b18e-1e091bd8dbc8,A,major,103.0,getsongbpm,4/4,46.0,75.0,Wild Thing,The Troggs
+The Lovin' Spoonful,Summer in the City,891b1ed3-0c77-4d55-b168-626177e2fef0,A#,major,112.0,getsongbpm,4/4,43.0,6.0,Summer in the City,The Lovin' Spoonful
+Donovan,Sunshine Superman,c2d60ec0-7d7f-4d9b-a15a-8869dc9a2295,C#,major,129.0,getsongbpm,4/4,63.0,13.0,Sunshine Superman,Donovan
+The Supremes,You Can't Hurry Love,d05f97bd-090d-4da2-814c-cbabe5a12bad,A#,major,97.0,getsongbpm,4/4,62.0,77.0,You Can't Hurry Love,The Supremes
+The Association,Cherish,2fa96c95-cf33-4d9c-b00c-246b5862bb98,F,major,112.0,getsongbpm,4/4,50.0,73.0,Cherish,The Association
+Four Tops,Reach Out I'll Be There,6a1deece-9f8b-4482-96b1-af2c50aeba9a,D#,minor,119.0,getsongbpm,4/4,63.0,8.0,Reach Out I'll Be There,Four Tops
+? & the Mysterians,96 Tears,efb2aa27-ddfd-4478-ba3c-16c7309749e3,,,,,,,,,
+The Monkees,Last Train to Clarksville,692c48ca-f56b-4928-9e0f-13517f3ac7e8,C,major,99.0,getsongbpm,4/4,24.0,4.0,Last Train to Clarksville,The Monkees
+Johnny Rivers,Poor Side Of Town,165315c6-aa98-430f-acdb-659ba8ce6f52,F#,minor,103.0,getsongbpm,4/4,43.0,75.0,Poor Side of Town,Johnny Rivers
+The Supremes,You Keep Me Hangin' On,dbf1152e-24f6-47fc-af05-f82c91ab2e49,G#,minor,151.051208496,acousticbrainz,,,,,
+The New Vaudeville Band,Winchester Cathedral,43131b34-9515-4085-8727-0ec7f267b8bd,,,,,,,,,
+The Beach Boys,Good Vibrations,d6e63016-32d9-401a-a726-248ad03d87b4,A#,minor,133.0,getsongbpm,4/4,40.0,33.0,Good Vibrations,The Beach Boys
+The Monkees,I'm a Believer,4206842c-030a-4fc1-865b-f0d436eb5a4e,C,major,80.0,getsongbpm,4/4,53.0,71.0,I'm a Believer,The Monkees
+The Buckinghams,Kind of a Drag,c4eecaab-fb62-4839-8aeb-fbdba27923b7,G,major,136.0,getsongbpm,4/4,26.0,71.0,Kind of a Drag,The Buckinghams
+The Rolling Stones,Ruby Tuesday,cb56806e-92a9-454d-827a-86f2154a4cf6,C,major,104.0,getsongbpm,4/4,52.0,84.0,Ruby Tuesday,The Rolling Stones
+The Supremes,Love Is Here and Now You're Gone,8c5afa29-9cf5-45c4-b22b-c48657b1e3ff,D#,major,114.5236968995,acousticbrainz,,,,,
+The Beatles,Penny Lane,46da27a7-3dea-4f5a-b0c7-f24cafa7de73,B,minor,113.659332275,acousticbrainz,,,,,
+The Turtles,Happy Together,c0efd3e0-2824-4c62-bc0b-2ce77e3cbdf5,F#,minor,123.0,getsongbpm,4/4,59.0,56.0,Happy Together,The Turtles
+Nancy Sinatra and Frank Sinatra,Somethin' Stupid,e67f1fdf-67ac-495e-9ad1-fc2bf301c63b,E,major,103.767921448,acousticbrainz,,,,,
+The Supremes,The Happening,7f110ec3-da1b-47f1-aa4d-69483552d641,G,minor,86.11280822755,acousticbrainz,,,,,
+The Young Rascals,Groovin',8dd30650-ff13-44e8-ab66-6d4c8e92118b,A#,major,106.3981590275,acousticbrainz,,,,,
+Aretha Franklin,Respect,f31b7a87-f394-43be-9454-68531e0fd981,F,major,153.54524231,acousticbrainz,,,,,
+The Association,Windy,870065a1-ed37-44e1-804a-d63d70c958b4,F,major,136.0,getsongbpm,4/4,68.0,36.0,Windy,The Association
+The Doors,Light My Fire,8a642958-8995-4c0a-a42b-e25444a1cf76,D#,major,139.003570557,acousticbrainz,,,,,
+The Beatles,All You Need Is Love,61d61c88-b340-4af0-82ec-e04e93000c3a,,,,,,,,,
+Bobbie Gentry,Ode to Billie Joe,c7e9e139-21cc-4ff9-b195-f98ebe560e5d,G,major,120.0,getsongbpm,4/4,64.0,73.0,Ode to Billie Joe,Bobbie Gentry
+Box Tops,The Letter,b8173778-6554-4022-b4da-4ad15c82ca7a,A,minor,139.0,getsongbpm,4/4,64.0,26.0,The Letter,The Box Tops
+Lulu,To Sir With Love,561a3a01-3393-4a0e-ab92-d917f45a1af5,E,major,97.0,getsongbpm,4/4,55.0,37.0,To Sir With Love,Lulu
+Strawberry Alarm Clock,Incense and Peppermints,1b203cf8-09d0-460a-8045-01e1bb5ca5ab,E,major,132.0,getsongbpm,4/4,48.0,6.0,Incense and Peppermints,Strawberry Alarm Clock
+The Monkees,Daydream Believer,9130d7c3-4057-49d0-a43a-8e07b473e0a6,G,major,125.787208557,acousticbrainz,,,,,
+The Beatles,"Hello, Goodbye",fcca7878-3134-479d-8ac2-f4539a6134cd,,,,,,,,,
+John Fred & His Playboy Band,Judy in Disguise (With Glasses),4764d428-57ad-4ac9-bc6c-197fb7493132,,,,,,,,,
+The Lemon Pipers,Green Tambourine,09674d41-4a2c-4608-952c-a63048954eb4,G,major,111.0,getsongbpm,4/4,51.0,13.0,Green Tambourine,The Lemon Pipers
+Paul Mauriat,Love Is Blue,4235224a-3baf-4874-8bc2-36e3c55a5e14,G,major,104.0,getsongbpm,4/4,49.0,17.0,Love Is Blue,Paul Mauriat
+Otis Redding,(Sittin' On) The Dock of the Bay,8960b923-9a47-420e-bcae-cf3fc0cc1f99,D,major,103.0,getsongbpm,4/4,49.0,73.0,(Sittin' on) The Dock of the Bay,Otis Redding
+Bobby Goldsboro,Honey,aa034563-3a52-4fbd-88a1-12293341d6c7,G,major,93.0,getsongbpm,4/4,50.0,21.0,Honey,Bobby Goldsboro
+Archie Bell & the Drells,Tighten Up,a8b4e680-a499-4dbc-95cc-920b0c624f30,B,major,128.0,getsongbpm,4/4,76.0,1.0,"Tighten Up, Part 1",Archie Bell & The Drells
+Simon & Garfunkel,Mrs. Robinson,cdf59a99-e2d1-4dd6-91d7-2e70ee59ddd1,B,minor,91.5078582764,acousticbrainz,,,,,
+Herb Alpert,This Guy's in Love with You,89a45cc5-cd14-43f8-9ffe-cfc50a78492c,C#,major,83.0,getsongbpm,4/4,64.0,86.0,This Guy's in Love With You,Herb Alpert & The Tijuana Brass
+Hugh Masekela,Grazing in the Grass,81229be0-6eb4-4b99-bbee-9d13d2183629,F,major,109.9852371215,acousticbrainz,,,,,
+The Doors,"Hello, I Love You",d2a7267e-5859-442a-8461-3f620a42301c,D,minor,118.0167922975,acousticbrainz,,,,,
+The Rascals,People Got to Be Free,1c988b70-a268-4ed1-81ce-4e710d746f03,A#,major,126.0,getsongbpm,4/4,67.0,41.0,People Got to Be Free,The Rascals
+Jeannie C. Riley,Harper Valley P.T.A.,7974df6a-53d5-4061-a5bb-be632f6efd13,,,,,,,,,
+The Beatles,Hey Jude,03e4c323-ccf9-441e-99e6-3e1f652565b1,,,,,,,,,
+Diana Ross & the Supremes,Love Child,2b8157a7-4407-477a-bf2d-305552380236,A,minor,104.0,getsongbpm,4/4,59.0,26.0,Love Child,Diana Ross & The Supremes
+Marvin Gaye,I Heard It Through the Grapevine,77f751e4-4df8-437c-b840-76cef2e7ecbb,B,major,117.0,getsongbpm,4/4,74.0,26.0,I Heard It Through the Grapevine,Marvin Gaye
+Tommy James and the Shondells,Crimson and Clover,4db84f40-afbc-4da2-9594-ca71be2916ca,,,,,,,,,
+Sly and the Family Stone,Everyday People,2581f56a-f7b5-4696-83f0-4ac72f088935,G,major,131.515182495,acousticbrainz,,,,,
+Tommy Roe,Dizzy,d5f10cca-ed23-421c-8c67-5cb30f64f371,F#,major,99.0,getsongbpm,4/4,80.0,1.0,Dizzy,Tommy Roe
+The 5th Dimension,Aquarius/Let the Sunshine In,b8b8747e-d6c8-4cd9-9a9f-ef3ac5027a81,,,,,,,,,
+The Beatles with Billy Preston,Get Back,53affeb0-ef0a-4f2f-9210-7a3998cb0f1d,,,,,,,,,
+Henry Mancini,Love Theme from Romeo and Juliet,13db7030-11d6-4e06-80d7-9c21fd2caa61,A,minor,74.0,getsongbpm,4/4,36.0,96.0,Love Theme from Romeo and Juliet,Henry Mancini
+Zager and Evans,In the Year 2525,fd7bc4fd-db57-4dde-a52c-fe2417d5caa7,,,,,,,,,
+The Rolling Stones,Honky Tonk Women,4d786393-9890-4af3-8773-ffd8e3e52088,G,major,125.163246155,acousticbrainz,,,,,
+The Archies,"Sugar, Sugar",0ec9ab79-13b5-4596-9267-218e8f3ee60c,D,major,122.0,getsongbpm,4/4,74.0,47.0,"Sugar, Sugar",The Archies
+The Temptations,I Can't Get Next To You,cb035a5d-295b-4c5f-bd9e-9c114e60151f,F,minor,108.0,getsongbpm,4/4,69.0,57.0,I Can't Get Next to You,The Temptations
+Elvis Presley,Suspicious Minds,dc8525a1-f3f3-4ae2-84bd-b17d60e04f07,G,major,117.0,getsongbpm,4/4,49.0,5.0,Suspicious Minds,Elvis Presley
+The 5th Dimension,Wedding Bell Blues,db55b87c-54ae-4041-81a0-1cc7b9fef856,A,minor,117.0,getsongbpm,4/4,49.0,55.0,Wedding Bell Blues,The 5th Dimension
+The Beatles,"Come Together ""/"" Something",097990aa-a83e-49b3-87d1-23e7f5e4fcc0,,,,,,,,,
+Steam,Na Na Hey Hey Kiss Him Goodbye,63d888ec-8a33-4585-9042-be2412ced8a5,G,major,114.0,getsongbpm,4/4,64.0,2.0,Na Na Hey Hey Kiss Him Goodbye,Steam
+"Peter, Paul & Mary",Leaving on a Jet Plane,9fbb9f77-53cd-4044-8a2c-69fce712b289,A,major,132.3820724485,acousticbrainz,,,,,
+Diana Ross & the Supremes,Someday We'll Be Together,c8e6696b-beea-4dab-9fba-578fa1315561,C#,major,121.068962097,acousticbrainz,,,,,
+B. J. Thomas,Raindrops Keep Fallin' On My Head,,,,,,,,,,
+The Jackson 5,I Want You Back,11f235b3-5181-4110-b8ce-6826a90dd6cd,G#,major,103.0,getsongbpm,4/4,66.0,49.0,I Want You Back,The Jackson 5
+Shocking Blue,Venus,fd80f5af-de87-49f1-b8c6-af399ecfc2cf,B,minor,128.0,getsongbpm,4/4,70.0,47.0,Venus,Shocking Blue
+Sly & the Family Stone,"Thank You (Falettinme Be Mice Elf Agin) "" / "" Everybody Is a Star",292651ab-c606-4557-84d0-2d78e899361b,,,,,,,,,
+Simon & Garfunkel,Bridge Over Troubled Water,a16d7af9-8e09-48b5-abd7-e3325b448963,G,minor,154.940673828,acousticbrainz,,,,,
+The Beatles,Let It Be,d9b6e695-2b79-4732-97a4-b1b6c6b5bfdc,C,major,72.0,getsongbpm,4/4,45.0,64.0,Let It Be,The Beatles
+The Jackson 5,ABC,e20a42a4-db72-4333-b159-96abd067d9be,G#,major,93.0,getsongbpm,4/4,71.0,46.0,ABC,The Jackson 5
+The Guess Who,"American Woman "" / "" No Sugar Tonight",31a342c6-0967-4fa0-bd4e-1ce204c3249b,A#,major,97.61796951295,acousticbrainz,,,,,
+Ray Stevens,Everything Is Beautiful,65067f44-74f0-46a8-a1b6-7f6f2ecb79c6,F,major,112.351707458,acousticbrainz,,,,,
+The Beatles,"The Long and Winding Road "" / "" For You Blue",ea08d882-fd9b-4146-9d9c-13459d4aa6be,,,,,,,,,
+The Jackson 5,The Love You Save,bb627c67-174d-495a-be1d-2f38c4ff77ad,A,minor,113.0,getsongbpm,4/4,76.0,37.0,The Love You Save,The Jackson 5
+Three Dog Night,Mama Told Me (Not to Come),f16338f1-cca2-4f7b-8b77-da9bf2ab2608,G#,major,130.195121765,acousticbrainz,,,,,
+The Carpenters,(They Long to Be) Close to You,,,,,,,,,,
+Bread,Make It with You,8cee0fa6-273c-48d7-b195-3c30a493ccee,E,major,89.0943756104,acousticbrainz,,,,,
+Edwin Starr,War,63eb9d7d-ffcb-4c9f-82ab-591c6657e660,B,major,109.0,getsongbpm,4/4,60.0,7.0,War,Edwin Starr
+Diana Ross,Ain't No Mountain High Enough,11b5758e-71b2-4802-8ffc-cf59dfec13e3,G#,major,96.0,getsongbpm,4/4,42.0,41.0,Ain't No Mountain High Enough,Diana Ross
+Neil Diamond,Cracklin' Rosie,96398056-8b1b-4497-8ed3-fbcd631ffe77,C#,major,127.0,getsongbpm,4/4,57.0,36.0,Cracklin' Rosie,Neil Diamond
+The Jackson 5,I'll Be There,0d0acd95-9e65-4ed7-82ed-85ba7a49ad6e,F,major,93.0,getsongbpm,4/4,51.0,60.0,I'll Be There,The Jackson 5
+The Partridge Family,I Think I Love You,fdd69ce7-01e1-4b0d-9874-9a60f8cd2bb1,D#,major,103.0,getsongbpm,4/4,44.0,43.0,I Think I Love You,The Partridge Family
+Smokey Robinson & the Miracles,The Tears of a Clown,77a0250c-c1e8-46c3-b2cf-27b9effa8312,,,,,,,,,
+George Harrison,"My Sweet Lord "" / "" Isn't It a Pity",34d07aec-6027-411e-bd63-78c1e7a00208,G,major,147.017059326,acousticbrainz,,,,,
+Tony Orlando and Dawn,Knock Three Times,f069d78b-c4ac-4d30-9b84-316df8503f37,,,,,,,,,
+The Osmonds,One Bad Apple,317800b9-a0e8-4d5c-9fec-10db85ca5adf,C,major,100.0,getsongbpm,4/4,60.0,35.0,One Bad Apple,The Osmonds
+Janis Joplin,Me and Bobby McGee,4fb40bda-30d3-406c-90bc-e9c7df5ddc16,A,major,92.0,getsongbpm,4/4,46.0,31.0,Me and Bobby McGee,Janis Joplin
+The Temptations,Just My Imagination (Running Away with Me),538e6f06-8547-4828-926d-1ce3a4070b47,C,major,92.0,getsongbpm,4/4,45.0,93.0,Just My Imagination (Running Away with Me),The Temptations
+Three Dog Night,Joy to the World,baaf117e-ad0b-4456-a16f-5262fda248e3,D,major,126.0,getsongbpm,4/4,66.0,48.0,Joy to the World,Three Dog Night
+The Rolling Stones,Brown Sugar,70d678b2-1ac3-4478-b662-d0214993e224,C,major,128.097015381,acousticbrainz,,,,,
+The Honey Cone,Want Ads,,,,,,,,,,
+Carole King,"It's Too Late "" / "" I Feel the Earth Move",95b11151-2eb9-490c-83fc-cda1696ed84b,,,,,,,,,
+Paul Revere & the Raiders,Indian Reservation (The Lament of the Cherokee Reservation Indian),ac00eabb-082b-45ad-8c28-7358d442187c,,,,,,,,,
+James Taylor,You've Got a Friend,43e21097-8227-4208-9b17-22721affe373,A,major,92.0,getsongbpm,4/4,70.0,69.0,You've Got a Friend,James Taylor
+Bee Gees,How Can You Mend a Broken Heart,0c54054d-ebbb-4a3c-8ead-97b1ebc60cb2,E,major,70.0,getsongbpm,4/4,44.0,64.0,How Can You Mend a Broken Heart,Bee Gees
+Paul McCartney and Linda McCartney,Uncle Albert/Admiral Halsey,70fac5cc-1414-4e57-a3e3-da72f70cf5ad,,,,,,,,,
+Donny Osmond,Go Away Little Girl,ee998722-8351-4cc7-9c38-144dcb15c36a,G,major,108.0,getsongbpm,4/4,39.0,78.0,Go Away Little Girl,Donny Osmond
+Rod Stewart,"Maggie May "" / "" Reason to Believe",1f94b376-a466-48f8-a5b1-729714a5c808,G,major,129.143768311,acousticbrainz,,,,,
+Cher,"Gypsys, Tramps & Thieves",23360240-4938-429d-8733-282bc3206722,C,major,170.0,getsongbpm,4/4,48.0,21.0,"Gypsys, Tramps & Thieves",Cher
+Isaac Hayes,Theme from Shaft,28c77b58-2863-45de-9b01-ccb4e2e4fb4a,,,,,,,,,
+Sly and the Family Stone,Family Affair,44730241-2c7a-4543-b352-acaf64b6bc39,,,,,,,,,
+Melanie,Brand New Key,c84830dc-8ab7-4517-9c80-5ded0fb7ff81,C#,major,83.0,getsongbpm,4/4,67.0,82.0,Brand New Key,Melanie
+Don McLean,American Pie,523cf60b-f315-460d-b3e4-607de263db2e,B,minor,138.0,getsongbpm,4/4,53.0,60.0,American Pie,Don McLean
+Al Green,Let's Stay Together,10e61b72-2354-46a1-80a8-14310ef30bab,C,major,101.869430542,acousticbrainz,,,,,
+Nilsson,Without You,a6f2b581-0745-4201-af34-f3b01a02f985,E,major,65.0,getsongbpm,4/4,39.0,62.0,How Could I Live Without You,Lisa Nilsson
+Neil Young,Heart of Gold,d8ba6d9c-bc2a-467f-9a27-cd136bc84268,E,minor,86.0,getsongbpm,4/4,55.0,19.0,Heart of Gold,Neil Young
+America,A Horse with No Name,4103b184-549f-44d3-bf5a-b1b9baee89d1,E,major,123.827148438,acousticbrainz,,,,,
+Roberta Flack,The First Time Ever I Saw Your Face,67c85d67-6924-4e11-a740-c26724bbfa24,C,major,151.902328491,acousticbrainz,,,,,
+The Chi-Lites,Oh Girl,b256d25e-761e-439e-8e05-558f803896ed,C,minor,134.0,getsongbpm,4/4,43.0,30.0,Oh Girl,The Chi-Lites
+The Staple Singers,I'll Take You There,f0944249-f33c-46a4-9506-12e51543ff2c,A,minor,103.0,getsongbpm,4/4,85.0,10.0,I'll Take You There,The Staple Singers
+Sammy Davis Jr.,Candy Man,da5ceeb5-c4eb-4ee0-9f9c-31e621000c91,C,major,131.0,getsongbpm,4/4,64.0,81.0,The Candy Man,Sammy Davis Jr.
+Neil Diamond,Song Sung Blue,cda931b8-5c84-4ed1-8359-a29c5429bf6a,C,major,109.0,getsongbpm,4/4,56.0,49.0,Song Sung Blue,Neil Diamond
+Bill Withers,Lean On Me,cb5cf13a-0bf0-4e03-b826-3eb243c6a929,C,major,75.0,getsongbpm,4/4,62.0,79.0,Lean on Me,Bill Withers
+Gilbert O'Sullivan,Alone Again (Naturally),9bd01eab-cb1d-420d-8a35-f3e960079970,G#,minor,171.0,getsongbpm,4/4,56.0,59.0,Alone Again (Naturally),Gilbert O'Sullivan
+Looking Glass,Brandy (You're a Fine Girl),0785d19a-3182-4a21-ad96-4c45d02b0d86,E,major,127.071502686,acousticbrainz,,,,,
+Three Dog Night,Black and White,81793503-8f13-4b92-a2fd-02d1705cdf48,B,major,109.0,getsongbpm,4/4,67.0,48.0,Black and White,Three Dog Night
+Mac Davis,"Baby, Don't Get Hooked on Me",6b40271b-5c3f-495a-bae1-3c4ce1953d5f,,,,,,,,,
+Michael Jackson,Ben,ae8dc1bc-b5b2-4cd2-be47-de317dcfa87d,F,major,136.0,getsongbpm,4/4,44.0,92.0,Ben,Michael Jackson
+Chuck Berry,My Ding-a-Ling,61e428f8-e541-44fc-8df6-652648241739,E,major,144.0,getsongbpm,4/4,77.0,80.0,My Ding-a-ling,Chuck Berry
+Johnny Nash,I Can See Clearly Now,29342d36-2e87-4e5b-8720-ef0e6e52264c,G,major,122.93857193,acousticbrainz,,,,,
+The Temptations,Papa Was a Rollin' Stone,005932f4-000a-429f-a147-5c4917d367fd,G#,major,123.0,getsongbpm,4/4,82.0,31.0,Papa Was a Rollin' Stone,The Temptations
+Helen Reddy,I Am Woman,7c4a1260-f12e-41db-a69c-771154b2a6e6,C,major,171.0,getsongbpm,4/4,40.0,41.0,I Am Woman,Helen Reddy
+Billy Paul,Me and Mrs. Jones,8898844a-ade2-4d96-88e0-cde57269d73b,C,minor,100.0,getsongbpm,1/4,42.0,48.0,Me and Mrs. Jones,Billy Paul
+Carly Simon,You're So Vain,db8f5f88-7980-4b3e-889f-f39bc6bcb8cc,C,major,108.0,getsongbpm,4/4,66.0,16.0,You're So Vain,Carly Simon
+Stevie Wonder,Superstition,4e027ad9-5c76-49cc-bdc7-0f322868352a,D#,minor,102.0,getsongbpm,4/4,65.0,2.0,Superstition,Stevie Wonder
+Elton John,Crocodile Rock,a952ec85-f4e6-4511-b35b-34cbf3d472c1,G,major,152.0,getsongbpm,4/4,63.0,8.0,Crocodile Rock,Elton John
+Roberta Flack,Killing Me Softly with His Song,72c8127b-6df4-4611-8a7d-ef52ed42e4e4,F,minor,123.0,getsongbpm,4/4,48.0,73.0,Killing Me Softly With His Song,Roberta Flack
+The O'Jays,Love Train,ce52428c-6257-4f48-a098-857a4d6eac5f,C,major,122.0,getsongbpm,4/4,73.0,4.0,Love Train,The O'Jays
+Vicki Lawrence,The Night the Lights Went Out in Georgia,815334c0-0493-4437-b4f3-31f71a9fd7c8,A#,minor,86.3364715576,acousticbrainz,,,,,
+Tony Orlando and Dawn,Tie a Yellow Ribbon Round the Ole Oak Tree,1a388ffb-bef5-46c4-96cb-4656b0016eb2,E,major,88.40839767455,acousticbrainz,,,,,
+Stevie Wonder,You Are the Sunshine of My Life,a43c1543-53fb-40ff-96ee-0d67a1f54993,B,major,133.0027771,acousticbrainz,,,,,
+The Edgar Winter Group,Frankenstein,cd149bbf-1d3d-4098-9729-43ee0224e488,F,major,95.0,getsongbpm,4/4,63.0,6.0,Frankenstein,The Edgar Winter Group
+Paul McCartney and Wings,My Love,b309dfaf-628f-4594-8cfa-262189506547,,,,,,,,,
+George Harrison,Give Me Love (Give Me Peace On Earth),13f5b38f-d767-4067-92f1-edae620adb01,F,major,79.0,getsongbpm,4/4,39.0,49.0,Give Me Love (Give Me Peace on Earth),George Harrison
+Billy Preston,Will It Go Round in Circles,4aac8214-b708-40b6-a6f7-916d6741e623,C#,major,98.0,getsongbpm,4/4,68.0,29.0,Will It Go Round in Circles,Billy Preston
+Jim Croce,"Bad, Bad Leroy Brown",8cae7723-a9b0-484d-86a1-88151a7e9a1a,D,major,147.343902588,acousticbrainz,,,,,
+Maureen McGovern,The Morning After,a7bfaec4-eae2-4db7-9136-8482d073f898,F#,major,80.0,getsongbpm,4/4,41.0,48.0,The Morning After,Maureen McGovern
+Diana Ross,Touch Me in the Morning,a525c31c-f84c-4c2f-a0c8-7811a4aff3aa,F#,major,137.0,getsongbpm,4/4,36.0,46.0,Touch Me in the Morning,Diana Ross
+Stories,Brother Louie,897771b6-b752-420c-8387-43c220c71fce,A,minor,103.0,getsongbpm,4/4,70.0,11.0,Brother Louie,Stories
+Marvin Gaye,Let's Get It On,4f47a5af-888f-44f6-8207-b352ee18b702,G#,major,167.0,getsongbpm,4/4,55.0,4.0,Let's Get It On,Marvin Gaye
+Helen Reddy,Delta Dawn,fb434e85-a289-4821-88e9-8853579d8bcd,G,major,78.0,getsongbpm,4/4,57.0,59.0,Delta Dawn,Helen Reddy
+Grand Funk,We're an American Band,a98efaad-fae9-41fe-a853-ccce50be0523,G,major,129.0,getsongbpm,4/4,64.0,12.0,We're an American Band,Grand Funk Railroad
+Cher,Half-Breed,6c5b6caa-b65d-41bb-8fdc-de80da6c1d2f,C#,minor,102.64805603,acousticbrainz,,,,,
+The Rolling Stones,Angie,966b4cc8-f549-4a3f-b675-555829abc8d1,C,major,154.905258179,acousticbrainz,,,,,
+Gladys Knight & the Pips,Midnight Train to Georgia,a1d428d3-4eeb-46db-a4e2-4472ae1baf65,F,minor,89.0,getsongbpm,4/4,59.0,24.0,Midnight Train to Georgia,Gladys Knight & The Pips
+Eddie Kendricks,Keep On Truckin',f0e76fb8-9ff7-4053-a4b4-9ca5ef5e074a,C#,major,101.0,getsongbpm,4/4,46.0,15.0,Keep on Truckin',Eddie Kendricks
+Ringo Starr,Photograph,33c1da56-2023-4aca-95d3-c17c6d97c681,E,major,112.0,getsongbpm,4/4,62.0,2.0,Photograph,Ringo Starr
+The Carpenters,Top of the World,,,,,,,,,,
+Charlie Rich,The Most Beautiful Girl,4c3ee421-2f50-4b04-8df2-5b6e9c7731e5,G,major,103.0,getsongbpm,4/4,57.0,71.0,The Most Beautiful Girl,Charlie Rich
+Jim Croce,Time in a Bottle,08819add-f0b9-41ed-88df-cbb6dc576b15,D,major,136.0,getsongbpm,3/4,55.0,86.0,Time in a Bottle,Jim Croce
+Steve Miller Band,The Joker,765ac707-f634-41b3-bd44-dd6b4c78cfc8,F,major,164.81401062,acousticbrainz,,,,,
+Al Wilson,Show and Tell,4f797d52-4ac4-4686-8ae2-68b9b3cf07bf,D,major,178.205230713,acousticbrainz,,,,,
+Ringo Starr,You're Sixteen,042fcda2-7206-441d-a12d-09e67fa588d6,G#,major,123.0,getsongbpm,4/4,67.0,4.0,You're Sixteen (You're Beautiful and You're Mine),Ringo Starr
+Barbra Streisand,The Way We Were,3fec28c3-d2a2-4f63-b76e-4d1ce0597a9a,A,major,136.0,getsongbpm,3/4,27.0,89.0,The Way We Were,Barbra Streisand
+Love Unlimited Orchestra,Love's Theme,fe5e93db-0e7b-4b91-96d4-8c794c3ab9dd,E,minor,97.0,getsongbpm,4/4,57.0,1.0,Love's Theme,Love Unlimited Orchestra
+Terry Jacks,Seasons in the Sun,8315c9e3-3c3e-4a22-a331-1bb4d94c36e9,F#,major,98.0,getsongbpm,4/4,68.0,78.0,Seasons in the Sun,Terry Jacks
+Cher,Dark Lady,2cdc6f9e-fb8d-497b-8eaa-659615e0612e,G#,major,147.0,getsongbpm,4/4,54.0,50.0,Dark Lady,Cher
+John Denver,Sunshine on My Shoulders,4d89217d-d20c-4c9b-8c61-58984d1f489d,A#,major,66.0,getsongbpm,4/4,26.0,86.0,Sunshine on My Shoulders,John Denver
+Blue Swede,Hooked on a Feeling,4d45a2c2-5cfc-4929-801d-20a23c843845,G#,major,123.0,getsongbpm,4/4,55.0,27.0,Hooked on a Feeling,Blue Swede
+Elton John,Bennie and the Jets,e4558ace-7754-4444-b937-2664e351ff94,C,major,66.0,getsongbpm,4/4,67.0,24.0,Bennie and the Jets,Elton John
+MFSB and The Three Degrees,TSOP,252f9048-c954-4401-9aae-2c97735080bd,,,,,,,,,
+Grand Funk,The Loco-Motion,902071ae-fac7-4858-a324-e4a12966ee2b,C,major,124.0,getsongbpm,4/4,49.0,38.0,The Loco-Motion,Grand Funk Railroad
+Ray Stevens,The Streak,a77b32eb-d0de-4512-94be-1e1d3cc0e872,C,major,119.0,getsongbpm,4/4,69.0,65.0,The Streak,Ray Stevens
+Paul McCartney and Wings,Band on the Run,3a036ffc-5804-47c4-88a9-4b99fbf5ecef,,,,,,,,,
+Bo Donaldson and The Heywoods,"Billy, Don't Be a Hero",d4987e04-37a6-4da0-b676-1bc589b377a3,B,major,122.0,getsongbpm,4/4,71.0,5.0,"Billy, Don't Be a Hero",Bo Donaldson and The Heywoods
+Gordon Lightfoot,Sundown,c722ff73-97b4-4a90-b879-4b1b147d544c,B,major,103.0,getsongbpm,4/4,80.0,34.0,Sundown,Gordon Lightfoot
+The Hues Corporation,Rock the Boat,c7eba225-f58d-4384-9be0-f7a61aa840f3,D#,major,107.0,getsongbpm,4/4,61.0,23.0,Rock the Boat,The Hues Corporation
+George McCrae,Rock Your Baby,6c93b742-887f-4160-b892-c13afc32a37d,F,minor,104.0,getsongbpm,4/4,60.0,17.0,Rock Your Baby,George McCrae
+John Denver,Annie's Song,1e6937c1-37db-436e-81d4-4141e03db245,D,major,144.0,getsongbpm,3/4,33.0,92.0,Annie's Song,John Denver
+Roberta Flack,Feel Like Makin' Love,ab97e9cf-5d03-44db-95b0-4e68e4092aa0,G#,major,93.0,getsongbpm,4/4,69.0,84.0,Feel Like Makin' Love,Roberta Flack
+Paper Lace,The Night Chicago Died,3fd3fa76-b4c0-42cc-8c02-8f968e577670,C,major,106.0,getsongbpm,4/4,77.0,35.0,The Night Chicago Died,Paper Lace
+Paul Anka and Odia Coates,(You're) Having My Baby,c4e9fd7b-e52c-4f66-afaa-a26268815e96,,,,,,,,,
+Eric Clapton,I Shot the Sheriff,be73eb35-7684-4d57-9be9-ed6360a74f14,G,major,96.0,getsongbpm,4/4,74.0,11.0,I Shot the Sheriff,Eric Clapton
+Barry White,"Can't Get Enough of Your Love, Babe",5e1aa3d1-c423-4567-8c82-55cfdb46004a,F,major,112.0,getsongbpm,4/4,73.0,12.0,"Can't Get Enough Of Your Love, Babe",Barry White
+Andy Kim,Rock Me Gently,b024ea7f-70e8-4d21-bae5-4a101c19aed2,C,major,123.0,getsongbpm,4/4,72.0,24.0,"Rock Me Gently, Part 2",Andy Kim
+Olivia Newton-John,I Honestly Love You,c0d1ff66-ac7c-47b7-a033-ea46b2f2a76f,A#,major,134.0,getsongbpm,4/4,37.0,91.0,I Honestly Love You,Olivia Newton-John
+Billy Preston,Nothing from Nothing,d1d1ca5b-e8cb-46ca-89ee-62ea7027c784,A,minor,103.0,getsongbpm,4/4,81.0,58.0,Nothing From Nothing,Billy Preston
+Dionne Warwick and The Spinners,Then Came You,a3b054ff-49dd-4981-b2d8-94bf25456202,,,,,,,,,
+Stevie Wonder,You Haven't Done Nothin',4b133a57-84b0-43cf-b5dd-a896ab7fae1e,A#,minor,101.0,getsongbpm,4/4,75.0,30.0,You Haven't Done Nothin',Stevie Wonder
+Bachman-Turner Overdrive,You Ain't Seen Nothing Yet,e840546d-c114-4788-a30e-e618a93a3490,B,minor,117.0,getsongbpm,4/4,47.0,1.0,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive
+John Lennon,Whatever Gets You Thru the Night,daf3ab0f-0116-43a7-8852-f4679dd67fd2,G,major,134.702346802,acousticbrainz,,,,,
+Billy Swan,I Can Help,8753f98a-9ae0-4a3c-933f-68a402e89eb7,C,major,123.0,getsongbpm,4/4,48.0,51.0,I Can Help,Billy Swan
+Carl Douglas,Kung Fu Fighting,a58f0343-c6f4-45e5-bffb-860995bd44e7,D,minor,103.0,getsongbpm,4/4,60.0,5.0,Kung Fu Fighting,Carl Douglas
+Harry Chapin,Cat's in the Cradle,786a5cd1-a041-46ff-a3a8-3101ffea811f,A#,major,78.0,getsongbpm,4/4,49.0,24.0,Cat's in the Cradle,Harry Chapin
+Helen Reddy,Angie Baby,07afa0a4-6d6b-4533-bbea-73036ca97cb3,G,minor,80.0,getsongbpm,4/4,57.0,48.0,Angie Baby,Helen Reddy
+Elton John,Lucy in the Sky with Diamonds,dfca3fee-2e66-4f1a-a8fb-45ec534d1ebf,,,,,,,,,
+Barry Manilow,Mandy,e7471154-e088-43fa-b4d3-1de78143313f,A#,major,104.0,getsongbpm,4/4,33.0,38.0,Mandy,Barry Manilow
+The Carpenters,Please Mr. Postman,92b8c350-19bf-4354-a06b-a38a27eecb6c,,,,,,,,,
+Neil Sedaka,Laughter in the Rain,26b456f2-95ca-499d-83ae-647553aee491,F,major,103.0,getsongbpm,4/4,51.0,36.0,Laughter in the Rain,Neil Sedaka
+Ohio Players,Fire,2b3323ca-dc80-4b2f-977a-bb0988970a69,F,major,107.0,getsongbpm,4/4,65.0,36.0,Fire,Ohio Players
+Linda Ronstadt,You're No Good,d399c7f6-fabc-477e-9d3d-4a9d38005220,A#,major,103.0,getsongbpm,4/4,67.0,25.0,You're No Good,Linda Ronstadt
+Average White Band,Pick Up the Pieces,f6dce084-0e15-4abb-85f7-0465bb36f836,C,minor,107.0,getsongbpm,4/4,57.0,42.0,Pick Up the Pieces (live at Montreux),Average White Band
+Eagles,Best of My Love,d32625a2-0f25-45a2-a478-e17790c4d0e0,C,major,90.3003158569,acousticbrainz,,,,,
+Olivia Newton-John,Have You Never Been Mellow,c71ccf50-9268-4800-8e23-1b3fa9a48cf2,C,major,121.0,getsongbpm,4/4,55.0,57.0,Have You Never Been Mellow,Olivia Newton-John
+The Doobie Brothers,Black Water,7fc18e09-69cd-4962-9c3e-05e1a481ff55,D,major,172.265518188,acousticbrainz,,,,,
+Frankie Valli,My Eyes Adored You,a5eef8f3-76d0-4f85-9347-6b98e83ea552,A,minor,137.513214111,acousticbrainz,,,,,
+LaBelle,Lady Marmalade,466de848-034a-4cb8-b429-d587a510f397,D,minor,117.0,getsongbpm,4/4,58.0,56.0,Lady Marmalade,LaBelle
+Minnie Riperton,Lovin' You,110b6fd9-bcdd-488c-bf5a-af8ed9790dc7,A,major,100.0,getsongbpm,3/4,40.0,91.0,Lovin' You,Minnie Riperton
+Elton John,Philadelphia Freedom,1180d3e8-5687-4795-ab52-19cc2b23b8d2,,,,,,,,,
+B. J. Thomas,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,,,,,,,,,,
+Tony Orlando and Dawn,He Don't Love You (Like I Love You),,,,,,,,,,
+"Earth, Wind & Fire",Shining Star,433b1946-6aa8-4193-a8aa-1f0351c80968,A,major,103.0,getsongbpm,4/4,68.0,67.0,Shining Star,"Earth, Wind & Fire"
+Freddy Fender,Before the Next Teardrop Falls,b45d32f4-e4ca-4e8d-b9fa-b797bd986c6e,A#,major,89.0,getsongbpm,4/4,80.0,75.0,Before the Next Teardrop Falls,Freddy Fender
+John Denver,Thank God I'm a Country Boy,619b2ca1-624b-4562-ae0f-4b687c94e8ad,A,major,101.612762451,acousticbrainz,,,,,
+America,Sister Golden Hair,3a239e59-5da0-44c4-b96b-c19c5fd1e220,E,major,134.0,getsongbpm,4/4,45.0,13.0,Sister Golden Hair,America
+Captain & Tennille,Love Will Keep Us Together,51e0699e-0c84-4f5f-9a58-4edda94192cc,E,major,129.0,getsongbpm,4/4,68.0,33.0,Love Will Keep Us Together,Captain & Tennille
+Paul McCartney and Wings,Listen to What the Man Said,23e159c5-aa84-48ec-9579-18ba23176e36,,,,,,,,,
+Van McCoy and the Soul City Symphony,The Hustle,9d93f7c7-8d6c-4dc6-a0eb-b3dc43399737,,,,,,,,,
+Eagles,One of These Nights,da0d9da8-46eb-4d47-8af6-8d2cca55daf7,C,major,110.114448547,acousticbrainz,,,,,
+Bee Gees,Jive Talkin',c6c03fd1-ced0-403c-ad2a-540ec95759b8,C,major,108.929679871,acousticbrainz,,,,,
+"Hamilton, Joe Frank & Reynolds",Fallin' in Love,454d1375-37dd-4f9d-8a14-eb9839bcaa32,G#,major,87.1382980347,acousticbrainz,,,,,
+KC and the Sunshine Band,Get Down Tonight,d2f8b85f-7f2f-46ea-8fce-cc56c4ee7b8e,A#,major,112.0,getsongbpm,4/4,67.0,14.0,Get Down Tonight,KC and The Sunshine Band
+Glen Campbell,Rhinestone Cowboy,c0bd3c62-d5a8-4f9c-b05a-4e4cb39c998c,C,major,115.0,getsongbpm,4/4,65.0,11.0,Rhinestone Cowboy,Glen Campbell
+David Bowie,Fame,c111d52a-cbeb-4b95-ab47-3a7f458b9e82,A#,major,95.0,getsongbpm,4/4,79.0,46.0,Fame,David Bowie
+John Denver,I'm Sorry,fdd463ac-04cc-4d64-9109-153bb53cd565,G,major,127.0,getsongbpm,4/4,45.0,90.0,I'm Sorry,John Denver
+Neil Sedaka,Bad Blood,379ae959-222d-47f7-a135-94b325aa2308,A,major,155.966964722,acousticbrainz,,,,,
+Elton John,Island Girl,fb541776-466f-429a-9277-9fc0e5174f32,A#,major,139.0,getsongbpm,4/4,71.0,12.0,Island Girl,Elton John
+KC and the Sunshine Band,That's the Way (I Like It),3da80cbe-56d8-448e-b349-8a84d4af4d6d,F,minor,109.255744934,acousticbrainz,,,,,
+Silver Convention,"Fly, Robin, Fly",a25b88d7-efd8-43e6-a813-dc9cd7a705cd,C,minor,100.0,getsongbpm,4/4,83.0,1.0,"Fly, Robin, Fly",Silver Convention
+The Staple Singers,Let's Do It Again,a0a7d43f-f928-4f0a-ba1b-ba0d532c8af2,E,major,79.9722671509,acousticbrainz,,,,,
+Bay City Rollers,Saturday Night,790f6bd9-c951-4bf1-ae85-217f0477816b,G,major,136.0,getsongbpm,4/4,52.0,20.0,Saturday Night,Bay City Rollers
+C. W. McCall,Convoy,,,,,,,,,,
+Barry Manilow,I Write the Songs,e4e8823d-e2b1-4546-966f-8fd479fc208d,D#,major,149.0,getsongbpm,4/4,45.0,84.0,I Write the Songs (acoustic),Barry Manilow
+Diana Ross,Theme from Mahogany (Do You Know Where You're Going To),5f338952-4969-48c2-9382-1c340aafabb3,C,minor,136.488952637,acousticbrainz,,,,,
+Ohio Players,Love Rollercoaster,048407db-c274-44e9-a006-0d66c31e39ee,C,major,122.887405396,acousticbrainz,,,,,
+Paul Simon,50 Ways to Leave Your Lover,71de5fd1-a3dd-421e-a8a1-87fadc7c65ce,G,minor,103.0,getsongbpm,4/4,82.0,17.0,50 Ways to Leave Your Lover,Paul Simon
+Rhythm Heritage,Theme From S.W.A.T.,3958b29a-b932-4320-8de7-0c2e444e148d,A,minor,109.0,getsongbpm,4/4,64.0,1.0,Theme From S.W.A.T.,Rhythm Heritage
+The Miracles,Love Machine,0ab3a513-62b5-4619-80c5-55ab54ab61f5,D,major,143.0,getsongbpm,4/4,74.0,7.0,Love Machine,The Miracles
+The Four Seasons,"December 1963 (Oh, What a Night)",b099f999-8be2-4872-835c-5c2ee53c9e49,C#,major,104.0,getsongbpm,4/4,73.0,6.0,"December 1963 (Oh, What a Night)",The Four Seasons
+Johnnie Taylor,Disco Lady,c38dbe2a-bc90-4c2d-b7f3-86fa873c134e,D,major,103.0,getsongbpm,4/4,72.0,6.0,Disco Lady,Johnnie Taylor
+The Bellamy Brothers,Let Your Love Flow,b97f1170-8144-4110-bc1c-a17e6d561380,D#,major,108.0,getsongbpm,4/4,68.0,7.0,Let Your Love Flow,The Bellamy Brothers
+John Sebastian,Welcome Back,b60b39fd-621a-4f11-befc-abc4c60b2846,E,minor,111.0,getsongbpm,4/4,75.0,42.0,Welcome Back,John Sebastian
+The Sylvers,Boogie Fever,475f28a7-bae7-46aa-811a-e695b549ba64,F,major,132.777359009,acousticbrainz,,,,,
+Wings,Silly Love Songs,59d42dd2-f3fa-4876-a3f2-53f18a6cca96,C,major,125.0,getsongbpm,4/4,74.0,19.0,Silly Love Songs,Wings
+Diana Ross,Love Hangover,827c1d68-856b-4d60-9ade-81024aefe2ce,C#,major,112.0,getsongbpm,4/4,51.0,34.0,Love Hangover,Diana Ross
+Starland Vocal Band,Afternoon Delight,e061e41e-f872-4b47-b269-4f706d768bca,F,major,144.0,getsongbpm,4/4,50.0,53.0,Afternoon Delight,Starland Vocal Band
+The Manhattans,Kiss and Say Goodbye,ae6056d8-5911-435f-84b5-5f5dcdef2194,F,minor,129.313598633,acousticbrainz,,,,,
+Elton John and Kiki Dee,Don't Go Breaking My Heart,05008366-f647-4751-b2dd-9d70acd2a7be,,,,,,,,,
+Bee Gees,You Should Be Dancing,2de3cf16-4671-4488-bcc7-5844a6916ac3,C,major,123.0,getsongbpm,4/4,69.0,3.0,You Should Be Dancing,Bee Gees
+KC and the Sunshine Band,"(Shake, Shake, Shake) Shake Your Booty",af802e5b-8fc3-4983-b5e9-3693a77ea5ec,A#,minor,112.0,getsongbpm,4/4,65.0,1.0,"(Shake, Shake, Shake) Shake Your Booty",KC and The Sunshine Band
+Wild Cherry,Play That Funky Music,43809a23-8d23-4821-a220-c651d64575f5,A,major,108.0,getsongbpm,4/4,83.0,13.0,Play That Funky Music,Wild Cherry
+Walter Murphy and the Big Apple Band,A Fifth of Beethoven,fd80fce4-3973-4582-8912-6e9ad6815d65,,minor,140.0,getsongbpm,,,,A Fifth of Beethoven,Walter Murphy and the Big Apple Band
+Rick Dees and His Cast of Idiots,Disco Duck,dea3460f-3fe1-4d5f-a1b5-f88034485ae7,E,major,116.63356781,acousticbrainz,,,,,
+Chicago,If You Leave Me Now,0abea62c-5e7e-4a5e-a528-1a6f6af0701a,B,major,103.0,getsongbpm,4/4,43.0,2.0,If You Leave Me Now,Chicago
+Steve Miller Band,Rock'n Me,4040c781-574d-4f18-ab50-91738a178d31,E,major,123.0,getsongbpm,4/4,70.0,20.0,Rock'n Me,Steve Miller Band
+Rod Stewart,Tonight's the Night (Gonna Be Alright),29ebd4a1-d99c-4d3e-b7cd-51173ddd2f88,B,major,90.0671310425,acousticbrainz,,,,,
+"Marilyn McCoo and Billy Davis, Jr.",You Don't Have to Be a Star (To Be in My Show),703bb196-cc55-4113-bb3e-3b33e28f80c1,,,,,,,,,
+Leo Sayer,You Make Me Feel Like Dancing,7c872c90-faa3-4c6e-b10d-4e9c483169ae,G#,minor,96.0,getsongbpm,4/4,75.0,11.0,You Make Me Feel Like Dancing,Leo Sayer
+Stevie Wonder,I Wish,ed51d118-0c40-40e4-8ee7-cc2a38cf73a7,C#,major,104.535469055,acousticbrainz,,,,,
+Rose Royce,Car Wash,1025e187-a147-4547-92b0-3f8bbb5f231a,,,,,,,,,
+Mary MacGregor,Torn Between Two Lovers,1be18c53-c7d7-486f-b5a8-ce711e9ac30c,A#,major,130.0,getsongbpm,4/4,56.0,90.0,Torn Between Two Lovers,Mary MacGregor
+Manfred Mann's Earth Band,Blinded by the Light,f0a594b3-41ad-4d5a-ac4a-3338f9aae582,F,major,140.0,getsongbpm,4/4,60.0,58.0,Blinded By The Light,Manfred Mann's Earth Band
+Eagles,New Kid in Town,185cd05f-31e8-4b67-b88a-899b1ee90064,E,major,107.0,getsongbpm,4/4,65.0,38.0,New Kid in Town,Eagles
+Barbra Streisand,Love Theme From A Star Is Born (Evergreen),1900a81f-4340-454e-918b-7da72682e004,A,major,114.314315796,acousticbrainz,,,,,
+Daryl Hall and John Oates,Rich Girl,6594a0a2-2a0f-4fb6-b1fd-955d1e00ca59,,,,,,,,,
+ABBA,Dancing Queen,350818dd-0c67-4e34-9cdd-4f9086265568,A,major,99.0,getsongbpm,4/4,54.0,39.0,Dancing Queen,ABBA
+David Soul,Don't Give Up on Us,af99e9d8-e285-419f-a3aa-331cfaa22391,A,major,198.0,getsongbpm,4/4,26.0,74.0,Don't Give Up on Us Baby,David Soul
+Thelma Houston,Don't Leave Me This Way,49f473b6-f878-443a-ba4d-89863be83a03,C,minor,123.0,getsongbpm,4/4,55.0,20.0,Don't Leave Me This Way,Thelma Houston
+Glen Campbell,Southern Nights,49b41311-6590-4914-b7a6-7dafee11009b,B,minor,95.0,getsongbpm,4/4,70.0,10.0,Southern Nights,Glen Campbell
+Eagles,Hotel California,0e0763cb-8989-4be8-8f22-a7302c86780e,B,minor,147.463607788,acousticbrainz,,,,,
+Leo Sayer,When I Need You,cd80566e-4829-4e4c-b708-d57a16be9efd,C#,major,112.0,getsongbpm,3/4,61.0,73.0,When I Need You,Leo Sayer
+Stevie Wonder,Sir Duke,ba0ba115-5cab-4d5e-bd3d-1fc98c7fdc93,B,major,108.0,getsongbpm,4/4,58.0,16.0,Sir Duke,Stevie Wonder
+KC and the Sunshine Band,I'm Your Boogie Man,a950254a-5c80-48c8-8c52-6478389e47e7,F,minor,113.0,getsongbpm,4/4,76.0,2.0,I'm Your Boogie Man,KC and The Sunshine Band
+Fleetwood Mac,Dreams,c0adf53e-1264-4605-b1dd-641141c64091,A#,major,133.8543396,acousticbrainz,,,,,
+Marvin Gaye,Got to Give It Up (Part 1),43a4a6d2-c016-479b-8be6-d52f7c064ac3,D,major,123.073654175,acousticbrainz,,,,,
+Bill Conti,Gonna Fly Now (Theme From Rocky ),,,,,,,,,,
+Alan O'Day,Undercover Angel,6741a0da-56f5-416d-ac1e-d6ba98c6cfe8,F,major,109.0,getsongbpm,4/4,63.0,2.0,Undercover Angel,Alan O'Day
+Shaun Cassidy,Da Doo Ron Ron,e90a74d4-0be9-42cf-8d99-9fb7e8487579,C,major,143.0,getsongbpm,4/4,57.0,11.0,Da Doo Ron Ron,Shaun Cassidy
+Barry Manilow,Looks Like We Made It,db995005-ae28-4bbb-88b8-ce94e49839a3,C,major,139.0,getsongbpm,4/4,30.0,58.0,Looks Like We Made It,Barry Manilow
+Andy Gibb,I Just Want to Be Your Everything,38e0f4ef-1eee-4bbc-89af-5046af7ae2f1,A#,major,100.089103699,acousticbrainz,,,,,
+The Emotions,Best of My Love,f41b4667-52bd-4378-a5fa-cf0264d74bfb,C,major,117.0,getsongbpm,4/4,79.0,45.0,Best of My Love,The Emotions
+Meco,Star Wars Theme/Cantina Band,a98b1e93-1db4-4439-8fc1-5be6d7a43d67,,,,,,,,,
+Debby Boone,You Light Up My Life,61cc3ced-1a07-4c5f-9c02-fcc9dc9886cb,D,major,77.0,getsongbpm,3/4,33.0,86.0,You Light Up My Life,Debby Boone
+Bee Gees,How Deep Is Your Love,6fc958d0-e8df-4232-b17e-b3ccf3eb5358,,,,,,,,,
+Player,Baby Come Back,b089577c-4225-4446-9ce7-76bc233f7e62,F,minor,156.0,getsongbpm,4/4,65.0,8.0,Baby Come Back,Player
+Bee Gees,Stayin' Alive,b9f84ada-627e-4565-b9f7-686b440ed279,,,,,,,,,
+Andy Gibb,(Love Is) Thicker Than Water,22f12856-977f-4033-82a0-5eaa2546344d,A,major,96.0096054077,acousticbrainz,,,,,
+Bee Gees,Night Fever,9e6e84b2-3aa2-4aee-b1b5-163168cbccf8,,,,,,,,,
+Yvonne Elliman,If I Can't Have You,123237b8-cfac-4909-97fd-646603b959e5,B,major,109.0,getsongbpm,4/4,62.0,11.0,If I Can't Have You,Yvonne Elliman
+Wings,With a Little Luck,3f32ffc4-9801-4831-b5f6-58daf7c297ae,F#,minor,111.0,getsongbpm,4/4,65.0,8.0,With a Little Luck,Wings
+Johnny Mathis and Deniece Williams,"Too Much, Too Little, Too Late",2bf57c36-2e32-4cc6-b8f8-f23da5ea0c55,D#,major,154.822463989,acousticbrainz,,,,,
+John Travolta and Olivia Newton-John,You're the One That I Want,6be10f3e-e2c3-45d6-b75b-ef1ef64c94d8,C,major,106.909896851,acousticbrainz,,,,,
+Andy Gibb,Shadow Dancing,f43c9fcb-ad1e-492c-a59a-765676169ea9,G,minor,101.0,getsongbpm,4/4,75.0,15.0,Shadow Dancing,Andy Gibb
+The Rolling Stones,Miss You,c9683643-deb8-470f-86fe-09c0f3093dd9,A,minor,109.0,getsongbpm,4/4,81.0,47.0,Miss You,The Rolling Stones
+Commodores,Three Times a Lady,569ed861-81e5-475b-a1f8-e7617744a478,G#,major,150.935333252,acousticbrainz,,,,,
+Frankie Valli,Grease,3fb39e0c-eb16-404b-9b3b-a0f2a7c9dea7,B,major,109.0,getsongbpm,4/4,82.0,16.0,Grease,Frankie Valli
+A Taste of Honey,Boogie Oogie Oogie,3ab05784-0eb0-4139-92c2-823f27a252e3,D,minor,123.0,getsongbpm,4/4,84.0,10.0,Boogie Oogie Oogie,A Taste of Honey
+Exile,Kiss You All Over,30f0c638-5801-4811-b714-c43eb6576fb5,F,major,103.0762405395,acousticbrainz,,,,,
+Nick Gilder,Hot Child in the City,e8b57d63-9bf9-4cd6-b333-584f6558b81b,E,major,110.0,getsongbpm,4/4,80.0,4.0,Hot Child in the City,Nick Gilder
+Anne Murray,You Needed Me,6b2d62cf-0959-4742-8af1-abc405d96ab7,A,major,61.0,getsongbpm,4/4,49.0,73.0,You Needed Me,Anne Murray
+Donna Summer,MacArthur Park,81686354-f906-4446-a791-44a70f5862bf,,,,,,,,,
+Barbra Streisand and Neil Diamond,You Don't Bring Me Flowers,188bc223-b955-4143-9ec8-2123fc937d18,,,,,,,,,
+Chic,Le Freak,341019c4-d07e-4266-9aa4-b2467eef84d5,G,major,117.0,getsongbpm,4/4,87.0,5.0,Le Freak,Chic
+Bee Gees,Too Much Heaven,71175f4d-ce02-4959-87fb-15863a6a4e24,F#,major,80.0,getsongbpm,4/4,51.0,44.0,Too Much Heaven,Bee Gees
+Rod Stewart,Da Ya Think I'm Sexy?,23eca564-52dc-4707-b4e1-40563d433158,D,minor,111.0,getsongbpm,4/4,72.0,2.0,Da Ya Think I'm Sexy?,Rod Stewart
+Gloria Gaynor,I Will Survive,9486ea9a-2de0-4946-8b5a-334b70161cdd,C,major,117.0,getsongbpm,4/4,78.0,2.0,I Will Survive,Gloria Gaynor
+Bee Gees,Tragedy,fd435f46-a1bc-4f5d-b3a0-e800c23cbdd6,D,major,117.0,getsongbpm,4/4,67.0,10.0,Tragedy,Bee Gees
+The Doobie Brothers,What a Fool Believes,e1925c62-daf7-4973-91b9-ee3413da9f85,C#,minor,121.876457214,acousticbrainz,,,,,
+Amii Stewart,Knock on Wood,d909f57c-b109-4b76-a315-0b68acd93ee9,D,minor,143.179656982,acousticbrainz,,,,,
+Blondie,Heart of Glass,e70fb648-cfdb-442d-b1c6-690d8f01a9ac,E,major,117.0,getsongbpm,4/4,70.0,2.0,Heart of Glass,Blondie
+Peaches & Herb,Reunited,b140572b-e279-413b-8542-2cc4a80ff8ea,F,minor,75.0,getsongbpm,4/4,61.0,62.0,Reunited,Peaches & Herb
+Donna Summer,Hot Stuff,5b13ccc3-725a-407b-ab58-d654b23ffe65,G,minor,120.473091125,acousticbrainz,,,,,
+Bee Gees,Love You Inside Out,183ba4a2-3cff-4fec-9a8b-5430f982e0f1,D,major,95.2658615112,acousticbrainz,,,,,
+Anita Ward,Ring My Bell,d5913718-0f7e-404c-b692-04923074bfe0,F,major,127.79032135,acousticbrainz,,,,,
+Donna Summer,Bad Girls,1addb798-598d-49bd-b8c4-a4cbbab44a7b,G,minor,120.480407715,acousticbrainz,,,,,
+Chic,Good Times,8bcbaeea-9e70-4d33-b68b-f8e7f41aba7b,A,major,112.55242157,acousticbrainz,,,,,
+The Knack,My Sharona,0b51f2dc-861d-4129-8564-e24d8e9c182d,G,minor,144.0,getsongbpm,4/4,59.0,6.0,My Sharona,The Knack
+Robert John,Sad Eyes,88ed1f06-88f7-4e46-86d3-2c2196ef20d9,C,major,107.0,getsongbpm,3/4,44.0,60.0,Sad Eyes,Robert John
+Michael Jackson,Don't Stop 'til You Get Enough,519590d1-9746-4cbb-bdcc-c456d4dae442,B,major,117.0,getsongbpm,4/4,88.0,13.0,Don't Stop 'til You Get Enough,Michael Jackson
+Herb Alpert,Rise,2fb0895d-dd1d-414a-9b5f-9bb5ef51bb43,F,minor,99.313079834,acousticbrainz,,,,,
+M,Pop Muzik,9f498cbe-f92c-4c0d-b7f0-f3e5333748c7,C#,major,108.802749634,acousticbrainz,,,,,
+Eagles,Heartache Tonight,ac2105f8-612a-4124-b84b-528d6c21bd3f,A,minor,113.0,getsongbpm,4/4,81.0,8.0,Heartache Tonight,Eagles
+Commodores,Still,b2b47bdc-0346-4bbc-8f26-4a07909744d7,C#,major,125.6650390625,acousticbrainz,,,,,
+Barbra Streisand and Donna Summer,No More Tears (Enough Is Enough),27dc1d92-40d1-49e1-885b-8579ea2a3990,,,,,,,,,
+Styx,Babe,dbac9fba-c50d-4361-b9b0-d3248596af78,D,major,172.0,getsongbpm,4/4,27.0,54.0,Babe,Styx
+Rupert Holmes,Escape (The Piña Colada Song),51bf3b5e-7e30-41e8-a784-c3526e467369,C,major,136.0,getsongbpm,4/4,84.0,51.0,Escape (The Piña Colada Song),Rupert Holmes
+KC and the Sunshine Band,Please Don't Go,8a35ee63-f869-4641-b9b2-3f958d2865be,F#,major,96.0,getsongbpm,4/4,49.0,1.0,Please Don't Go,KC and The Sunshine Band
+Michael Jackson,Rock with You,d87c5d8f-41d7-4337-b614-3be169329592,C#,major,112.0,getsongbpm,4/4,81.0,18.0,Rock With You,Michael Jackson
+Captain & Tennille,Do That to Me One More Time,31ab09c3-1085-4bc0-b8c2-24290593ce6e,G,major,90.0,getsongbpm,4/4,73.0,55.0,Do That to Me One More Time,Captain & Tennille
+Queen,Crazy Little Thing Called Love,eecc24a7-c176-4d68-9d47-737e3917ec34,D,major,152.0,getsongbpm,4/4,63.0,68.0,Crazy Little Thing Called Love,Queen
+Pink Floyd,Another Brick in the Wall (Part 2),f9917915-e3fd-4120-b030-674ee968b788,,,,,,,,,
+Blondie,Call Me,c795284c-69fc-4514-ad5e-1a80d4344204,,,,,,,,,
+"Lipps, Inc.",Funkytown,ad86a2a6-f3e6-4fff-8c5b-3eb61ddde68b,B,major,123.0,getsongbpm,4/4,91.0,1.0,Funkytown,"Lipps, Inc."
+Paul McCartney,Coming Up (Live at Glasgow),1fad7538-341b-4884-a7c0-326e3babff7d,,,,,,,,,
+Billy Joel,It's Still Rock and Roll to Me,efdbec7b-fc90-4a17-8f49-6a3c707c57b6,C,major,128.561508179,acousticbrainz,,,,,
+Olivia Newton-John,Magic,6b924b89-7068-4707-8626-99c90a9eab2a,,,,,,,,,
+Christopher Cross,Sailing,fae851cd-90d9-4566-b61c-837aedd6e9a3,D,major,152.0,getsongbpm,4/4,47.0,37.0,Sailing,Christopher Cross
+Diana Ross,Upside Down,dd037619-b9cc-472a-b8eb-2ae95c13a787,F,minor,108.0,getsongbpm,4/4,88.0,18.0,Upside Down,Diana Ross
+Queen,Another One Bites the Dust,6028766d-7d68-478f-a2d0-93555d1ee29f,A,minor,111.798812866,acousticbrainz,,,,,
+Barbra Streisand,Woman in Love,90f38cf6-3d71-491f-a5fc-cb67060c23d2,D#,minor,169.0,getsongbpm,4/4,49.0,49.0,Woman in Love,Barbra Streisand
+Kenny Rogers,Lady,615e06b1-a302-45bc-9d87-a81e887a89e8,D#,minor,141.1395492555,acousticbrainz,,,,,
+John Lennon,(Just Like) Starting Over,69469ffa-d785-43a5-adc0-f02bde888a4e,A,major,99.0,getsongbpm,4/4,71.0,31.0,(Just Like) Starting Over,John Lennon
+Blondie,The Tide Is High,f70c14ca-fcb5-4471-aa57-6900c0314651,B,major,96.0,getsongbpm,4/4,78.0,6.0,The Tide Is High,Blondie
+Kool & the Gang,Celebration,9a0622f3-07ca-44bc-bdb3-59b3dc6cd62e,C#,major,122.0,getsongbpm,4/4,90.0,13.0,Celebration,Kool & The Gang
+Dolly Parton,9 to 5,d5119cb5-2585-428d-8c21-05734970270d,F,major,204.0,getsongbpm,4/4,56.0,42.0,9 to 5,Dolly Parton
+Eddie Rabbitt,I Love a Rainy Night,495b6d07-6747-4457-b8d4-4bfc524742f5,C,major,131.0,getsongbpm,4/4,69.0,13.0,I Love a Rainy Night,Eddie Rabbitt
+REO Speedwagon,Keep On Loving You,8c9fe846-45a6-4bf5-9246-bb5c58ec237d,F,major,172.265640259,acousticbrainz,,,,,
+Blondie,Rapture,49095cec-b9a3-4663-8609-2237b287fcfd,E,minor,109.951171875,acousticbrainz,,,,,
+Daryl Hall and John Oates,Kiss on My List,b2e95921-3cf8-496f-b8b8-f98a1acd2197,,,,,,,,,
+Sheena Easton,Morning Train (Nine to Five),4d59aecb-94db-4c6e-8410-605b529bcf2c,G#,major,121.0,getsongbpm,4/4,80.0,69.0,Morning Train (Nine to Five),Sheena Easton
+Kim Carnes,Bette Davis Eyes,783d1c21-b850-4fcc-84ea-46702ffd2aba,F,major,117.0,getsongbpm,4/4,68.0,3.0,Bette Davis Eyes,Kim Carnes
+Stars on 45,Stars on 45,60aae812-9b41-48c6-8e5a-32e68097bc16,G#,minor,120.0,getsongbpm,4/4,73.0,5.0,A1.1 Stars On 45,Stars on 45
+Air Supply,The One That You Love,d59d2ef2-0c57-4cab-87a4-a96949059d22,F,major,109.0,getsongbpm,4/4,40.0,73.0,The One That You Love,Air Supply
+Rick Springfield,Jessie's Girl,ca8c9ab1-f077-4ccd-9382-a8604da32054,D,major,131.0,getsongbpm,4/4,69.0,8.0,Jessie's Girl,Rick Springfield
+Diana Ross and Lionel Richie,Endless Love,42e4e472-8f51-4f67-aada-a1aa3285ab17,,,,,,,,,
+Christopher Cross,Arthur's Theme (Best That You Can Do),20195d47-d7b4-4c6a-b4f3-86c94e1ce0ee,A,major,136.0,getsongbpm,4/4,53.0,17.0,Arthur's Theme (Best That You Can Do),Christopher Cross
+Daryl Hall and John Oates,Private Eyes,2360bfa9-f66a-481e-8cac-90dff61000f9,,,,,,,,,
+Olivia Newton-John,Physical,0ef6e09f-0dbe-4401-8244-5d1fb0fca239,E,minor,123.0,getsongbpm,4/4,84.0,8.0,Physical,Olivia Newton-John
+Daryl Hall and John Oates,I Can't Go for That (No Can Do),ac08650e-038b-41fd-93bf-fc0b8262dace,,,,,,,,,
+The J. Geils Band,Centerfold,a9ce7fe8-e40c-4ac3-8a4e-7839a0a665b8,G,major,120.831962585,acousticbrainz,,,,,
+Joan Jett and the Blackhearts,I Love Rock 'n' Roll,e076015e-9ad6-4a75-bf41-57470ed4b0f3,A,major,98.5436248779,acousticbrainz,,,,,
+Vangelis,Chariots of Fire,b08bd1a3-0749-4c78-bcd5-666a5c919015,C#,major,136.0,getsongbpm,4/4,48.0,9.0,Chariots of Fire,Vangelis
+Paul McCartney with Stevie Wonder,Ebony and Ivory,,,,,,,,,,
+The Human League,Don't You Want Me,761ff2f4-5a25-4018-aa02-19cc4261d3b6,A,minor,117.0,getsongbpm,4/4,74.0,19.0,Don't You Want Me,The Human League
+Survivor,Eye of the Tiger,6cf301da-12b3-4dd8-bb5d-013657882541,C,minor,108.0,getsongbpm,4/4,82.0,22.0,Eye of the Tiger,Survivor
+Steve Miller Band,Abracadabra,95b5ed54-0068-4730-912f-2e05a0c82de3,A,minor,129.0,getsongbpm,4/4,80.0,8.0,Abracadabra,Steve Miller Band
+Chicago,Hard to Say I'm Sorry,75b0810f-cf73-45a7-be54-409e42073142,E,major,144.147041321,acousticbrainz,,,,,
+John Mellencamp,Jack & Diane,f8368f09-a7d5-4ae0-b644-41fa60596b8e,A,major,103.0,getsongbpm,4/4,81.0,5.0,Jack & Diane,John Mellencamp
+Men at Work,Who Can It Be Now,0eb770af-dc4e-4119-b5cc-19cf245b46f5,E,major,128.346115112,acousticbrainz,,,,,
+Joe Cocker and Jennifer Warnes,Up Where We Belong,85a9b3f6-32e8-4d88-8f1b-1adc05241df4,,,,,,,,,
+Lionel Richie,Truly,c97b6195-cacc-4814-aadd-cf5ea0f95ace,C#,major,140.0,getsongbpm,4/4,33.0,64.0,Truly,Lionel Richie
+Toni Basil,Mickey,a691611d-0439-4e76-952b-91136eaedae1,E,major,152.0,getsongbpm,4/4,73.0,5.0,Mickey,Toni Basil
+Daryl Hall and John Oates,Maneater,ada7a979-c8fc-441a-b2dd-281f19ad8b7f,,,,,,,,,
+Men at Work,Down Under,fbaae18f-519e-4c6d-bc8b-624fcebd9e1b,B,minor,54.0,getsongbpm,4/4,75.0,5.0,Down Under,Men at Work
+Toto,Africa,1817a221-7af5-4532-9333-0f34ec240523,C#,minor,92.0,getsongbpm,4/4,68.0,26.0,Africa,Toto
+Patti Austin and James Ingram,"Baby, Come to Me",3d138db1-53f8-448e-abff-f9648ed7207e,,,,,,,,,
+Michael Jackson,Billie Jean,4c6f047b-9347-4fb9-ad4d-52e9a0f8cd86,F#,minor,116.0,getsongbpm,4/4,92.0,3.0,Billie Jean,Michael Jackson
+Dexys Midnight Runners,Come On Eileen,881103de-cabf-4617-b82c-4efce9978eea,D,major,108.0,getsongbpm,4/4,45.0,65.0,Come On Eileen,Dexys Midnight Runners
+Michael Jackson,Beat It,b74fc30c-1919-4491-be45-b70299d328f7,D#,minor,136.0,getsongbpm,4/4,78.0,5.0,Beat It,Michael Jackson
+David Bowie,Let's Dance,65ad7f32-0d1f-48d6-a329-a5c981697b0e,A#,minor,116.0,getsongbpm,4/4,62.0,1.0,Let's Dance,David Bowie
+Irene Cara,Flashdance... What a Feeling,77095cee-489f-48ab-8973-9faf94f8d431,A#,major,123.398597717,acousticbrainz,,,,,
+The Police,Every Breath You Take,ac1a0727-8797-43ca-bd92-643276b946bd,G#,major,117.0,getsongbpm,4/4,82.0,57.0,Every Breath You Take,The Police
+Eurythmics,Sweet Dreams (Are Made of This),c8c89264-20cf-4f3d-9c06-77a3eb6f9453,C,minor,125.900665283,acousticbrainz,,,,,
+Michael Sembello,Maniac,4ae8ba3b-ad28-4b4f-82de-b573fc31ee8d,D#,minor,155.967498779,acousticbrainz,,,,,
+Billy Joel,Tell Her About It,752f576b-45ce-452e-8edb-dd19f0924dcd,A#,major,91.4825439453,acousticbrainz,,,,,
+Bonnie Tyler,Total Eclipse of the Heart,27ebe83c-f1c4-4d81-bab3-9ccb2e2a2a43,G#,major,129.0,getsongbpm,4/4,44.0,20.0,Total Eclipse of the Heart,Bonnie Tyler
+Kenny Rogers with Dolly Parton,Islands in the Stream,,,,,,,,,,
+Lionel Richie,All Night Long (All Night),7d60c4e5-26fe-417c-8295-b7a92d27b9ff,C#,major,108.0,getsongbpm,4/4,74.0,13.0,All Night Long (All Night),Lionel Richie
+Paul McCartney and Michael Jackson,"Say, Say, Say",c2e035d6-5015-4513-9327-5fb8530daa0e,,,,,,,,,
+Yes,Owner of a Lonely Heart,54457079-4987-4e2a-9dab-b86d580e981e,G,major,123.0,getsongbpm,4/4,70.0,31.0,Owner of a Lonely Heart,Yes
+Culture Club,Karma Chameleon,56087b92-b964-45b1-af07-ef010441b7ea,A#,major,92.0,getsongbpm,4/4,67.0,23.0,Karma Chameleon,Culture Club
+Van Halen,Jump,cf753acb-0ae8-4e07-a073-e7039c84d38e,C,major,129.0,getsongbpm,4/4,58.0,18.0,Jump,Van Halen
+Kenny Loggins,Footloose,af06113d-38d7-4c11-85ab-7c15c6602874,,,,,,,,,
+Phil Collins,Against All Odds (Take a Look at Me Now),161eac8b-ab29-4b8e-b7f1-e2a0631ae660,F#,major,117.386550903,acousticbrainz,,,,,
+Lionel Richie,Hello,a3c04bd3-e1d9-4cc5-a97f-e6ced4cf907f,E,major,129.094314575,acousticbrainz,,,,,
+Deniece Williams,Let's Hear It for the Boy,28c08a5c-630d-4978-a996-73f8a8e058b9,G,major,123.0,getsongbpm,4/4,79.0,18.0,Let's Hear It for the Boy,Deniece Williams
+Cyndi Lauper,Time After Time,6bb5d0ff-10d5-446f-9cd6-e427bff78528,C,major,129.0,getsongbpm,4/4,73.0,58.0,Time After Time,Cyndi Lauper
+Duran Duran,The Reflex,dee1ffd9-459e-4ea5-a32e-bc44e6907e8f,D,major,126.0,getsongbpm,4/4,56.0,11.0,The Reflex,Duran Duran
+Prince,When Doves Cry,5d3ef164-81f6-439d-abcd-c60fd10e8ea4,,,,,,,,,
+Ray Parker Jr.,Ghostbusters,f873fb3e-43db-4599-a9d9-cc0a5516d804,,,,,,,,,
+Tina Turner,What's Love Got to Do with It,85d15185-73f5-41cf-8838-4e46f0fa6fc0,G#,minor,99.0,getsongbpm,4/4,86.0,22.0,What's Love Got to Do With It,Tina Turner
+John Waite,Missing You,6bccf6b3-d06a-46b3-8b41-90fcefc1895d,G#,minor,103.0,getsongbpm,4/4,73.0,4.0,Missing You,John Waite
+Prince and The Revolution,Let's Go Crazy,8be89028-4b93-4d86-bb09-23ca4ac577c4,,,,,,,,,
+Stevie Wonder,I Just Called to Say I Love You,95b2c38b-73c4-43d4-a9a9-767bd88d56a4,,,,,,,,,
+Billy Ocean,Caribbean Queen (No More Love on the Run),7b9057d8-df48-455a-875e-84def4f8e15f,F,major,113.888332367,acousticbrainz,,,,,
+Wham!,Wake Me Up Before You Go-Go,cbee47ee-30d0-4cbd-9b81-bab0dd65eab3,C,major,81.0,getsongbpm,4/4,62.0,28.0,Wake Me Up Before You Go-Go,Wham!
+Daryl Hall and John Oates,Out of Touch,19bea8e6-9777-4fd6-97e7-85c80b4bac1a,,,,,,,,,
+Madonna,Like a Virgin,7f616bf4-a014-4373-8f29-00f5d23d6386,D#,minor,117.0,getsongbpm,4/4,78.0,21.0,Like a Virgin,Madonna
+Foreigner,I Want to Know What Love Is,0969004c-fc3d-4ddf-986e-08321dd7fddf,F#,major,81.0,getsongbpm,4/4,48.0,20.0,I Want to Know What Love Is,Foreigner
+Wham! featuring George Michael,Careless Whisper,,,,,,,,,,
+REO Speedwagon,Can't Fight This Feeling,713e2cb1-de30-41a8-8ba0-4a18ba83b8ae,A,major,155.743972778,acousticbrainz,,,,,
+Phil Collins,One More Night,66b9869a-410f-41c6-8e20-1941ee1a4505,D#,major,139.981430054,acousticbrainz,,,,,
+USA for Africa,We Are the World,2a9cacb1-9b3f-4b18-b8f7-e0f01f82e115,,,,,,,,,
+Madonna,Crazy for You,e379f969-d1c2-45b2-9b65-0c7e5fc59099,E,major,95.0009918213,acousticbrainz,,,,,
+Simple Minds,Don't You (Forget About Me),94ac50d5-e386-4a3b-b7d2-3c1ed0af2893,A,major,112.0,getsongbpm,4/4,68.0,9.0,Don't You (Forget About Me),Simple Minds
+Wham!,Everything She Wants,c28973a7-1b06-45b1-b2ce-762856891b5b,F#,minor,115.0,getsongbpm,4/4,90.0,33.0,Everything She Wants,Wham!
+Tears for Fears,Everybody Wants to Rule the World,c5cd48f3-cc5b-4e75-bd1b-b2753592c9d6,D,major,112.0,getsongbpm,4/4,64.0,38.0,Everybody Wants to Rule the World,Tears for Fears
+Bryan Adams,Heaven,d53af390-4a1a-4d82-a971-fa37ebbf43e3,C,major,142.3645858765,acousticbrainz,,,,,
+Phil Collins,Sussudio,2e846a17-b411-4066-b3c1-a019f055bf41,C,major,121.199630737,acousticbrainz,,,,,
+Duran Duran,A View to a Kill,3279f8ae-93eb-4304-a241-98526b0cbf46,,,,,,,,,
+Paul Young,Everytime You Go Away,8d6dd27d-a683-495d-b168-5223bffb4e0f,F,major,164.0,getsongbpm,4/4,61.0,18.0,Everytime You Go Away,Paul Young
+Tears for Fears,Shout,7227db53-faad-4d5d-9de1-77e308b548b5,G,minor,98.0166702271,acousticbrainz,,,,,
+Huey Lewis and the News,The Power of Love,5704cd78-0338-4b43-a1d8-dbb950352433,,,,,,,,,
+John Parr,St. Elmo's Fire (Man in Motion),85e4766f-faa3-44cc-8e49-0dc369f314fc,,,,,,,,,
+Dire Straits,Money for Nothing,8f15536f-2f3c-4fe6-84b1-dc698666c187,G,minor,136.0,getsongbpm,4/4,67.0,5.0,Money for Nothing,Dire Straits
+Ready for the World,Oh Sheila,174ffb1a-7237-4a07-9101-e4f24d45066d,C,major,128.868133545,acousticbrainz,,,,,
+a-ha,Take On Me,98b3d334-0fad-4a5b-add5-7532f407418a,A,major,166.395355225,acousticbrainz,,,,,
+Whitney Houston,Saving All My Love for You,8c3b3380-88db-40ac-965a-0fb1830bb689,F#,minor,51.0,getsongbpm,3/4,64.0,60.0,Saving All My Love for You,Whitney Houston
+Stevie Wonder,Part-Time Lover,225a65b2-d2ae-4484-b060-9e16d1fd5779,A#,minor,86.0,getsongbpm,4/4,67.0,17.0,Part-Time Lover,Stevie Wonder
+Jan Hammer,Miami Vice Theme,05f50dec-3d54-4308-948e-1fb31b5280e0,D,major,115.967910767,acousticbrainz,,,,,
+Starship,We Built This City,102d732a-e42c-4121-9b99-d0c34e531f0e,F,major,144.0,getsongbpm,4/4,67.0,6.0,We Built This City,Starship
+Phil Collins and Marilyn Martin,Separate Lives,96fc36f8-d6f4-44d7-8ff2-33c2ce94542f,,,,,,,,,
+Mr. Mister,Broken Wings,ae20e850-8d18-4d0b-a553-4b09d9bbb14e,C#,minor,99.0,getsongbpm,4/4,29.0,14.0,Broken Wings,Mr. Mister
+Lionel Richie,"Say You, Say Me",7015bc0c-39c2-457d-a96e-1373d8923b22,G#,major,128.0,getsongbpm,4/4,64.0,37.0,"Say You, Say Me",Lionel Richie
+Dionne & Friends 1,That's What Friends Are For,,,,,,,,,,
+Whitney Houston,How Will I Know,2b766cc9-6a2e-4360-81cc-0b9e71bc1344,F#,major,117.0,getsongbpm,4/4,84.0,21.0,How Will I Know,Whitney Houston
+Mr. Mister,Kyrie,ed82f81a-bc71-4d43-b108-6f2506bbe9c2,C,major,89.0,getsongbpm,4/4,49.0,29.0,Kyrie,Mr. Mister
+Starship,Sara,56814368-bee6-4a5d-a421-d11b1a97d116,A#,major,100.179748535,acousticbrainz,,,,,
+Heart,These Dreams,f84ca6e3-870c-49c8-bbdc-995fc99178e3,A,major,150.683944702,acousticbrainz,,,,,
+Falco,Rock Me Amadeus,7f02219e-e801-4464-99bc-44be54ecf56b,,minor,,getsongbpm,,,,Rock Me Amadeus (The Salieri version),Falco
+Prince and The Revolution,Kiss,34c9ab8c-c369-4ede-a60f-8426b034a497,,,,,,,,,
+Robert Palmer,Addicted to Love,19004634-f5fa-49c3-a131-758d409201ff,A,major,112.0,getsongbpm,4/4,71.0,37.0,Addicted to Love,Robert Palmer
+Pet Shop Boys,West End Girls,c12a4989-4b0e-403c-b8f6-a98013266a6e,E,minor,112.0,getsongbpm,4/4,65.0,2.0,West End Girls,Pet Shop Boys
+Whitney Houston,Greatest Love of All,a82f829e-06c3-481c-a4bd-17de50d83e3f,A,major,65.0,getsongbpm,4/4,51.0,49.0,Greatest Love of All,Whitney Houston
+Madonna,Live to Tell,dfac0bd3-8306-471f-aaf6-714abe1e7366,C,minor,109.0,getsongbpm,4/4,68.0,42.0,Live to Tell,Madonna
+Patti LaBelle and Michael McDonald,On My Own,51309d50-e5e5-4f29-af66-ab5910d7774e,,,,,,,,,
+Billy Ocean,There'll Be Sad Songs (To Make You Cry),e3c15d45-8b41-438f-af00-a9b4098be785,C,major,81.0,getsongbpm,4/4,57.0,75.0,There'll Be Sad Songs (To Make You Cry),Billy Ocean
+Simply Red,Holding Back the Years,80246b80-d43a-4de5-9bd2-42c2dd3c0dfb,A,minor,86.0,getsongbpm,4/4,71.0,58.0,Holding Back the Years,Simply Red
+Genesis,Invisible Touch,96084068-c777-4d62-93ac-9bdaa43b0995,A,major,130.75617981,acousticbrainz,,,,,
+Peter Gabriel,Sledgehammer,fd24b899-58fa-4d1c-9d10-731e91b1ab95,G#,major,96.0,getsongbpm,4/4,43.0,2.0,Sledgehammer,Peter Gabriel
+Peter Cetera,Glory of Love,c21b9076-85e4-466e-a1b6-84e1ce830c09,F,major,144.0,getsongbpm,4/4,52.0,8.0,Glory of Love,Peter Cetera
+Madonna,Papa Don't Preach,46927499-a888-48bb-b308-c07ea6c3de5a,C,minor,123.0,getsongbpm,4/4,81.0,32.0,Papa Don't Preach,Madonna
+Steve Winwood,Higher Love,5dc4ef31-890d-46eb-80b7-c5c817ac911c,F,major,98.702545166,acousticbrainz,,,,,
+Bananarama,Venus,6d0dad35-582d-4695-ab19-b1fc30d44fcd,A,major,126.0,getsongbpm,4/4,73.0,9.0,Venus (new version),Bananarama
+Berlin,Take My Breath Away,a64690f2-182c-47f4-b474-aede6b1cac9a,G#,major,96.1905975342,acousticbrainz,,,,,
+Huey Lewis and the News,Stuck with You,ca68d53f-b12e-4bdc-a6ae-2a16c549320c,C,major,120.708702087,acousticbrainz,,,,,
+Janet Jackson,When I Think of You,9dda4754-e604-4191-a62d-77e6019f9e8f,F#,minor,116.0,getsongbpm,4/4,78.0,9.0,When I Think of You,Janet Jackson
+Cyndi Lauper,True Colors,c2b4c3c5-f63a-46e2-a9a7-1e37a8fafe3a,C,major,143.542556763,acousticbrainz,,,,,
+Boston,Amanda,c7898bf1-f67e-4bd6-ad6f-696f6638f68a,G,major,129.0,getsongbpm,4/4,45.0,33.0,Amanda,Boston
+Human League,Human,7947ee8e-fcdf-49d6-86f8-ecef2877f398,G#,major,99.0,getsongbpm,4/4,63.0,5.0,Human,The Human League
+Bon Jovi,You Give Love a Bad Name,42981b64-26c4-4877-9586-fca95cdadf8a,B,minor,117.217658997,acousticbrainz,,,,,
+Peter Cetera and Amy Grant,The Next Time I Fall,8624e669-f70d-4141-bfa2-ab31f983b6f1,,,,,,,,,
+Bruce Hornsby & the Range,The Way It Is,19673e3c-ab59-437c-9016-48c845d17493,G,major,111.0,getsongbpm,4/4,57.0,16.0,The Way It Is,Bruce Hornsby & The Range
+The Bangles,Walk Like an Egyptian,8c27c43f-84be-4b72-b9b0-da7d100196ea,B,major,103.0,getsongbpm,4/4,73.0,1.0,Walk Like an Egyptian,The Bangles
+Gregory Abbott,Shake You Down,da7575aa-7fe0-4c53-94b0-6432f46488de,B,minor,96.0,getsongbpm,4/4,79.0,50.0,Shake You Down,Gregory Abbott
+Billy Vera and the Beaters,At This Moment,05910ecb-4fa8-4adf-a78d-7895c1d7121a,,,,,,,,,
+Madonna,Open Your Heart,534a5d02-4b1e-4099-a6dd-ba2f7939d055,F,major,114.055778503,acousticbrainz,,,,,
+Bon Jovi,Livin' on a Prayer,3b71067b-cff5-49de-9498-50b7b069327c,E,minor,122.0,getsongbpm,4/4,54.0,8.0,Livin' on a Prayer,Bon Jovi
+Huey Lewis and the News,Jacob's Ladder,04646c40-b807-4df3-a645-2b899fa19189,A#,major,118.0,getsongbpm,4/4,67.0,1.0,Jacob's Ladder,Huey Lewis and the News
+Club Nouveau,Lean on Me,c6153fb2-fd3d-4592-aaac-2bf066f09f70,C,major,91.2300262451,acousticbrainz,,,,,
+Starship,Nothing's Gonna Stop Us Now,a8fa65a4-195f-44e6-9673-f3d6fe17b629,F#,major,96.0,getsongbpm,4/4,65.0,3.0,Nothing's Gonna Stop Us Now,Starship
+Aretha Franklin and George Michael,I Knew You Were Waiting (For Me),c7ed5b73-7263-4029-9e56-ea0b50e777a7,,,,,,,,,
+Cutting Crew,(I Just) Died in Your Arms,9f785c6a-30a8-458a-a11c-d25c0295fdaa,B,minor,123.0,getsongbpm,4/4,64.0,2.0,(I Just) Died in Your Arms,Cutting Crew
+U2,With or Without You,c61f7ccb-7693-42ba-b5de-7d4d6ee436bd,D,major,112.0,getsongbpm,4/4,54.0,1.0,With or Without You,U2
+Kim Wilde,You Keep Me Hangin' On,78432d9c-b956-4564-bd7c-b1005af3a46e,G,minor,123.0,getsongbpm,4/4,69.0,9.0,You Keep Me Hangin' On,Kim Wilde
+Atlantic Starr,Always,bfa6be38-b08f-4e7e-82f4-81ac650b6387,G,major,65.0,getsongbpm,4/4,61.0,40.0,Always,Atlantic Starr
+Lisa Lisa and Cult Jam,Head to Toe,94a43c3d-1313-415d-b0f8-9b6f607dbcab,D,major,113.231872559,acousticbrainz,,,,,
+Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),4e7a0b08-289f-436b-a482-81d0b82b3885,F#,major,117.0,getsongbpm,4/4,71.0,21.0,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston
+Heart,Alone,29603165-d703-4f66-b3ff-cbea36ab726f,A#,minor,89.0,getsongbpm,4/4,42.0,64.0,Alone,Heart
+Bob Seger,Shakedown,b6064fa8-5ce7-4d36-bfcd-13e33c05c8e0,,,,,,,,,
+U2,I Still Haven't Found What I'm Looking For,63ffa006-64cd-4257-92b2-2a916244cd50,B,major,102.0,getsongbpm,4/4,37.0,58.0,I Still Haven't Found What I'm Looking For (live),U2
+Madonna,Who's That Girl,f2e8df60-acc3-4479-bd01-c07a15466eea,,,,,,,,,
+Los Lobos,La Bamba,83385d07-d9e6-44f5-826a-1ce9ec30a6f5,C,major,161.0,getsongbpm,4/4,51.0,15.0,La Bamba,Los Lobos
+Michael Jackson with Siedah Garrett,I Just Can't Stop Loving You,bfcc0f29-112c-4a0f-8608-e23efe6627e9,,,,,,,,,
+Whitney Houston,Didn't We Almost Have It All,ad31a64e-a8d1-4673-b882-892997962067,A#,major,131.196990967,acousticbrainz,,,,,
+Whitesnake,Here I Go Again,a04ba723-25ac-47e3-b49b-fb64b6edc516,C#,major,178.20580291750002,acousticbrainz,,,,,
+Lisa Lisa and Cult Jam,Lost in Emotion,4756b7f9-4227-49f7-9fd3-32ebd51a80b1,,,,,,,,,
+Michael Jackson,Bad,47eaab1a-667b-490d-8094-168e7d0d9ad1,A#,minor,114.123695374,acousticbrainz,,,,,
+Tiffany,I Think We're Alone Now,c2f4e250-73bb-4ac1-8b7c-1670e353a972,D,major,129.0,getsongbpm,4/4,76.0,3.0,I Think We're Alone Now,Tiffany
+Billy Idol,Mony Mony,1cef5ed6-50de-4982-9744-b1949fe94730,A#,major,132.0,getsongbpm,4/4,58.0,1.0,Mony Mony - Idol/Stevens Remix,Billy Idol
+Bill Medley and Jennifer Warnes,(I've Had) The Time of My Life,12fab162-efee-4596-bb4d-6927295b87a9,,,,,,,,,
+Belinda Carlisle,Heaven Is a Place on Earth,d293d6c8-f753-4da9-8bc8-760983ce2f4d,E,major,123.0,getsongbpm,4/4,64.0,4.0,Heaven Is a Place on Earth,Belinda Carlisle
+George Michael,Faith,a2ac8a5e-6920-4086-863a-fc0298acbea4,B,major,96.0,getsongbpm,4/4,89.0,1.0,Faith,George Michael
+Whitney Houston,So Emotional,fc28d946-eb4a-4952-8233-48e0c437043e,B,minor,117.0,getsongbpm,4/4,70.0,27.0,So Emotional,Whitney Houston
+George Harrison,Got My Mind Set on You,9f0ef2cc-999e-4af8-a562-c8e139b74baa,E,major,76.0,getsongbpm,4/4,77.0,47.0,Got My Mind Set on You,George Harrison
+Michael Jackson,The Way You Make Me Feel,65b1eba7-a98c-4364-a39c-8ecaf66c4e7e,A,major,112.470314026,acousticbrainz,,,,,
+INXS,Need You Tonight,d25f36fc-3dd6-4e7c-a8e5-89e893dd165f,B,minor,108.0,getsongbpm,4/4,81.0,8.0,Need You Tonight,INXS
+Tiffany,Could've Been,af87711f-6825-4e10-8dde-4d7396aff0f6,C#,major,99.0,getsongbpm,3/4,47.0,53.0,Could've Been,Tiffany
+Exposé,Seasons Change,b2d8aba3-4054-42e2-902f-f3e2dd688b36,C,major,172.265037537,acousticbrainz,,,,,
+George Michael,Father Figure,21c790aa-53e3-4440-b778-b85a0a7ed4cf,A#,minor,97.900177002,acousticbrainz,,,,,
+Rick Astley,Never Gonna Give You Up,a4fd9f68-0907-47ee-a30d-5ce6185b25da,A#,minor,112.0,getsongbpm,4/4,73.0,14.0,Never Gonna Give You Up,Rick Astley
+Michael Jackson,Man in the Mirror,1bb4ca30-d4b4-4788-a837-ab4a7373b2ac,G#,major,98.8658218384,acousticbrainz,,,,,
+Billy Ocean,"Get Outta My Dreams, Get into My Car",55fd459f-c7f4-4fc0-9168-70bcddf9522a,E,major,117.0,getsongbpm,4/4,67.0,6.0,"Get Outta My Dreams, Get Into My Car",Billy Ocean
+Whitney Houston,Where Do Broken Hearts Go,03efb2dc-adc4-4203-87bb-bead4d35ebef,D,major,61.0,getsongbpm,4/4,47.0,64.0,Where Do Broken Hearts Go,Whitney Houston
+Terence Trent D'Arby,Wishing Well,ddef70f7-4209-4f6d-ae92-fd0e256f9d0e,A#,minor,103.0,getsongbpm,4/4,87.0,13.0,Wishing Well,Terence Trent D'Arby
+Gloria Estefan and Miami Sound Machine,Anything for You,67faf283-aec2-41e3-bad0-a593545e3e03,,,,,,,,,
+George Michael,One More Try,e2643c28-92d6-457a-a857-cf46b83cda4b,F,major,70.0,getsongbpm,4/4,24.0,61.0,One More Try,George Michael
+Rick Astley,Together Forever,ca16378d-fbf0-4a94-8635-dbcdc2385317,D,major,115.0,getsongbpm,4/4,71.0,5.0,Together Forever,Rick Astley
+Debbie Gibson,Foolish Beat,92fa5e4b-529e-45dd-b5a9-90ee536532fe,A#,minor,78.0,getsongbpm,4/4,55.0,24.0,Foolish Beat,Debbie Gibson
+Michael Jackson,Dirty Diana,24b42e06-0608-4692-a346-1eec1bdd968a,G,minor,136.0,getsongbpm,4/4,75.0,20.0,Dirty Diana,Michael Jackson
+Cheap Trick,The Flame,b33d5789-37f5-425c-b744-4857ec734aa3,E,major,97.0,getsongbpm,4/4,64.0,55.0,The Flame,Cheap Trick
+Richard Marx,Hold On to the Nights,29c557d5-12c3-4f80-924a-7dd146b12de0,A#,major,144.166671753,acousticbrainz,,,,,
+Steve Winwood,Roll with It,a7a8be65-d451-49c3-9a8a-25d381902648,C,major,117.2727050785,acousticbrainz,,,,,
+George Michael,Monkey,20559ef7-5e3f-4b22-a3a6-5b416919becb,E,major,98.1662063599,acousticbrainz,,,,,
+Guns N' Roses,Sweet Child o' Mine,b1cbf8b3-8823-43b9-bc13-4bc3b2f2577e,C#,major,123.0,getsongbpm,4/4,45.0,10.0,Sweet Child o' Mine,Guns N' Roses
+Bobby McFerrin,"Don't Worry, Be Happy",0de19c39-c0a3-4d4d-bcf1-30d74fd335e8,E,major,69.1845779419,acousticbrainz,,,,,
+Def Leppard,Love Bites,36166547-f851-4ed1-a3a7-32926d622db7,D#,major,130.031089783,acousticbrainz,,,,,
+UB40,Red Red Wine,b654be38-1838-4b0c-bafe-071f20a34b05,C#,major,89.0,getsongbpm,4/4,86.0,1.0,Red Red Wine,UB40
+Phil Collins,A Groovy Kind of Love,b304e8a4-40ce-42a0-a178-b3e2523372b6,,,,,,,,,
+The Beach Boys,Kokomo,6148a487-a767-445c-a42d-53c25e59835f,C,major,116.082588196,acousticbrainz,,,,,
+The Escape Club,"Wild, Wild West",8508edc8-f6bc-45d2-9b9b-35a643508e21,E,major,138.0508728025,acousticbrainz,,,,,
+Bon Jovi,Bad Medicine,5053c294-90fe-47e9-9e21-1a4c4538c20f,A,major,118.560386658,acousticbrainz,,,,,
+Will to Power,"Baby, I Love Your Way / Freebird Medley (Free Baby)",78784177-e077-42e1-828a-41033b69b624,G,major,75.0,getsongbpm,4/4,59.0,12.0,"Baby, I Love Your Way / Freebird Medley (Free Baby)",Will to Power
+Chicago,Look Away,42a9bc83-8243-4d0e-a93b-aed5bd129754,A,major,86.0,getsongbpm,4/4,40.0,47.0,Look Away,Chicago
+Poison,Every Rose Has Its Thorn,b1df667f-f88d-472d-bd26-d7162d6e48d4,C,major,70.0,getsongbpm,4/4,54.0,16.0,Every Rose Has Its Thorn,Poison
+Bobby Brown,My Prerogative,cec947a9-1211-4aad-b59a-74c6183120c5,A,minor,110.621925354,acousticbrainz,,,,,
+Phil Collins,Two Hearts,6e60e28c-4097-4704-b449-37af8c0b78fc,F#,major,152.882614136,acousticbrainz,,,,,
+Sheriff,When I'm with You,4a7860f5-607e-464c-8619-a2785e8324e0,A,major,135.0,getsongbpm,4/4,25.0,28.0,When I'm With You,Sheriff
+Paula Abdul,Straight Up,93353318-8514-4b2f-8079-c0383e03e63c,G,major,95.0,getsongbpm,4/4,77.0,27.0,Straight Up,Paula Abdul
+Debbie Gibson,Lost in Your Eyes,bc383d83-0475-498c-bd31-9614f62fc736,G,major,144.0,getsongbpm,4/4,49.0,46.0,Lost in Your Eyes,Debbie Gibson
+Mike + The Mechanics,The Living Years,b57322fa-33d8-4fe1-b25a-2a9f750bb7fa,G#,major,97.0,getsongbpm,4/4,53.0,65.0,The Living Years,Mike + The Mechanics
+The Bangles,Eternal Flame,951a170c-9e95-4090-86d5-b6815c3720b2,D,major,78.0,getsongbpm,3/4,53.0,53.0,Eternal Flame,The Bangles
+Roxette,The Look,b543cfa0-12cc-43f9-a688-4bed6684155d,D,major,100.0,getsongbpm,4/4,46.0,1.0,The Look (live),Roxette
+Fine Young Cannibals,She Drives Me Crazy,a1065511-30ac-4399-9d1e-9b389234151a,D,major,108.0,getsongbpm,4/4,80.0,20.0,She Drives Me Crazy,Fine Young Cannibals
+Madonna,Like a Prayer,dde2bbd2-737d-4bf2-b736-37288952f88d,F,major,112.0,getsongbpm,4/4,63.0,27.0,Like a Prayer,Madonna
+Bon Jovi,I'll Be There for You,713d8780-190f-455a-ab77-873940d96451,D,major,73.0,getsongbpm,4/4,44.0,6.0,I'll Be There for You,Bon Jovi
+Paula Abdul,Forever Your Girl,a48a63c8-c531-4521-af02-daa00c65d430,D,major,119.0,getsongbpm,4/4,71.0,19.0,Forever Your Girl,Paula Abdul
+Michael Damian,Rock On,4a220b79-b89a-4eec-b0c1-a77b127f2e0f,C#,minor,168.0,getsongbpm,4/4,44.0,4.0,Rock On,Michael Damian
+Bette Midler,Wind Beneath My Wings,5ff40348-a20e-4e63-abd8-f6c8c84ba411,,,,,,,,,
+New Kids on the Block,I'll Be Loving You (Forever),cff10272-19eb-460f-9731-4da2906bb37d,B,minor,134.788040161,acousticbrainz,,,,,
+Richard Marx,Satisfied,b27f75fe-4e90-4cb0-ad24-61b046f96788,G#,major,108.0,getsongbpm,4/4,58.0,8.0,Satisfied,Richard Marx
+Milli Vanilli,Baby Don't Forget My Number,15e54c7d-2b88-4f76-90c8-ac3206bf2de8,A,major,100.435501099,acousticbrainz,,,,,
+Fine Young Cannibals,Good Thing,99e56e1b-8114-453e-abf5-447c89d3e691,A,minor,83.0,getsongbpm,4/4,75.0,8.0,Good Thing,Fine Young Cannibals
+Simply Red,If You Don't Know Me by Now,5b578b87-840e-4af4-a716-babc4644b04d,A#,major,94.0,getsongbpm,3/4,64.0,50.0,If You Don't Know Me by Now,Simply Red
+Martika,Toy Soldiers,ed216e21-35d6-4141-9b9c-09c608f32c38,C#,minor,130.0,getsongbpm,4/4,53.0,42.0,Toy Soldiers,Martika
+Prince,Batdance,7786cc44-624c-4cc5-9fc4-3b9eff683934,,,,,,,,,
+Richard Marx,Right Here Waiting,27369211-d89a-413f-b9b3-27450bd7d5d6,C,major,89.0,getsongbpm,4/4,40.0,80.0,Right Here Waiting,Richard Marx
+Paula Abdul,Cold Hearted,b3edcd62-b41d-4dce-af5f-565101797f14,G,minor,122.0,getsongbpm,4/4,88.0,15.0,Cold Hearted,Paula Abdul
+New Kids on the Block,Hangin' Tough,08773524-c1ab-4ff3-8ad4-a4689890f3b5,F#,major,90.0,getsongbpm,4/4,77.0,12.0,Hangin' Tough,New Kids on the Block
+Gloria Estefan,Don't Wanna Lose You,af04f45e-5d5c-41b4-a080-5ad1db8b8ab3,F,major,164.0,getsongbpm,4/4,47.0,50.0,Don't Wanna Lose You,Gloria Estefan
+Milli Vanilli,Girl I'm Gonna Miss You,a11d2e98-827f-483c-b825-4d15ace37b93,,,,,,,,,
+Janet Jackson,Miss You Much,2250aa9c-3acd-44e8-ae46-fd664c168198,F#,minor,115.0,getsongbpm,4/4,72.0,4.0,Miss You Much,Janet Jackson
+Roxette,Listen to Your Heart,e17cca2e-5579-47f8-8f6a-6965540988ee,B,minor,172.0,getsongbpm,4/4,49.0,7.0,Habla el corazón (Listen to Your Heart),Roxette
+Bad English,When I See You Smile,bdbe3ffa-7b9a-4d4a-a9c0-127b44373a3d,G,major,68.0,getsongbpm,4/4,50.0,42.0,When I See You Smile,Bad English
+Milli Vanilli,Blame It on the Rain,ef067038-623e-49c1-9af9-cda2764d3bcc,E,minor,97.0,getsongbpm,4/4,76.0,1.0,Blame It on the Rain,Milli Vanilli
+Billy Joel,We Didn't Start the Fire,47e03b04-502b-4797-8d3e-f11b4f509f62,G,major,144.0,getsongbpm,4/4,72.0,8.0,We Didn't Start the Fire,Billy Joel
+Phil Collins,Another Day in Paradise,ecd5986b-dd05-44b7-bdfc-bda89085090b,F,minor,51.0,getsongbpm,4/4,78.0,74.0,Another Day in Paradise,Phil Collins
+Michael Bolton,How Am I Supposed to Live Without You,475bbbc9-0677-44ac-a30d-a55ee845bf6c,A#,major,70.0,getsongbpm,4/4,54.0,14.0,How Am I Supposed to Live Without You,Michael Bolton
+Paula Abdul & The Wild Pair,Opposites Attract,,,,,,,,,,
+Janet Jackson,Escapade,67fe2d4b-2aa8-408b-ac0d-3691d21292e4,C#,major,115.0,getsongbpm,4/4,82.0,3.0,Escapade,Janet Jackson
+Alannah Myles,Black Velvet,ea711f12-ca44-4c33-ae3a-893afe449e6f,D#,major,92.0,getsongbpm,4/4,76.0,28.0,Black Velvet,Alannah Myles
+Taylor Dayne,Love Will Lead You Back,1d6eece6-262a-4094-bb9a-657736b6a5bf,C#,major,146.437408447,acousticbrainz,,,,,
+Tommy Page,I'll Be Your Everything,edf895ac-16cc-42ce-81f0-378d0e403761,F,major,144.0,getsongbpm,4/4,50.0,34.0,I'll Be Your Everything,Tommy Page
+Sinéad O'Connor,Nothing Compares 2 U,086453f6-da87-41f7-a634-f1c3b03937a7,F,major,119.0,getsongbpm,4/4,52.0,5.0,Nothing Compares 2 U,Sinéad O'Connor
+Madonna,Vogue,a6beb1b9-1174-4747-9df8-60640d022206,,,,,,,,,
+Wilson Phillips,Hold On,c0917e13-8fa8-4a43-be86-18f7231007e9,F,major,97.0,getsongbpm,4/4,68.0,40.0,Hold On,Wilson Phillips
+Roxette,It Must Have Been Love,6f210fce-65a5-44bc-b41d-41377ec2cb4c,C,major,136.0,getsongbpm,4/4,46.0,28.0,It Must Have Been Love (live/studio),Roxette
+New Kids on the Block,Step By Step,08659890-3a38-4be7-a86f-99f3e4b46f9b,C,major,123.0,getsongbpm,4/4,79.0,3.0,Step by Step,New Kids on the Block
+Glenn Medeiros featuring Bobby Brown,She Ain't Worth It,1b6a1b61-4754-4a4f-a0fc-89b9dbfb3b85,,,,,,,,,
+Mariah Carey,Vision of Love,7ec4ae89-ac8b-48b9-9c95-7569b905cfa3,F#,major,108.569114685,acousticbrainz,,,,,
+Sweet Sensation,If Wishes Came True,312da0e7-c5d2-4260-9a5c-77d22d75e7ea,,,,,,,,,
+Jon Bon Jovi,Blaze Of Glory,d9fa6fba-9c14-46c6-aefd-7460af57e28c,,,,,,,,,
+Wilson Phillips,Release Me,7789d100-ba86-43ae-8641-7a79e94a0d03,C,major,97.0,getsongbpm,4/4,73.0,45.0,Release Me,Wilson Phillips
+Nelson,(Can't Live Without Your) Love And Affection,29307665-912f-4720-9a18-dffc0db05f75,C#,major,121.0,getsongbpm,4/4,55.0,4.0,(Can't Live Without Your) Love and Affection,Nelson
+Maxi Priest,Close To You,71857a56-6f55-4b9d-9e22-2c6f9f31dc8e,A#,minor,95.0,getsongbpm,4/4,77.0,2.0,Close to You,Maxi Priest
+George Michael,Praying for Time,13f1c720-614c-4d4a-abc4-b329705d61ce,A#,major,127.0,getsongbpm,4/4,58.0,7.0,Praying for Time,George Michael
+James Ingram,I Don't Have the Heart,a8e5096e-c8ce-46ae-bd5c-c302c6d47a5e,D,major,88.0,getsongbpm,4/4,49.0,66.0,I Don't Have The Heart,James Ingram
+Janet Jackson,Black Cat,56f31917-15b2-4051-b8bc-5aa915a0a8fa,E,minor,114.0,getsongbpm,4/4,71.0,14.0,Black Cat,Janet Jackson
+Vanilla Ice,Ice Ice Baby,5efa2fe7-11ca-445c-8d11-129aa1fa7860,G,minor,117.0,getsongbpm,4/4,98.0,1.0,Ice Ice Baby,Vanilla Ice
+Mariah Carey,Love Takes Time,32d63504-fab5-4192-be6a-e1da67499ac9,B,major,126.0,getsongbpm,4/4,61.0,73.0,Love Takes Time,Mariah Carey
+Whitney Houston,I'm Your Baby Tonight,d7a78922-982e-4c95-8f5e-52b993141313,F#,major,165.0,getsongbpm,3/4,67.0,32.0,I'm Your Baby Tonight,Whitney Houston
+Stevie B,Because I Love You (The Postman Song),6334e1c5-b3ff-4700-8ee8-9201098ba8fa,C#,major,128.0,getsongbpm,4/4,51.0,74.0,Because I Love You (The Postman Song),Stevie B
+Madonna,Justify My Love,d5e22346-f5b2-47da-8a19-2c91bbe1172e,,,,,,,,,
+Janet Jackson,Love Will Never Do (Without You),0163b9aa-0ed6-467b-931d-4895fe065d27,C#,major,103.604019165,acousticbrainz,,,,,
+Surface,The First Time,28d42e13-3b97-4cd3-84a9-4bb7ddaa0400,A#,minor,126.367660522,acousticbrainz,,,,,
+C+C Music Factory featuring Freedom Williams,Gonna Make You Sweat (Everybody Dance Now),f673b283-adb4-4e6b-8f06-8cf82a86fed1,D#,major,114.63911438,acousticbrainz,,,,,
+Whitney Houston,All the Man That I Need,587b568a-f3a0-474a-aaf6-0329c88aa1c9,C#,major,150.84803772,acousticbrainz,,,,,
+Mariah Carey,Someday,b51c3c48-358a-4c3c-8bc8-5eb372736cc5,C#,minor,109.0,getsongbpm,4/4,69.0,21.0,Someday,Mariah Carey
+Timmy T,One More Try,a41e964b-5b9f-440a-9efa-ef7900a200b2,A,major,149.0,getsongbpm,5/4,65.0,20.0,One More Try,Timmy T
+Gloria Estefan,Coming Out of the Dark,bd7ff411-fed4-44af-850d-8032dcfa502b,E,major,129.0,getsongbpm,4/4,65.0,65.0,Coming Out of the Dark,Gloria Estefan
+Londonbeat,I've Been Thinking About You,260422d4-0c73-4dad-a74c-aaa8c6c8bba9,B,minor,112.0,getsongbpm,4/4,67.0,5.0,I've Been Thinking About You,Londonbeat
+Wilson Phillips,You're in Love,6b2cc700-b46f-4a2a-9e8f-82743d7db910,E,major,101.909172058,acousticbrainz,,,,,
+Amy Grant,Baby Baby,32b1fa26-b2e1-4575-a3d6-455340aecbc4,C#,major,98.132194519,acousticbrainz,,,,,
+Roxette,Joyride,82c72383-3863-4502-bf2a-cd1a53e2c489,D,major,102.335411072,acousticbrainz,,,,,
+Hi-Five,I Like the Way (The Kissing Game),1835f83c-f0f0-4e8a-95ec-7ebcf67a6bfa,A#,minor,102.0,getsongbpm,4/4,68.0,6.0,I Like the Way (The Kissing Game),Hi-Five
+Mariah Carey,I Don't Wanna Cry,0fe50a08-46b4-4636-bfb1-08f9c16223de,C#,major,131.838226318,acousticbrainz,,,,,
+Extreme,More Than Words,59c36a45-9df4-480e-b4ef-0ba4898d49ab,F#,major,184.0,getsongbpm,4/4,62.0,47.0,More Than Words,Extreme
+Paula Abdul,Rush Rush,165af04a-ac89-4065-aa39-b62f548540f3,E,major,90.0,getsongbpm,4/4,71.0,77.0,Rush Rush,Paula Abdul
+EMF,Unbelievable,b3058c5e-ee04-4194-99ad-638133ad548f,C#,major,103.0,getsongbpm,4/4,64.0,1.0,Unbelievable,EMF
+Bryan Adams,(Everything I Do) I Do It for You,96b56587-9be6-4c67-978e-1c7733094405,C#,major,66.0,getsongbpm,4/4,52.0,9.0,(Everything I Do) I Do It for You,Bryan Adams
+Paula Abdul,The Promise of a New Day,ed38793b-2f2f-4997-889a-f4a4237ada88,C#,major,119.0,getsongbpm,4/4,76.0,10.0,The Promise of a New Day,Paula Abdul
+Color Me Badd,I Adore Mi Amor,75461eb7-5b40-46c9-8160-4e119ecd63ac,G#,major,91.8186798096,acousticbrainz,,,,,
+Marky Mark and the Funky Bunch featuring Loleatta Holloway,Good Vibrations,410b6528-7010-4e23-addb-34bb43c89fd9,,,,,,,,,
+Mariah Carey,Emotions,2100e2ba-5ea8-4059-b459-72b9b2cfc184,A,minor,112.0,getsongbpm,4/4,75.0,5.0,Emotions,Mariah Carey
+Karyn White,Romantic,5262606b-f4f8-43a9-b6fe-888ac53d6426,C#,minor,110.0,getsongbpm,4/4,68.0,49.0,Romantic,Karyn White
+Prince & The New Power Generation,Cream,24210ee2-4f66-4ca8-9b81-06bf52bf09b4,,,,,,,,,
+Michael Bolton,When A Man Loves A Woman,3af628ef-1dca-4101-b5cc-fe2d41bf9c58,C#,major,82.0,getsongbpm,3/4,48.0,20.0,When a Man Loves a Woman,Michael Bolton
+P.M. Dawn,Set Adrift on Memory Bliss,fa63bfcd-a6ed-4133-b2ad-95372eb332bd,G,major,98.0,getsongbpm,4/4,76.0,5.0,Set Adrift on Memory Bliss,P.M. Dawn
+Michael Jackson,Black or White,8bfb621c-6f06-44d3-b735-5cb06ff15c56,A,major,115.030471802,acousticbrainz,,,,,
+Color Me Badd,All 4 Love,34a7e281-17aa-481a-8026-5d360f5616a7,D,major,106.0,getsongbpm,4/4,81.0,4.0,All 4 Love,Color Me Badd
+George Michael & Elton John,Don't Let The Sun Go Down On Me,eb194ac2-3cad-4ac0-8046-fc2ae5a209fc,,,,,,,,,
+Right Said Fred,I'm Too Sexy,f3fea34b-9ff5-48ac-8ff5-d42be6be2469,E,major,122.025543213,acousticbrainz,,,,,
+Mr. Big,To Be With You,af5a54d5-3eab-433e-a87e-5ebee9726c80,E,major,83.0,getsongbpm,4/4,70.0,25.0,To Be With You,Mr. Big
+Vanessa Williams,Save the Best for Last,c9f2ba1b-a673-4fcc-b879-a9478e81710e,D#,major,96.0,getsongbpm,4/4,53.0,66.0,Save the Best for Last,Vanessa Williams
+Kris Kross,Jump,b8f49adf-83eb-4dbd-9fc5-398387f7335f,F,minor,103.0,getsongbpm,4/4,75.0,1.0,Jump,Kris Kross
+Mariah Carey,I'll Be There,c6e23438-3782-493d-91e4-12c1aef5d6be,F,major,81.6681289673,acousticbrainz,,,,,
+Sir Mix-A-Lot,Baby Got Back,d41e82f8-cce8-43a6-8453-fe84b39f2027,A#,major,128.532913208,acousticbrainz,,,,,
+Madonna,This Used To Be My Playground,9c51e8cc-12a7-45a8-bc50-ab2b6fd024d3,,,,,,,,,
+Boyz II Men,End of the Road,2548c403-dcd0-46ef-9298-7a85ac592072,D#,major,149.697311401,acousticbrainz,,,,,
+The Heights,How Do You Talk To An Angel,4d731f60-8bb6-48ca-a15d-ea93f5390a79,A,major,80.9263916016,acousticbrainz,,,,,
+Whitney Houston,I Will Always Love You,1c2000a1-c916-4572-8314-9edef5f5ba93,A,major,134.12059021,acousticbrainz,,,,,
+Peabo Bryson & Regina Belle,A Whole New World,da09a07a-2bb9-4702-8374-b52d0082ec74,,,,,,,,,
+Snow,Informer,f5a472e9-488d-4a3a-b83c-31ee4b01ebbc,F#,minor,99.0,getsongbpm,4/4,77.0,10.0,Informer,Snow
+Silk,Freak Me,8c9dd40c-a02d-4beb-a6e9-4ad8ffb95ad0,E,minor,133.0,getsongbpm,4/4,70.0,3.0,Freak Me,Silk
+Janet Jackson,That's The Way Love Goes,84ff980e-cc5c-44f2-a491-651d3acc3097,F,major,99.0,getsongbpm,4/4,71.0,31.0,That's the Way Love Goes,Janet Jackson
+SWV,Weak,75df224b-894e-437a-8267-11ce779f8e10,D,minor,127.0,getsongbpm,4/4,70.0,11.0,Weak,SWV
+UB40,(I Can't Help) Falling in Love with You,8d9d5b71-7fc5-44a4-b713-ebac5e2ef0a6,,,,,,,,,
+Mariah Carey,Dreamlover,e3d0f797-5dda-4b5a-bce4-c3a6a6ddabb3,F,major,99.0,getsongbpm,4/4,71.0,18.0,Dreamlover,Mariah Carey
+Meat Loaf,I'd Do Anything for Love (But I Won't Do That),a8c48ff1-fece-4f70-a4ea-6b440e42c2dd,C,major,151.216430664,acousticbrainz,,,,,
+Janet Jackson,Again,7fe10951-05e4-4e9b-8341-73d1fc2b3ca4,C,major,129.401672363,acousticbrainz,,,,,
+Mariah Carey,Hero,c6c73248-8ca1-4ed4-8fa4-45cff9878687,E,major,58.0,getsongbpm,4/4,51.0,74.0,Hero,Mariah Carey
+"Bryan Adams , Rod Stewart & Sting",All For Love,,,,,,,,,,
+Céline Dion,The Power Of Love,e15ee46e-81d6-4381-b90b-75ad731d1008,G#,major,140.03024292,acousticbrainz,,,,,
+Ace of Base,The Sign,fafeff1c-bbe7-4a07-82b0-1f406d2b2b91,E,minor,96.0,getsongbpm,4/4,81.0,1.0,The Sign,Ace of Base
+R. Kelly,Bump n' Grind,a0944df6-c49b-4a69-b05a-7028b0e907ef,B,major,130.15528106649998,acousticbrainz,,,,,
+All-4-One,I Swear,54764693-4285-4aca-9eb5-fd9409c7ee24,,,,,,,,,
+Lisa Loeb & Nine Stories,Stay (I Missed You),9631abaf-58bf-4f5c-87f6-083f8da9422b,,,,,,,,,
+Boyz II Men,I'll Make Love to You,3f021bb9-912c-4e75-b06e-67c55c0f8168,D,major,142.542526245,acousticbrainz,,,,,
+Boyz II Men,On Bended Knee,e15f2525-d3e2-471a-94bf-ba709d2cef55,G#,major,116.0,getsongbpm,4/4,63.0,42.0,On Bended Knee,Boyz II Men
+Ini Kamoze,Here Comes the Hotstepper,5992c049-e901-4520-a64a-706f2f64ad7f,A,minor,99.0,getsongbpm,4/4,89.0,2.0,Here Comes the Hotstepper,Ini Kamoze
+TLC,Creep,1a434fd2-44f6-483c-9f01-217fb63a7248,C,minor,92.0,getsongbpm,4/4,82.0,2.0,Creep,TLC
+Madonna,Take A Bow,fc065b8f-5ceb-4a1e-b654-dfe240105485,G#,major,79.9793891907,acousticbrainz,,,,,
+Montell Jordan,This Is How We Do It,dda76b80-9af5-450a-80a8-80bd641a5474,C,major,103.0,getsongbpm,4/4,80.0,2.0,This Is How We Do It,Montell Jordan
+Bryan Adams,Have You Ever Really Loved A Woman,fd7dbc7f-d190-48d0-90f5-978b49f10e52,G,major,145.0,getsongbpm,3/4,57.0,56.0,Have You Ever Really Loved a Woman?,Bryan Adams
+TLC,Waterfalls,9da1c07a-838d-4749-adee-b6181cc89030,D#,major,85.0,getsongbpm,4/4,77.0,32.0,Waterfalls,TLC
+Seal,Kiss from a Rose,cc740588-95d7-4ed9-b4fe-45ed94f8b98f,C,minor,121.424987793,acousticbrainz,,,,,
+Michael Jackson,You Are Not Alone,673a4902-8660-4a55-97e9-7491730b38a1,B,major,119.887435913,acousticbrainz,,,,,
+Coolio featuring L.V.,Gangsta's Paradise,2f7a6735-2e09-4ce2-81e4-b148e6c39a55,G#,major,161.512420654,acousticbrainz,,,,,
+Mariah Carey,Fantasy,7ee9b58b-be6d-4d7f-aa3d-f69f97917efc,G,major,103.0,getsongbpm,4/4,68.0,14.0,Fantasy,Mariah Carey
+Whitney Houston,Exhale (Shoop Shoop),0cd5e703-bb41-4294-806a-8d7f631802ac,,,,,,,,,
+Mariah Carey & Boyz II Men,One Sweet Day,4a6cd7ef-d2e9-4296-b444-e4ca4436699a,,,,,,,,,
+Céline Dion,Because You Loved Me,a6ef5c40-f8cd-4989-81e7-cb32417a06cc,C#,major,119.0,getsongbpm,4/4,63.0,29.0,Because You Loved Me,Céline Dion
+Mariah Carey,Always Be My Baby,2faee542-6965-4edc-a369-1d9432a0fdfd,E,major,78.0,getsongbpm,4/4,65.0,46.0,Always Be My Baby,Mariah Carey
+Bone Thugs-N-Harmony,Tha Crossroads,1af55639-5042-437f-b74d-31744aee98f6,,,,,,,,,
+2Pac featuring K-Ci & JoJo / Dr. Dre and Roger Troutman,"How Do U Want It "" / "" California Love",54b3442f-56d2-4810-871d-ff56647d8e46,,,,,,,,,
+Toni Braxton,"You're Makin' Me High "" / "" Let It Flow",9a5eb151-9d6f-439b-b2d8-6ed4cf248af8,F,major,84.1644325256,acousticbrainz,,,,,
+Los Del Rio,Macarena (Bayside Boys Mix),802d344c-6752-4e0b-9228-692fdc016690,,,,,,,,,
+Blackstreet featuring Dr. Dre,No Diggity,dba69c24-33b1-49c0-b52f-e7b0180ed67a,F#,minor,88.7062759399,acousticbrainz,,,,,
+Toni Braxton,Un-Break My Heart,e010e7a0-7e38-4097-ab18-3de0e3bc0d82,A,minor,109.975364685,acousticbrainz,,,,,
+Spice Girls,Wannabe,e510b0c0-ca3d-46fb-a053-4040adfff7cb,B,major,110.0,getsongbpm,4/4,77.0,11.0,Wannabe,Spice Girls
+Puff Daddy featuring Mase,Can't Nobody Hold Me Down,677acff4-4d33-495b-9be5-065cc5fca3ba,,,,,,,,,
+The Notorious B.I.G.,Hypnotize,bcc20dc7-5504-4b11-96d9-a3bba291287b,E,major,96.0,getsongbpm,4/4,90.0,18.0,Hypnotize,The Notorious B.I.G.
+Hanson,MMMBop,d711222f-5ba1-41eb-bda9-8fc71139828a,A,major,104.0,getsongbpm,4/4,70.0,1.0,MMMBop,Hanson
+Puff Daddy & Faith Evans featuring 112,I'll Be Missing You,adfc0d84-c4a5-4d60-8c5a-509bc6d768a3,G,major,109.990509033,acousticbrainz,,,,,
+The Notorious B.I.G. featuring Puff Daddy & Mase,Mo Money Mo Problems,a240926a-4938-4fd5-afd2-1ea9ceb16dde,E,major,104.414710999,acousticbrainz,,,,,
+Mariah Carey,Honey,85317778-7500-4975-a450-a4f6de261588,C#,major,95.0,getsongbpm,4/4,70.0,12.0,Honey,Mariah Carey
+Boyz II Men,4 Seasons of Loneliness,d2a7bf56-b783-4de8-82ef-604566f5dbf4,C#,major,98.2688217163,acousticbrainz,,,,,
+Elton John,"Candle in the Wind '97 "" / "" Something About the Way You Look Tonight",b9fdcc99-0747-4698-b4cf-df77a7eac797,,,,,,,,,
+Savage Garden,Truly Madly Deeply,730f9125-71e5-46bd-a002-2459a5752436,C,major,168.0,getsongbpm,4/4,57.0,43.0,Truly Madly Deeply,Savage Garden
+Janet Jackson,Together Again,ceb1fbeb-7c98-43c8-86b4-fae59617929d,G,major,123.0,getsongbpm,4/4,88.0,8.0,Together Again,Janet Jackson
+Usher,Nice & Slow,92064eb2-1a07-4e90-ba14-eeeb17142960,F,minor,121.0,getsongbpm,4/4,82.0,16.0,Nice & Slow,Usher
+Céline Dion,My Heart Will Go On,83664cb5-b5f8-4f6a-ac19-050e293401b0,E,major,98.0,getsongbpm,1/4,43.0,74.0,My Heart Will Go On,Céline Dion
+Will Smith,Gettin' Jiggy Wit It,c5ac5bc4-f7de-48c2-af8c-530cab71096d,F#,major,108.0,getsongbpm,4/4,89.0,2.0,Gettin' Jiggy Wit It,Will Smith
+K-Ci & JoJo,All My Life,4031bd43-821e-466f-9b53-8ee6f9d63d77,C#,major,127.99747467,acousticbrainz,,,,,
+Next,Too Close,3f474b65-348c-4b21-a4ec-f77bf824b49a,A,major,99.477180481,acousticbrainz,,,,,
+Mariah Carey,My All,42449a07-fdc2-4cbc-ab9f-3533ce0afe2d,G,minor,108.0,getsongbpm,4/4,40.0,74.0,My All,Mariah Carey
+Brandy & Monica,The Boy Is Mine,4fd2617f-4419-498b-9576-d8b0458d1fce,C#,minor,92.9517974854,acousticbrainz,,,,,
+Aerosmith,I Don't Want to Miss a Thing,12923b6b-90fc-46d4-8a43-d18f6cfd3920,D,major,121.029151917,acousticbrainz,,,,,
+Monica,The First Night,8189ef02-e48f-424d-9edc-6d743c21cb28,C#,minor,152.0,getsongbpm,4/4,68.0,14.0,The First Night,Monica
+Barenaked Ladies,One Week,999838b1-76f2-44b5-b74d-93e93cfb2bc8,A,major,112.0,getsongbpm,4/4,71.0,1.0,One Week,Barenaked Ladies
+Lauryn Hill,Doo Wop (That Thing),0fe68e7b-46f3-4674-bd53-6098b157c681,A#,major,99.8382568359,acousticbrainz,,,,,
+Divine,Lately,ae9b32ab-a025-4c66-aa4d-2f83fb70ab29,A,major,121.068656921,acousticbrainz,,,,,
+R. Kelly & Céline Dion,I'm Your Angel,,,,,,,,,,
+Brandy,Have You Ever,6ad1f6e6-1c3d-4d53-a99a-afb735fad247,D,major,134.0,getsongbpm,4/4,70.0,55.0,Have You Ever?,Brandy
+Britney Spears,…Baby One More Time,99e3bd83-ecb5-4221-acad-f386a1a56be8,,,,,,,,,
+Monica,Angel of Mine,418b5dd2-f529-404f-bfd6-91af6047150c,A#,minor,90.0,getsongbpm,4/4,60.0,1.0,Angel of Mine,Monica
+Cher,Believe,70d064a0-5b9d-4c88-8081-19c92be8d73d,C#,major,132.923187256,acousticbrainz,,,,,
+TLC,No Scrubs,e96bb8ef-b98c-4020-9d0e-f816607c34e5,G#,minor,92.8690795898,acousticbrainz,,,,,
+Ricky Martin,Livin' la Vida Loca,82c18af7-1ae0-4369-890b-15823979e54c,C#,minor,178.0,getsongbpm,4/4,43.0,1.0,Livin' la Vida Loca,Ricky Martin
+Jennifer Lopez,If You Had My Love,090f2989-945d-4139-aab3-e6f838317d54,B,minor,100.0,getsongbpm,,,,If You Had My Love (Si tuvieras mi amor),Jennifer Lopez
+Destiny's Child,"Bills, Bills, Bills",4579b7fd-7375-448c-8625-9898a5647a86,B,minor,127.0,getsongbpm,4/4,85.0,14.0,"Bills, Bills, Bills",Destiny's Child
+Will Smith featuring Dru Hill & Kool Moe Dee,Wild Wild West,156cbc21-3072-4edd-ae22-cfb36e3171f2,D#,minor,106.979408264,acousticbrainz,,,,,
+Christina Aguilera,Genie in a Bottle,68cd004f-eca9-427e-9c40-b77da17d2fd8,F,minor,87.0,getsongbpm,4/4,64.0,19.0,Genie in a Bottle,Christina Aguilera
+Enrique Iglesias,Bailamos,403f395f-4549-41ae-8e6b-41d37b564dcf,G,major,99.0,getsongbpm,4/4,64.0,7.0,Bailamos,Enrique Iglesias
+TLC,Unpretty,6037ea46-ed59-4489-a19d-49c0e9b61f5a,G,major,88.0,getsongbpm,4/4,65.0,1.0,Unpretty,TLC
+Mariah Carey featuring Jay-Z,Heartbreaker,7238ac4e-eacb-402e-91d0-efc8bcf230be,,,,,,,,,
+Santana featuring Rob Thomas,Smooth,4d50fd24-4410-4491-a507-ceb04274a5a3,,,,,,,,,
+Christina Aguilera,What a Girl Wants,aa40227e-c877-408d-b0b7-8e0a48db687b,C,major,144.0,getsongbpm,4/4,76.0,7.0,What a Girl Wants,Christina Aguilera
+Savage Garden,I Knew I Loved You,6141f22d-eb62-476e-84f4-cba370df4d3d,A,major,86.0,getsongbpm,4/4,56.0,31.0,I Knew I Loved You,Savage Garden
+Mariah Carey featuring Joe and 98 Degrees,Thank God I Found You,,,,,,,,,,
+Lonestar,Amazed,db342644-3bfa-4673-80a3-2c716e72474f,A#,major,,getsongbpm,,,,Amazed (Huff mix),Lonestar
+Destiny's Child,Say My Name,e10225fc-3bce-4d98-8ad1-09cf00f0731c,C,minor,138.0,getsongbpm,4/4,72.0,28.0,Say My Name,Destiny's Child
+Santana featuring The Product G&B,Maria Maria,bf60040c-40a6-4c41-8f78-1d50c1daf305,,,,,,,,,
+Aaliyah,Try Again,73e6123c-84d9-405f-9c9a-f7378bc83a12,C#,minor,93.0,getsongbpm,4/4,64.0,27.0,Try Again,Aaliyah
+Enrique Iglesias,Be With You,de1b52ef-a6a0-4e81-8c68-5d7cc705ec24,E,major,122.013412476,acousticbrainz,,,,,
+Vertical Horizon,Everything You Want,744aed30-8bc2-4446-be3c-c4a9f37d3589,D#,minor,89.0834197998,acousticbrainz,,,,,
+Matchbox Twenty,Bent,ab81df60-1f49-4710-8fc7-a48c70a46593,F#,minor,95.0,getsongbpm,4/4,52.0,5.0,Bent,Matchbox Twenty
+NSYNC,It's Gonna Be Me,73c61962-bd46-4050-954f-75491f9f3918,C,minor,83.0,getsongbpm,4/4,64.0,5.0,It's Gonna Be Me,*NSYNC
+Sisqó,Incomplete,13ba29a7-56aa-4d72-8b06-bd1b10cb59a2,F,minor,119.985664368,acousticbrainz,,,,,
+Janet,Doesn't Really Matter,4479bd5e-358c-4283-b5bc-eb5df6b7ad53,A#,major,132.461921692,acousticbrainz,,,,,
+Madonna,Music,4551cac1-ac14-4b59-9a54-8d5fec47cf41,G,major,234.0,getsongbpm,4/4,74.0,1.0,Music,Madonna
+Christina Aguilera,Come On Over Baby (All I Want Is You),0030fa7c-d463-430e-8330-51f211d21e8a,,,,,,,,,
+Creed,With Arms Wide Open,fd1d9b30-2020-40f1-a23c-ebbe516c790b,C,major,138.0,getsongbpm,4/4,41.0,1.0,With Arms Wide Open,Creed
+Destiny's Child,Independent Women,5f5c6e51-632a-4b2b-8650-9bbb98067b03,F#,minor,97.0,getsongbpm,4/4,75.0,11.0,"Independent Women, Part 1",Destiny's Child
+Shaggy featuring Ricardo 'Rikrok' Ducent,It Wasn't Me,de621d95-3d86-4e2f-92ae-0030e35ab871,C,major,94.7223739624,acousticbrainz,,,,,
+Outkast,Ms. Jackson,6dda5be4-405c-409a-ba91-09ec2335351a,E,major,95.0035095215,acousticbrainz,,,,,
+Joe featuring Mystikal,Stutter,,,,,,,,,,
+Crazy Town,Butterfly,e444ca9f-5591-40ac-aab2-c285c3f9573c,A,minor,103.0,getsongbpm,4/4,74.0,1.0,Butterfly,Crazy Town
+Shaggy featuring Rayvon,Angel,f1622f94-49d9-4778-9c90-349aace569f7,F#,major,85.2140197754,acousticbrainz,,,,,
+Janet,All For You,7f45c473-f596-4bb5-a320-6216394ce4a2,D,major,112.0,getsongbpm,3/4,76.0,2.0,All for You,Janet Jackson
+"Christina Aguilera , Lil' Kim , Mýa and Pink",Lady Marmalade,,,,,,,,,,
+Usher,U Remind Me,994cad7b-4589-480d-9009-c5963ffdee03,F#,major,93.0,getsongbpm,4/4,66.0,20.0,U Remind Me,Usher
+Destiny's Child,Bootylicious,39dd2d2c-e32b-4ba3-9fd5-52e8b8136f84,C#,minor,103.0,getsongbpm,4/4,84.0,1.0,Bootylicious,Destiny's Child
+Alicia Keys,Fallin',a2debf52-f8b7-4568-903e-da0137090f48,A#,minor,93.9029464722,acousticbrainz,,,,,
+Jennifer Lopez featuring Ja Rule,I'm Real,,,,,,,,,,
+Mary J. Blige,Family Affair,426bc16a-44a1-457e-b3be-083a7a6e4eaf,C#,minor,92.0,getsongbpm,4/4,93.0,14.0,Family Affair,Mary J. Blige
+Usher,U Got It Bad,75b754d9-fbac-4202-8d3b-95a8e91f621b,C#,major,124.0,getsongbpm,4/4,82.0,3.0,U Got It Bad,Usher
+Nickelback,How You Remind Me,9557499f-2d02-417a-8241-697209139e16,C,minor,86.0,getsongbpm,4/4,45.0,1.0,How You Remind Me,Nickelback
+Ja Rule featuring Ashanti,Always on Time,6dd4c0e8-5d2c-4c90-9867-a0dcb9862e33,,,,,,,,,
+Jennifer Lopez featuring Ja Rule,Ain't It Funny,3c074127-874c-43a4-979f-03772f75dc6f,,,,,,,,,
+Ashanti,Foolish,cc7ff825-4430-461d-b1fc-07fc04a2f776,F,major,90.1939544678,acousticbrainz,,,,,
+Nelly,Hot in Herre,e3f9fd9a-c679-4a3e-9cba-1601555cab8f,B,minor,107.0,getsongbpm,4/4,96.0,21.0,Hot In Herre,Nelly
+Nelly featuring Kelly Rowland,Dilemma,f8f6017d-9d25-4b85-8318-05548cba94a1,C,major,166.557449341,acousticbrainz,,,,,
+Kelly Clarkson,A Moment Like This,164bd8bd-21e6-421a-8428-80e0ee874eed,F,minor,141.0,getsongbpm,4/4,48.0,15.0,A Moment Like This (new mix),Kelly Clarkson
+Eminem,Lose Yourself,5cf2a6e8-8643-4ab0-8e00-f4d0f749b25c,,,,,,,,,
+B2K featuring P. Diddy,"Bump, Bump, Bump",,,,,,,,,,
+Jennifer Lopez featuring LL Cool J,All I Have,,,,,,,,,,
+50 Cent,In da Club,114a5223-4f4b-4f6f-833c-b7e24e9a5c55,C#,major,89.9361419678,acousticbrainz,,,,,
+Sean Paul,Get Busy,9085439a-ab4a-4e9c-9020-7ff4ae0105d4,F,minor,100.0,getsongbpm,4/4,74.0,62.0,Get Busy,Sean Paul
+50 Cent featuring Nate Dogg,21 Questions,,,,,,,,,,
+Clay Aiken,This Is the Night,eea14307-be95-48eb-b1c7-c7c55054c839,E,major,98.8760681152,acousticbrainz,,,,,
+Beyoncé featuring Jay-Z,Crazy in Love,,,,,,,,,,
+"Nelly , P. Diddy and Murphy Lee",Shake Ya Tailfeather,,,,,,,,,,
+Beyoncé featuring Sean Paul,Baby Boy,,,,,,,,,,
+Ludacris featuring Shawnna,Stand Up,e222ec92-8e85-4046-900f-5bc125eca224,A#,minor,99.1902160645,acousticbrainz,,,,,
+Outkast,Hey Ya!,a0cc426b-4ce9-4268-8113-05bb4c6b61bb,C,major,79.5999298096,acousticbrainz,,,,,
+Outkast featuring Sleepy Brown,The Way You Move,9fafde0e-1231-4bdc-acc1-acd0a3ed1ea9,,,,,,,,,
+Twista featuring Kanye West and Jamie Foxx,Slow Jamz,65e01d3c-4344-47b6-b6f8-cda5c9758ea8,,,,,,,,,
+Usher featuring Lil Jon and Ludacris,Yeah!,4f595ab5-18bb-4007-b17d-066a0e704234,A#,major,105.011772156,acousticbrainz,,,,,
+Usher,Burn,c748279a-aa92-48ed-8edb-b9a925007ce7,C#,major,119.0,getsongbpm,4/4,80.0,32.0,Burn,Usher
+Fantasia,I Believe,ed07f692-9022-4820-98f6-be1d5aa6be18,G#,major,133.0,getsongbpm,4/4,53.0,36.0,I Believe,Fantasia
+Usher,Confessions Part II,317ce04e-3078-4df6-99a7-e6cc962ba796,,,,,,,,,
+Juvenile featuring Soulja Slim,Slow Motion,,,,,,,,,,
+Terror Squad,Lean Back,9d716087-c324-47fa-9715-30bdb7014ed6,C#,major,126.0,getsongbpm,5/4,70.0,13.0,Lean Back,Terror Squad
+Ciara featuring Petey Pablo,Goodies,152c2200-993c-4227-b4f3-a82d0b60956c,,,,,,,,,
+Usher and Alicia Keys,My Boo,8bb83472-daa1-489d-9731-449f5ea6e22c,F,major,86.499130249,acousticbrainz,,,,,
+Snoop Dogg featuring Pharrell,Drop It Like It's Hot,85bd5844-ddf2-4587-88bc-87cbfcd6ddb2,F,minor,91.98836135865,acousticbrainz,,,,,
+Mario,Let Me Love You,8f28626a-49c9-445f-a1b6-c7b1ef83e2fb,G,minor,94.0,getsongbpm,4/4,66.0,24.0,Let Me Love You,Mario
+50 Cent featuring Olivia,Candy Shop,,,,,,,,,,
+Gwen Stefani,Hollaback Girl,b9594419-48e7-48ff-aa38-1ee54f29dcc1,A#,minor,112.0,getsongbpm,4/4,92.0,35.0,Hollaback Girl,Gwen Stefani
+Mariah Carey,We Belong Together,ccf29e3f-9b4d-4f3d-adeb-705ebbe00ee3,C,major,69.0,getsongbpm,4/4,84.0,4.0,We Belong Together,Mariah Carey
+Carrie Underwood,Inside Your Heaven,1987fb92-0aff-4aef-881d-e43f264756ab,G,major,134.0,getsongbpm,4/4,38.0,13.0,Inside Your Heaven,Carrie Underwood
+Kanye West featuring Jamie Foxx,Gold Digger,,,,,,,,,,
+Chris Brown,Run It!,6043f016-b52b-4c76-96b0-086475818dfb,C#,minor,100.0,getsongbpm,4/4,85.0,3.0,Run It!,Chris Brown
+Mariah Carey,Don't Forget About Us,ba2c0e8e-4457-4d62-a7b8-8457dfe70943,A#,major,143.585723877,acousticbrainz,,,,,
+D4L,Laffy Taffy,66683d63-f3a0-4b9e-800a-e8e6fc3b75d4,G,minor,77.0,getsongbpm,4/4,90.0,4.0,Laffy Taffy,D4L
+"Nelly featuring Paul Wall , Ali & Gipp",Grillz,,,,,,,,,,
+Beyoncé featuring Slim Thug,Check on It,4a1ebbed-e673-4ef6-bfda-6e9d07f9ecc5,,,,,,,,,
+James Blunt,You're Beautiful,d9e335c2-8586-4d62-9d23-0ca29f148506,C,minor,81.0,getsongbpm,4/4,68.0,64.0,You're Beautiful,James Blunt
+Ne-Yo,So Sick,1d4fe488-1177-4e61-b0b6-c3c0a12c7e0c,,,,,,,,,
+Sean Paul,Temperature,3757cf8c-0118-4912-84f5-26ecba135bbd,C,minor,64.0,getsongbpm,4/4,96.0,11.0,Temperature,Sean Paul
+Daniel Powter,Bad Day,ef920e04-16a6-4b6b-811c-eda4cbf0b8da,D#,major,70.0,getsongbpm,4/4,60.0,45.0,Bad Day,Daniel Powter
+Rihanna,SOS,2ed98799-9611-43ec-90ac-0dea549bcd8e,F#,minor,137.0,getsongbpm,4/4,68.0,1.0,SOS,Rihanna
+Chamillionaire featuring Krayzie Bone,Ridin',7855470d-5a84-4afe-8aac-e7d63e8e6471,,,,,,,,,
+Shakira featuring Wyclef Jean,Hips Don't Lie,4c892b2c-07b0-4043-9701-50cebc5787e4,,,,,,,,,
+Taylor Hicks,Do I Make You Proud,ca82ab2f-97ed-4b34-85ed-0aa1311ed0c9,C#,major,144.041015625,acousticbrainz,,,,,
+Nelly Furtado featuring Timbaland,Promiscuous,18a6f622-fb42-42b4-82cc-3f8dd428547f,A#,minor,114.30632019,acousticbrainz,,,,,
+Fergie,London Bridge,938c68f1-193f-4908-8ca1-70d00256f8b2,F,minor,93.7737045288,acousticbrainz,,,,,
+Justin Timberlake,SexyBack,742a660f-7642-434a-b60c-b57339f7819c,A,major,117.027816772,acousticbrainz,,,,,
+Ludacris featuring Pharrell,Money Maker,da03fc4d-1c39-45a9-9c12-e7c037cd6ecd,,,,,,,,,
+Justin Timberlake featuring T.I.,My Love,80e76ab3-0114-4522-8d72-6b61d6047742,,,,,,,,,
+Akon featuring Snoop Dogg,I Wanna Love You,,,,,,,,,,
+Beyoncé,Irreplaceable,aa32e3f6-d6ff-47b3-b114-63fbc714c4f2,A,major,85.0987854004,acousticbrainz,,,,,
+Nelly Furtado,Say It Right,9304a399-14b7-43fd-946d-efdc977ac4dd,C#,major,117.0,getsongbpm,4/4,88.0,5.0,Say It Right,Nelly Furtado
+Justin Timberlake,What Goes Around... Comes Around,d4ab86d0-974a-49ba-a84e-dc16e0e49430,,,,,,,,,
+Mims,This Is Why I'm Hot,11e49bb4-8308-4572-9839-ae12d8335dbb,B,minor,79.9749450684,acousticbrainz,,,,,
+Fergie featuring Ludacris,Glamorous,42f1a2b3-6b20-4b46-872c-2dd0083921bb,F,major,131.057220459,acousticbrainz,,,,,
+Akon,Don't Matter,5020677b-fcf4-4fed-ae88-eb3e347f6cec,D,major,125.0,getsongbpm,4/4,79.0,24.0,Don't Matter,Akon
+Timbaland featuring Nelly Furtado and Justin Timberlake,Give It To Me,,,,,,,,,,
+Avril Lavigne,Girlfriend,192a4e13-d5d0-4096-a7dd-5cce62086644,D,major,150.125228882,acousticbrainz,,,,,
+Maroon 5,Makes Me Wonder,00b515cf-592d-4f84-9153-b700796797e0,A,minor,114.272407532,acousticbrainz,,,,,
+T-Pain featuring Yung Joc,Buy U a Drank (Shawty Snappin'),692a1b46-df4c-45ac-987c-a6d6fb6f125c,A#,minor,80.0001907349,acousticbrainz,,,,,
+Rihanna featuring Jay-Z,Umbrella,,,,,,,,,,
+Plain White T's,Hey There Delilah,f17610b8-6a90-469e-9032-937afd8c54ae,D,major,103.0,getsongbpm,4/4,51.0,84.0,Hey There Delilah,Plain White T's
+Sean Kingston,Beautiful Girls,9c2fc924-6dd9-4b2b-ab05-e4624e3f6ae3,A,major,130.0,getsongbpm,4/4,77.0,15.0,Beautiful Girls,Sean Kingston
+Fergie,Big Girls Don't Cry,e3643502-33ae-4293-9e92-7effa4771528,G,major,113.0,getsongbpm,4/4,72.0,24.0,Big Girls Don't Cry,Fergie
+Soulja Boy,Crank That (Soulja Boy),d6a0fbca-02d8-4190-a455-f17b0a590d06,C,major,140.0,getsongbpm,4/4,74.0,52.0,Crank That (Soulja Boy),Soulja Boy Tell 'Em
+Kanye West,Stronger,42fd484d-a783-42a9-9397-fcfd2ca50927,A#,major,172.265899658,acousticbrainz,,,,,
+Chris Brown featuring T-Pain,Kiss Kiss,,,,,,,,,,
+Alicia Keys,No One,2682b1c0-d322-4e14-b8de-d78a413876fe,C#,minor,89.0,getsongbpm,4/4,65.0,3.0,No One,Alicia Keys
+Flo Rida featuring T-Pain,Low,b0ef60b2-edb8-4115-90be-7e654d90aff5,,,,,,,,,
+Usher featuring Young Jeezy,Love in This Club,,,,,,,,,,
+Leona Lewis,Bleeding Love,4a607ce9-031b-4fa8-9793-32f9a71a8ae7,F,major,103.951690674,acousticbrainz,,,,,
+Mariah Carey,Touch My Body,bb3acb6e-2fca-4514-ad4a-37312d681b32,B,minor,78.0,getsongbpm,4/4,72.0,13.0,Touch My Body,Mariah Carey
+Lil Wayne featuring Static Major,Lollipop,,,,,,,,,,
+Rihanna,Take a Bow,414e72b4-66f6-4988-bfde-bd8b690d2467,,,,,,,,,
+Coldplay,Viva la Vida,944f8935-beea-43b9-89e3-b4f46312e2c9,F,minor,136.0,getsongbpm,4/4,49.0,10.0,Viva la Vida,Coldplay
+Katy Perry,I Kissed a Girl,e05bc3bc-194f-4db1-8e49-d6e881099144,A,minor,129.0,getsongbpm,4/4,70.0,1.0,I Kissed a Girl,Katy Perry
+Rihanna,Disturbia,5c6f94ff-408b-4c55-afb2-b1ff6b3642f4,,,,,,,,,
+T.I.,Whatever You Like,d382ab67-7630-4aaa-92e2-59a1f876e75b,D,minor,150.0,getsongbpm,4/4,68.0,2.0,Whatever You Like,T.I.
+Pink,So What,85121de2-33f7-4881-a55d-e069ce31cd53,,,,,,,,,
+T.I. featuring Rihanna,Live Your Life,,,,,,,,,,
+Britney Spears,Womanizer,64d6bbf3-f2c5-43e0-9c7c-54008b5a5da9,D,minor,136.0,getsongbpm,4/4,73.0,8.0,Womanizer,Britney Spears
+Beyoncé,Single Ladies (Put a Ring on It),b53cfafd-d5d0-42e8-b9c5-2e1ba29e2fd2,,,,,,,,,
+Lady Gaga featuring Colby O'Donis,Just Dance,0810268f-2e52-4f89-86be-42762ea3f6d4,E,major,119.049942017,acousticbrainz,,,,,
+Kelly Clarkson,My Life Would Suck Without You,83267cbd-e245-4ccd-b981-45eac5f197a2,A,major,144.887924194,acousticbrainz,,,,,
+Eminem featuring Dr. Dre and 50 Cent,Crack a Bottle,,,,,,,,,,
+Flo Rida,Right Round,486637c2-d77b-418a-b450-b4c6ac818387,G,major,123.0,getsongbpm,4/4,72.0,1.0,Right Round,Flo Rida
+Lady Gaga,Poker Face,8e82b8f6-57d4-4a3c-b616-cf3800aaa3b5,G#,minor,234.0,getsongbpm,4/4,85.0,14.0,Poker Face,Lady Gaga
+The Black Eyed Peas,Boom Boom Pow,2fac4526-1260-4991-b243-ab4ce000c2f9,C#,minor,129.99118042,acousticbrainz,,,,,
+The Black Eyed Peas,I Gotta Feeling,cb55bde4-c61d-4132-81b6-5f993fd2f20e,G,major,129.0,getsongbpm,4/4,75.0,9.0,I Gotta Feeling,The Black Eyed Peas
+Jay Sean featuring Lil Wayne,Down,,,,,,,,,,
+Britney Spears,3,f4545bea-ad00-45a0-9a6e-cc8f37e9f1f8,,,,,,,,,
+Owl City,Fireflies,329752d9-6582-4772-af3c-ae4c6e505439,D#,major,178.0,getsongbpm,4/4,60.0,3.0,Fireflies,Owl City
+Jason Derulo,Whatcha Say,05c27fba-b528-4bf3-8440-3b064068b649,B,major,144.0,getsongbpm,4/4,62.0,5.0,Whatcha Say,Jason Derulo
+Jay-Z featuring Alicia Keys,Empire State of Mind,,,,,,,,,,
+Kesha,Tik Tok,7aeafd39-273c-4a7a-9c85-d67b6c176f97,D,minor,234.0,getsongbpm,4/4,76.0,10.0,TiK ToK,Kesha
+The Black Eyed Peas,Imma Be,e46b4865-f6d0-49b9-ad46-b33eb094e9be,F,minor,145.0,getsongbpm,0/4,62.0,19.0,Imma Be,The Black Eyed Peas
+Taio Cruz featuring Ludacris,Break Your Heart,,,,,,,,,,
+Rihanna,Rude Boy,5b47ceb7-af37-4d92-a25c-125e341428b9,D#,minor,86.9818191528,acousticbrainz,,,,,
+B.o.B featuring Bruno Mars,Nothin' on You,,,,,,,,,,
+Usher featuring will.i.am,OMG,,,,,,,,,,
+Eminem,Not Afraid,997674f3-bec3-4470-ad94-d90600b33a7f,C,minor,112.0,getsongbpm,5/4,86.0,53.0,Not Afraid,Eminem
+Katy Perry featuring Snoop Dogg,California Gurls,,,,,,,,,,
+Eminem featuring Rihanna,Love the Way You Lie,,,,,,,,,,
+Katy Perry,Teenage Dream,351bd2f6-d20c-4fb4-a2c0-a910793f1562,A#,major,58.0,getsongbpm,4/4,72.0,2.0,Teenage Dream,Katy Perry
+Bruno Mars,Just the Way You Are,93a89b89-3a02-4501-a55b-ca1d8f6575da,A,minor,129.49887085,acousticbrainz,,,,,
+Far East Movement featuring The Cataracs and Dev,Like a G6,,,,,,,,,,
+Kesha,We R Who We R,7554b611-dfa7-4546-bba0-e1f4007a6519,,,,,,,,,
+Rihanna featuring Drake,What's My Name?,14837e1f-00c9-4a96-84a8-c3d38c03c995,,,,,,,,,
+Rihanna,Only Girl (In the World),6b02fdb5-f941-4326-b830-22bd5ac751a5,B,minor,125.0,getsongbpm,4/4,78.0,12.0,Only Girl (In the World),Rihanna
+Pink,Raise Your Glass,929e81d4-7225-4944-a851-b8e7c230b20a,,,,,,,,,
+Katy Perry,Firework,469c28b0-6e33-432a-bfe8-1b05922a7c9a,A,major,133.932037354,acousticbrainz,,,,,
+Bruno Mars,Grenade,dc9bbccb-5323-430c-80f1-11b5243b3b8a,D,minor,112.0,getsongbpm,4/4,71.0,15.0,Grenade,Bruno Mars
+Britney Spears,Hold It Against Me,9d8d5ec4-2ad1-41f5-aef7-a4874939d279,C,minor,132.0,getsongbpm,4/4,65.0,2.0,Hold It Against Me,Britney Spears
+Wiz Khalifa,Black and Yellow,b865320a-e34f-4657-bfef-6941c31df688,D,minor,164.0,getsongbpm,4/4,69.0,7.0,Black and Yellow,Wiz Khalifa
+Lady Gaga,Born This Way,bdbf93bb-2ed7-427f-a8d6-a0f144a23377,B,major,123.0,getsongbpm,4/4,59.0,1.0,Born This Way,Lady Gaga
+Katy Perry featuring Kanye West,E.T.,,,,,,,,,,
+Rihanna featuring Britney Spears,S&M,,,,,,,,,,
+Adele,Rolling in the Deep,4152ccd0-52ce-4a2e-8335-53e69dccd67d,B,minor,105.081199646,acousticbrainz,,,,,
+"Pitbull featuring Ne-Yo , Afrojack and Nayer",Give Me Everything,,,,,,,,,,
+LMFAO featuring Lauren Bennett and GoonRock,Party Rock Anthem,681f5f54-9010-433b-ad69-5cff6ad187f6,,,,,,,,,
+Katy Perry,Last Friday Night (T.G.I.F.),392c425b-e85e-4644-9f6f-15bebe3a91a0,D#,minor,126.0,getsongbpm,4/4,65.0,1.0,Last Friday Night (T.G.I.F.),Katy Perry
+Maroon 5 featuring Christina Aguilera,Moves Like Jagger,c832691f-fe0c-448a-bf22-54e28335627e,E,major,128.066818237,acousticbrainz,,,,,
+Adele,Someone Like You,fec3fd63-693d-4cb5-b98d-63a30e30e711,A,major,123.023048401,acousticbrainz,,,,,
+Rihanna featuring Calvin Harris,We Found Love,ecd3d6c0-a816-4030-b72f-78e8ff5b35c1,,,,,,,,,
+LMFAO,Sexy and I Know It,b37a2deb-6aad-4401-ba8e-574f643435c2,G,minor,130.0,getsongbpm,4/4,71.0,10.0,Sexy and I Know It,LMFAO
+Adele,Set Fire to the Rain,52f95f2c-dee1-4fb8-839f-c4a0dd67bd18,D,minor,108.0,getsongbpm,4/4,61.0,1.0,Set Fire to the Rain,Adele
+Kelly Clarkson,Stronger (What Doesn't Kill You),b33ab4b6-f32d-44e4-9c58-7df1f2ae72d5,,,,,,,,,
+Katy Perry,Part of Me,eca3290c-253d-458a-a5f2-f11dd1221648,A#,major,129.956085205,acousticbrainz,,,,,
+Fun featuring Janelle Monáe,We Are Young,9f7bac6a-0231-4fc3-b277-2a4c000ee606,A#,major,92.2810058594,acousticbrainz,,,,,
+Gotye featuring Kimbra,Somebody That I Used to Know,829a4c14-220f-4768-b09d-6de214cc5ba7,,,,,,,,,
+Carly Rae Jepsen,Call Me Maybe,9cd5a92b-4076-4638-ad7e-54351f275554,G,major,120.002838135,acousticbrainz,,,,,
+Flo Rida,Whistle,ce0458f1-d265-4885-b14e-4dc97c1126b2,C,major,103.0,getsongbpm,4/4,76.0,2.0,Whistle,Flo Rida
+Taylor Swift,We Are Never Ever Getting Back Together,d598179b-b742-434d-9409-e6fb49bf84af,G,major,86.0,getsongbpm,4/4,63.0,1.0,We Are Never Ever Getting Back Together,Taylor Swift
+Maroon 5,One More Night,d811f0d3-5a21-4085-86a1-3df6bdf3e394,F,minor,93.0,getsongbpm,4/4,71.0,6.0,One More Night,Maroon 5
+Rihanna,Diamonds,6f964e8c-ae56-4bcd-8a7c-1b80b848d9fb,B,minor,92.0,getsongbpm,4/4,56.0,1.0,Diamonds,Rihanna
+Bruno Mars,Locked Out of Heaven,20edb5bc-d4b7-41ab-8805-1bdbe03b0a83,D,minor,144.0,getsongbpm,4/4,73.0,5.0,Locked Out of Heaven,Bruno Mars
+Macklemore & Ryan Lewis featuring Wanz,Thrift Shop,,,,,,,,,,
+Baauer,Harlem Shake,40160b84-cc4b-4725-b688-d92d03e32a5a,A#,major,139.995437622,acousticbrainz,,,,,
+Bruno Mars,When I Was Your Man,efe74b8a-d985-4a4d-b3e5-053479cb6d1f,C,major,74.0,getsongbpm,4/4,62.0,94.0,When I Was Your Man,Bruno Mars
+Pink featuring Nate Ruess,Just Give Me a Reason,,,,,,,,,,
+Macklemore & Ryan Lewis featuring Ray Dalton,Can't Hold Us,2ec5a943-3cd5-49f2-b017-a85cb5f0d977,,,,,,,,,
+Robin Thicke featuring T.I. and Pharrell,Blurred Lines,,,,,,,,,,
+Katy Perry,Roar,ee67c49a-bd73-41b2-b40a-b6b7eabb956f,D#,major,90.2789535522,acousticbrainz,,,,,
+Miley Cyrus,Wrecking Ball,31ca1a47-2d58-463d-a900-0f7c17d76cae,F,major,117.0,getsongbpm,4/4,53.0,41.0,Wrecking Ball,Miley Cyrus
+Lorde,Royals,66da1adc-6c58-437e-a4b3-a4b54d9b1699,G,major,86.0,getsongbpm,4/4,62.0,11.0,Royals,Lorde
+Eminem featuring Rihanna,The Monster,,,,,,,,,,
+Pitbull featuring Kesha,Timber,,,,,,,,,,
+Katy Perry featuring Juicy J,Dark Horse,,,,,,,,,,
+Pharrell Williams,Happy,df329506-8bd1-45c5-8690-55362b20bbde,F,minor,160.0,getsongbpm,4/4,65.0,22.0,"Happy (From ""Despicable Me 2"")",Pharrell Williams
+John Legend,All of Me,e7aff317-0b68-424f-b401-f46c9a3ee50a,G#,major,118.0,getsongbpm,4/4,43.0,93.0,All of Me,John Legend
+Iggy Azalea featuring Charli XCX,Fancy,,,,,,,,,,
+Magic!,Rude,2ffc9678-e12f-48b5-b60a-4d6c26889ac7,C#,major,72.0,getsongbpm,4/4,75.0,5.0,Rude,MAGIC!
+Taylor Swift,Shake It Off,d5709c74-4202-4ee3-9c0f-87f94a66264b,G,major,162.0,getsongbpm,4/4,65.0,6.0,Shake It Off,Taylor Swift
+Meghan Trainor,All About That Bass,759edfb8-0b3c-4d4b-9538-a4e20f21f1e3,A,major,133.990066528,acousticbrainz,,,,,
+Taylor Swift,Blank Space,c3fe7791-0a91-4f0a-a89b-b056f38d3cde,A#,major,95.9965820312,acousticbrainz,,,,,
+Mark Ronson featuring Bruno Mars,Uptown Funk,,,,,,,,,,
+Wiz Khalifa featuring Charlie Puth,See You Again,,,,,,,,,,
+Taylor Swift featuring Kendrick Lamar,Bad Blood,d112254a-b6a1-4993-bdd9-ea4cd0926d4b,F,major,84.9023361206,acousticbrainz,,,,,
+Omi,Cheerleader,6bd3aaff-903d-43fe-a4cd-2c08072e5006,E,major,118.0,getsongbpm,4/4,78.0,15.0,Cheerleader (Felix Jaehn remix radio edit),OMI
+The Weeknd,Can't Feel My Face,ce967ef7-a630-4f25-8610-1f428241ee7e,A,minor,108.0,getsongbpm,4/4,71.0,12.0,Can't Feel My Face,The Weeknd
+Justin Bieber,What Do You Mean?,d97792d1-fffe-432c-87d9-2591292108c5,F,minor,125.0,getsongbpm,4/4,84.0,61.0,What Do You Mean?,Justin Bieber
+The Weeknd,The Hills,ee458835-f356-4b20-b6ac-03bc2f7f3d9e,F,minor,112.679237366,acousticbrainz,,,,,
+Adele,Hello,d480a418-345b-40c6-ac55-438e3e88563f,C,major,98.0,getsongbpm,4/4,66.0,97.0,Hello Babe,Madeleine Peyroux
+Justin Bieber,Sorry,5a3637a0-aa83-402c-b56e-e1f7304df316,A#,major,99.7155456543,acousticbrainz,,,,,
+Justin Bieber,Love Yourself,fb7b80f0-b618-4e1f-92be-f74115b6b689,E,major,98.0,getsongbpm,4/4,61.0,86.0,Love Yourself,Justin Bieber
+Zayn,Pillowtalk,56256957-f966-464a-82ed-38ac87764b83,,,,,,,,,
+Rihanna featuring Drake,Work,,,,,,,,,,
+Desiigner,Panda,0143f212-81c2-464d-b626-15e8cbd8f17d,,,,,,,,,
+Drake featuring WizKid and Kyla,One Dance,,,,,,,,,,
+Justin Timberlake,Can't Stop the Feeling!,724a69dc-6e30-4830-b8cc-f94085a8d505,,,,,,,,,
+Sia featuring Sean Paul,Cheap Thrills,,,,,,,,,,
+The Chainsmokers featuring Halsey,Closer,,,,,,,,,,
+Rae Sremmurd featuring Gucci Mane,Black Beatles,,,,,,,,,,
+The Weeknd featuring Daft Punk,Starboy,3da01a8e-3c71-408f-a9c7-0c4d10ad4e7d,A,minor,92.9884033203,acousticbrainz,,,,,
+Migos featuring Lil Uzi Vert,Bad and Boujee,,,,,,,,,,
+Ed Sheeran,Shape of You,87feb8b6-d5a9-4e0a-89bf-0e5e28591203,C#,minor,96.0,getsongbpm,4/4,83.0,59.0,Shape of You,Ed Sheeran
+Kendrick Lamar,Humble,79090285-645c-4154-8f99-5f367173b3a8,C#,minor,76.0,getsongbpm,4/4,91.0,1.0,HUMBLE.,Kendrick Lamar
+Bruno Mars,That's What I Like,de868033-cdf6-4303-9cdf-b52d9c396ef4,A#,minor,136.0,getsongbpm,4/4,86.0,2.0,That's What I Like,Bruno Mars
+"DJ Khaled featuring Justin Bieber, Quavo , Chance the Rapper and Lil Wayne",I'm the One,,,,,,,,,,
+Luis Fonsi and Daddy Yankee featuring Justin Bieber,Despacito,,,,,,,,,,
+Taylor Swift,Look What You Made Me Do,366f6112-b1bf-4e3a-a9a5-eb1d6309a812,A,minor,128.124465942,acousticbrainz,,,,,
+Cardi B,Bodak Yellow,91341a83-c7ba-4204-853d-46c74e3eab15,F,major,87.0354309082,acousticbrainz,,,,,
+Post Malone featuring 21 Savage,Rockstar,fd648aa9-1bf7-4489-8927-7b176701ed09,,,,,,,,,
+Ed Sheeran / Ed Sheeran and Beyoncé 1,Perfect,,,,,,,,,,
+Camila Cabello featuring Young Thug,Havana,,,,,,,,,,
+Drake,God's Plan,7bc3d832-09fb-4e57-a266-fd8cfa15b6f3,A,minor,153.23526001,acousticbrainz,,,,,
+Drake,Nice for What,922e248e-8b5c-44ec-878c-d05393e41f76,G#,major,93.0,getsongbpm,4/4,59.0,9.0,Nice For What,Drake
+Childish Gambino,This Is America,66ad7b87-b3f1-4e84-ac73-1f8c5f20b951,,,,,,,,,
+Post Malone featuring Ty Dolla Sign,Psycho,,,,,,,,,,
+XXXTentacion,Sad!,23bffd6e-cbcd-4b94-aecd-eb166731b939,G#,major,75.0,getsongbpm,4/4,74.0,26.0,SAD!,XXXTENTACION
+"Cardi B, Bad Bunny and J Balvin",I Like It,e6e2b27b-2de0-445d-b4a8-bc722c3ebcfe,F,minor,135.985671997,acousticbrainz,,,,,
+Drake,In My Feelings,dd6c0aa4-9b13-45e3-bac9-6f45f7c0607d,A#,major,91.0182037354,acousticbrainz,,,,,
+Maroon 5 featuring Cardi B,Girls Like You,,,,,,,,,,
+Ariana Grande,"Thank U, Next",e360a29c-bd6a-4a5c-8d11-fe9cf56ec22f,C#,major,108.0,getsongbpm,4/4,73.0,29.0,"thank u, next",Ariana Grande
+Travis Scott,Sicko Mode,b7326a80-8332-4ee0-8238-d6737efba347,A#,major,154.81523132299998,acousticbrainz,,,,,
+Halsey,Without Me,91d1ebb0-aff0-4b6c-9c5a-ec1d87dc2fe4,D#,minor,136.0,getsongbpm,4/4,76.0,30.0,Without Me,Halsey
+Post Malone and Swae Lee,Sunflower,bad7d100-74a7-4630-95d0-906773201342,,,,,,,,,
+Ariana Grande,7 Rings,3d87bbda-4f72-4a18-8906-545c2da6cc26,C#,minor,139.899002075,acousticbrainz,,,,,
+Lady Gaga and Bradley Cooper,Shallow,31efbe4d-0e4c-47a4-9a77-a7e5ad0588f4,,,,,,,,,
+Jonas Brothers,Sucker,7a34bd38-f0ce-4416-ace7-63555e91b6b5,C#,minor,68.0,getsongbpm,4/4,85.0,5.0,Sucker,Jonas Brothers
+Lil Nas X / Lil Nas X featuring Billy Ray Cyrus 2,Old Town Road,,,,,,,,,,
+Billie Eilish,Bad Guy,1c5f75c9-a45b-490a-9795-a81ba791495a,G,minor,136.0,getsongbpm,4/4,70.0,33.0,bad guy,Billie Eilish
+Shawn Mendes and Camila Cabello,Señorita,62f09fd2-144a-439a-96f9-ce93f05b48ae,F,major,117.024681091,acousticbrainz,,,,,
+Lizzo,Truth Hurts,1e88ada8-7fea-49d0-9e21-0413485fc694,,,,,,,,,
+Travis Scott,Highest in the Room,1ac7b5b2-ede9-43a7-a01d-3d71b32a768d,A#,major,152.33253479,acousticbrainz,,,,,
+Lewis Capaldi,Someone You Loved,b93a9919-eb39-4c3d-87c9-5aac34c3e5b0,C#,major,108.0,getsongbpm,4/4,51.0,76.0,Someone You Loved,Lewis Capaldi
+Selena Gomez,Lose You to Love Me,87370e5e-be85-4708-94dd-389a2b471ada,E,major,102.484855652,acousticbrainz,,,,,
+Post Malone,Circles,b71b9743-0f39-48f4-9d0e-9de3aa9d90d1,C,major,117.0,getsongbpm,4/4,70.0,20.0,Circles,Post Malone
+The Weeknd,Heartless,28a19b0a-16bd-45d2-ae70-d6dadf3ae82b,A#,minor,172.2656784055,acousticbrainz,,,,,
+Mariah Carey,All I Want for Christmas Is You,06608efc-cf12-4033-9f43-0f5d760ec36a,F#,major,149.970474243,acousticbrainz,,,,,
+Roddy Ricch,The Box,39a5b23d-a961-4cc1-8b63-ba1f52c3402d,A#,minor,116.0,getsongbpm,4/4,90.0,11.0,The Box,Roddy Ricch
+The Weeknd,Blinding Lights,9ce40394-cfc8-43fe-aa14-a36f61680cd3,C,minor,172.0,getsongbpm,4/4,52.0,1.0,Blinding Lights,The Weeknd
+Drake,Toosie Slide,de4c54c9-6171-4cec-8866-d5f41b24d51d,C#,major,108.339454651,acousticbrainz,,,,,
+The Scotts ( Travis Scott and Kid Cudi ),The Scotts,,,,,,,,,,
+Doja Cat featuring Nicki Minaj,Say So,,,,,,,,,,
+Ariana Grande and Justin Bieber,Stuck with U,3677afe5-efc7-44cc-b4f9-b30979bf6b70,,,,,,,,,
+Megan Thee Stallion featuring Beyoncé,Savage,,,,,,,,,,
+Lady Gaga and Ariana Grande,Rain on Me,68e67893-988f-45b6-85c8-baae54a75b9f,,,,,,,,,
+DaBaby featuring Roddy Ricch,Rockstar,,,,,,,,,,
+6ix9ine and Nicki Minaj,Trollz,7942c2d4-de48-43e9-9ce9-a3b154d11bb3,A#,minor,178.205429077,acousticbrainz,,,,,
+Taylor Swift,Cardigan,6d8c42e0-d619-4cfa-8aaa-438d1f56928d,C,minor,130.0,getsongbpm,4/4,62.0,54.0,cardigan,Taylor Swift
+Harry Styles,Watermelon Sugar,1ab009f2-d713-4f85-b4a3-c383c344e24a,G,major,95.1246185303,acousticbrainz,,,,,
+Cardi B featuring Megan Thee Stallion,WAP,,,,,,,,,,
+BTS,Dynamite,2e3df1b2-7d1e-4300-8bdb-48784a9c40fc,,,,,,,,,
+Travis Scott featuring Young Thug and M.I.A.,Franchise,,,,,,,,,,
+"Jawsh 685 , Jason Derulo and BTS",Savage Love (Laxed - Siren Beat),,,,,,,,,,
+24kGoldn featuring Iann Dior,Mood,,,,,,,,,,
+Ariana Grande,Positions,cbd36f93-0924-4ab1-ad96-30eba20d8af7,,,,,,,,,
+BTS,Life Goes On,7e36230c-fc8b-44f7-ad0b-6924bf34dde0,C#,major,162.177597046,acousticbrainz,,,,,
+Taylor Swift,Willow,c0725352-16ad-4270-9eb4-140a46c09cf3,,,,,,,,,
+Olivia Rodrigo,Drivers License,88af1d59-e809-48bb-8a89-745bd05f0ae0,A#,major,143.8615341185,acousticbrainz,,,,,
+Drake,What's Next,6a4e186a-d0ff-4091-a2f7-e86fdfa7dac0,,,,,,,,,
+Cardi B,Up,136cdd95-f99b-4c0a-8c58-4b584c50fc05,A#,major,110.478908539,acousticbrainz,,,,,
+Justin Bieber featuring Daniel Caesar and Giveon,Peaches,,,,,,,,,,
+Lil Nas X,Montero (Call Me by Your Name),1e3d9645-0f8f-4c99-b49b-b29f60bdf983,,,,,,,,,
+Silk Sonic ( Bruno Mars and Anderson .Paak ),Leave the Door Open,,,,,,,,,,
+Polo G,Rapstar,e8580ecd-476f-4c6e-b0d2-d0dca017d628,A#,minor,162.346572876,acousticbrainz,,,,,
+The Weeknd and Ariana Grande,Save Your Tears,dddb96cb-6476-4916-9946-005e50a02224,,,,,,,,,
+Olivia Rodrigo,Good 4 U,f4053f4c-c710-414d-8b7d-434dcb304e02,,,,,,,,,
+BTS,Butter,4b38141e-404e-4a32-bbf6-6a0c3dacc377,,,,,,,,,
+BTS,Permission to Dance,25470481-3b01-4375-874e-1c6202cf4300,,,,,,,,,
+The Kid Laroi and Justin Bieber,Stay,21d852bf-c5ab-4cfb-b1fb-9e8067f6de02,C#,major,172.265731812,acousticbrainz,,,,,
+Drake featuring Future and Young Thug,Way 2 Sexy,,,,,,,,,,
+Coldplay and BTS,My Universe,79928e25-7ac9-43c8-9615-6ba4da3671fd,,,,,,,,,
+Lil Nas X and Jack Harlow,Industry Baby,13dac323-afa2-4787-a21b-d18275a3869b,A#,minor,150.1034774785,acousticbrainz,,,,,
+Adele,Easy on Me,a7720370-b5a1-49b0-983a-85081f0bcbfe,A#,major,142.170211792,acousticbrainz,,,,,
+Taylor Swift,All Too Well (Taylor's Version),f659b5ea-2842-485c-a9c9-398bada38492,,,,,,,,,
+"Carolina Gaitán , Mauro Castillo, Adassa , Rhenzy Feliz , Diane Guerrero , Stephanie Beatriz and the Encanto cast",We Don't Talk About Bruno,,,,,,,,,,
+Glass Animals,Heat Waves,ba41bbef-81c5-465b-8bc1-127d6e2300d2,B,major,162.0,getsongbpm,4/4,77.0,44.0,Heat Waves,Glass Animals
+Harry Styles,As It Was,5c942492-9757-4817-b8e8-7d41cf19adb6,,,,,,,,,
+Jack Harlow,First Class,ea490446-4298-44c3-b7e0-a51464fa7293,,,,,,,,,
+Future featuring Drake and Tems,Wait for U,,,,,,,,,,
+Drake featuring 21 Savage,Jimmy Cooks,,,,,,,,,,
+Lizzo,About Damn Time,575486b5-df35-4d3a-8013-b783e3f0fcd8,,,,,,,,,
+Beyoncé,Break My Soul,0f2c16ee-f317-4c07-80af-60c0cd4aaba2,,,,,,,,,
+Nicki Minaj,Super Freaky Girl,e82e5534-7e57-4d4e-9334-2f231f3a4a14,,,,,,,,,
+Steve Lacy,Bad Habit,2a2451ae-bd7d-4308-963e-936e7bc6985c,,,,,,,,,
+Sam Smith and Kim Petras,Unholy,192380e9-228f-43b4-9647-796e19c417d3,,,,,,,,,
+Taylor Swift,Anti-Hero,7eb7f039-0da0-4afa-bd34-fed14f23f410,,,,,,,,,
+Miley Cyrus,Flowers,a02ab3b2-fb2d-45af-912d-79140ec05b58,,,,,,,,,
+The Weeknd and Ariana Grande,Die for You,86fdb3f0-8f96-4098-af57-ab0e12d6e41c,,,,,,,,,
+Morgan Wallen,Last Night,33e56580-0062-4142-904f-073a2f7d2714,,,,,,,,,
+Jimin,Like Crazy,2070aff4-5a79-4772-b08e-254a0832eb64,,,,,,,,,
+SZA,Kill Bill,9518b4ec-3efc-4319-b516-3b649373362a,,,,,,,,,
+Olivia Rodrigo,Vampire,139f37dc-cbf5-4544-94dc-8524afcc53d9,,,,,,,,,
+Jung Kook featuring Latto,Seven,,,,,,,,,,
+Jason Aldean,Try That in a Small Town,611c8586-28e3-408c-9284-27676887e667,,,,,,,,,
+Oliver Anthony Music,Rich Men North of Richmond,,,,,,,,,,
+Zach Bryan featuring Kacey Musgraves,I Remember Everything,,,,,,,,,,
+Doja Cat,Paint the Town Red,184af3e5-22da-4d6d-9014-1cc115e073ec,,,,,,,,,
+Drake featuring SZA,Slime You Out,,,,,,,,,,
+Drake featuring J. Cole,First Person Shooter,,,,,,,,,,
+Taylor Swift,Cruel Summer,f590e79e-0980-4339-a05e-41843b558d6b,A,major,84.0,getsongbpm,4/4,56.0,12.0,Cruel Summer,Taylor Swift
+Taylor Swift,Is It Over Now?,e8970b44-7457-43c5-86be-e2a53b46d453,,,,,,,,,
+Jack Harlow,Lovin on Me,66dcab8d-4226-439e-be21-20d343fda45e,,,,,,,,,
+Brenda Lee,Rockin' Around the Christmas Tree,c69bf088-cac9-4db0-9346-c10fdcdf92fb,G#,major,144.0,getsongbpm,4/4,68.0,66.0,Rockin' Around the Christmas Tree,Brenda Lee
+Ariana Grande,"Yes, And?",323326b7-40b4-44e9-97c7-7b364ad06927,,,,,,,,,
+Megan Thee Stallion,Hiss,62a599d1-0c99-4829-afff-edb1cdb5f8ea,,,,,,,,,
+Beyoncé,Texas Hold 'Em,84d22506-be1a-4b9b-b843-64127ea21927,,,,,,,,,
+¥$ : Ye and Ty Dolla Sign featuring Rich the Kid and Playboi Carti,Carnival,,,,,,,,,,
+Ariana Grande,We Can't Be Friends (Wait for Your Love),bd4e09dc-44ef-4754-b33f-5fc3f0567c00,,,,,,,,,
+Teddy Swims,Lose Control,236c660c-ab9f-4d35-9659-aa47f256b1bf,,,,,,,,,
+"Future, Metro Boomin and Kendrick Lamar",Like That,2ff3004d-2873-43d4-8752-2bc348f017ad,,,,,,,,,
+Hozier,Too Sweet,abc45ef4-a3a9-42bb-a14c-09c77f26936d,,,,,,,,,
+Taylor Swift featuring Post Malone,Fortnight,a06d6b37-9cae-40a5-806d-1a3c4f8098c0,,,,,,,,,
+Kendrick Lamar,Not Like Us,5a1f1b44-4aad-415c-9076-986050462f72,,,,,,,,,
+Post Malone featuring Morgan Wallen,I Had Some Help,,,,,,,,,,
+Sabrina Carpenter,Please Please Please,726b5875-2297-44c8-bf1f-f76de3043b4c,,,,,,,,,
+Shaboozey,A Bar Song (Tipsy),b2126807-a813-4739-b47a-5929f45652f4,,,,,,,,,
+Morgan Wallen,Love Somebody,54413a65-2d19-4882-af75-470d153b2849,,,,,,,,,
+Kendrick Lamar,Squabble Up,727f0bf9-3c51-41f5-a86e-c8e163f38d3d,,,,,,,,,
+Lady Gaga and Bruno Mars,Die with a Smile,098ed81a-fa33-4212-ac6d-2cc19dde5fef,,,,,,,,,
+Travis Scott,4x4,d1b1a123-9785-4c88-8ec3-bfc0b0954635,,,,,,,,,
+Kendrick Lamar and SZA,Luther,ed40f67b-df2d-47bc-a22b-4ebdc2e6f15d,,,,,,,,,
+Morgan Wallen featuring Tate McRae,What I Want,,,,,,,,,,
+Alex Warren,Ordinary,0cf8e086-3f73-41b1-b6a2-5c969bb28c83,,,,,,,,,
+Sabrina Carpenter,Manchild,44a89ba2-3f6f-46e1-bc7e-8c4676203b69,,,,,,,,,
+"Huntrix : Ejae , Audrey Nuna and Rei Ami",Golden,,,,,,,,,,
+Taylor Swift,The Fate of Ophelia,1d8c79f6-e255-4f31-9953-1c1139604ddd,,,,,,,,,
+Bruno Mars,I Just Might,b6f0f7d5-97d9-4ec3-a1e8-7f15bea23b96,,,,,,,,,
+Harry Styles,Aperture,2b1c66e1-4023-4294-813a-9d7d921bffbc,,,,,,,,,
+Ella Langley,Choosin' Texas,f952e3d7-b321-4b76-ab12-e6f6b864ca19,,,,,,,,,
+Bad Bunny,DTMF,5098d5cd-7f48-4cd7-8928-43e4f84cae0f,,,,,,,,,
+Taylor Swift,Opalite,d988a74c-a0a2-4964-98fc-2296f7956087,,,,,,,,,
+BTS,Swim,cb50b866-5dc2-4b30-ac25-4293aedabcea,,,,,,,,,
+Olivia Rodrigo,Drop Dead,462121f7-d306-4b5f-81f1-fb042d08d962,,,,,,,,,
+Drake,Janice STFU,6398d2b8-058c-41b2-b91c-df4c06478273,,,,,,,,,
+Ariana Grande,Hate That I Made You Love Me,ac849ae0-384b-4f6d-bbd1-cc1fdf42f6e7,,,,,,,,,
+Taylor Swift,"I Knew It, I Knew You",7a1be52b-6cc4-4f8d-9a3f-3cc7b328b135,,,,,,,,,

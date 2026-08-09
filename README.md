@@ -32,7 +32,7 @@ To say anything about what makes a #1 *different* from just "a hit," we compare 
 ## Status
 
 - [x] Phase 1: Foundation dataset — 1,201 #1s, 1958–present
-- [ ] Phase 2: Musical features — in progress (MusicBrainz matching: 1,100/1,194; AcousticBrainz key/tempo: 272/1,100; GetSongBPM backfill pending)
+- [x] Phase 2: Musical features (key, scale, tempo) — 857/1,194 unique songs covered (72%): 272 from AcousticBrainz (audio-derived, trusted primary), 585 from GetSongBPM (crowd-reported, backfill only). Every row records its `key_source`. Chord progressions and song structure remain deferred — no clean bulk/legal source found (see Phase 2 research notes in project history).
 - [ ] Phase 3: Lyrical features
 - [ ] Phase 4: Statistical analysis
 - [ ] Phase 5: Living pipeline
